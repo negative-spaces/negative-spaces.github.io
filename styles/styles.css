@@ -1,0 +1,12 @@
+/* TEXT */
+
+p {
+    font-family: "My Custom Font";
+    src: url(/styles/Inconsolata/Inconsolata-VariableFont_wdth_wght.ttf) format("truetype");
+    font-size: 11pt;
+    line-height: 1.4;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 25%;
+    margin-left: 25%;
+}
