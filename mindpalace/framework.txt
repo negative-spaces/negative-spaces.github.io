@@ -1,5 +1,67 @@
-Structural organization: sections will be grouped under DEEP MAPPING as CONSTRUCTIVE INTERFERENCE a) with the basemap b) with established forms of knowledge production c) with accepted ways of rendering research public d)
+Structural organization: sections will be grouped under DEEP MAPPING as CONSTRUCTIVE INTERFERENCE a) with the basemap b) with established forms of knowledge production c) with accepted ways of rendering research public 
+    {  d) maybe something about rhythms, time, and iteration through theory and practice, though this can be covered in b)
+
+Multiple navigations will be offered which guide the interlocutor through sections contained within the above groupings in unique pathways. 
+
+    With the basemap (critical cartography, embodied ways of knowing place), with established forms of knowledge production (practice based, slow scholarship, process orinted, time, metrics), with acceted ways of rendering research (research creation and creative outputs talk about space) 
 
 
- With the basemap (critical cartography, embodied ways of knowing place), with established forms of knowledge production (practice based, slow scholarship, process orinted, time, metrics), with acceted ways of rendering research (research creation and creative outputs talk about space) 
+Prologue
+    over-view - small scale - introductory sweep of project
+    see ./deep-mapping.txt
+
+FIELD 
+    EXPANDED FIELD
+    Fieldwork
+ 
+NAVIGATIONS 
+    of site, of field, of concepts 
+
+    iterative loops
+        through theory and practice
+
+    enacting slow scholarship/revalorizing process --> journey/navigation is a site of learning
+
+    research creation --> my work practice based rather than practice led bc generating knwoledge from creative practice
+    or put this in b)
+
+    Lure? 
+
+DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
+
+    THE BASEMAP
+        maybe move autoethnography of TAing cartography here, or flush out further. 
+        Critical cartography of basemap, 2D, flattened. 
+            Google maps, "tyranny of orientation" (Kurgan)
+        Theorizing from the bridge, from the plaza --> perspective, context
+
+    BEYOND THE BASEMAP (beyond the monochrome)
+        cartographies beyond the basemap - maps and mapping practices that counter cartesian conventions by orienting towards embodied ways of knowing place
+                https://miro.com/app/board/uXjVOBSIPV8=/
+                https://miro.com/app/board/o9J_lJPhC2g=/
+                (cite magrane, cresswell, d leeuw, aaker, gurney, calvino, bonnet, hand drawn maps, larissa fassler, disorientation guides; maps that use software creatively → Enfolding for example, feral atlas, atlas of radical geographies etc)
+
+        Deep Mapping: bring in literature and outline my practice as I draw from psychogeography and rhythmanalysis
+        Field notes etc. will be separate page, but throughout text I will link to note or expressly articulate how concept/connection/idea came to me while deep mapping - from thinking WITH the field. 
+
+DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PRODUCTION
+
+    TACTICS (vs. strategies --> alternative methods) Citing all those on methods, modes, materials
+    (ways of being, operating, modes of doing, eclectic methodologicalism and spatial/bricolage)
+    neurodivergence, intuition, lure, drive, derive, contour, affect, sensorium
+    SLOW SCHOLARSHIP
+    PRAXIS based
+        my work practice based rather than practice led bc generating knwoledge from creative practice
+
+DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ACCEPTED WAYS OF RENDERING RESEARCH (PUBLIC)
+    
+    RESEARCH-CREATION
+    deep mapping as research-creation 
+
+    MAKING SPACE 
+        about this space
+        making do/learning through doing
+        revalorizing process --> commit history
+        spatiality of git 
+
 
