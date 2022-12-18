@@ -8,35 +8,47 @@ Multiple navigations will be offered which guide the interlocutor through sectio
 
 Prologue
     over-view - small scale - introductory sweep of project
-    see ./deep-mapping.txt
+    see ./prologue.txt
 
 FIELD 
+    see ./field.txt
+    Situating self in place (vancouver) --> point of orign (0,0) 
     EXPANDED FIELD
-    Fieldwork
- 
+    Fieldwork --> practice 
+    Probematising The City as noun/subject/field --> de Certeau
+    Situate within disciplinary field --> transdisciplinary? polydisciplinary (loveless)
+        Creative Humanities, Geohumanities, Cartography, Geography, Digital Geography - 
+
 NAVIGATIONS 
     of site, of field, of concepts 
-
     iterative loops
         through theory and practice
-
     enacting slow scholarship/revalorizing process --> journey/navigation is a site of learning
-
     research creation --> my work practice based rather than practice led bc generating knwoledge from creative practice
     or put this in b)
-
-    Lure? 
+    Following curiosity --> Lure
 
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
-
     THE BASEMAP
-        maybe move autoethnography of TAing cartography here, or flush out further. 
+        see basemap.txt
         Critical cartography of basemap, 2D, flattened. 
             Google maps, "tyranny of orientation" (Kurgan)
-        Theorizing from the bridge, from the plaza --> perspective, context
+                    
+        Theorizing from the bridge, from the plaza --> scale, perspective, context
+            Certeau on Walking in the city chapter:
+                "His eleveation transfigures him into a voyeur... It puts him at a distance. It ransforms the bewitching world by which one was "posessed" into a text that lies before one's eyes. It allows one to read it, to be a solar Eye, looking down like a god. The exaltation of a scopic and gnostic drive: the fiction of knowledge is related to this lust to be a viewpoint and nothing more." (92)
+
+                ..."Escaping the imaginary totalizations produced by the eye, the everyday has a certain strangeness that does not surface, or whose surface is only the upper limit, outlining itself against the visible." (93)
+
+                >In the chapter Certeau outlines practices outside/counter to geometrical, panoptic, visual geographies and theoretical constructions... Beyond the surfice of the 2D aerial view of the city. 
+
+                >Map --> tool of spatial/urban rhetoric
+
+            Segway to deep mapping through de Certeau's footsteps --> practices of space 
 
     BEYOND THE BASEMAP (beyond the monochrome)
         cartographies beyond the basemap - maps and mapping practices that counter cartesian conventions by orienting towards embodied ways of knowing place
+                Briefly review counter cartographies 
                 https://miro.com/app/board/uXjVOBSIPV8=/
                 https://miro.com/app/board/o9J_lJPhC2g=/
                 (cite magrane, cresswell, d leeuw, aaker, gurney, calvino, bonnet, hand drawn maps, larissa fassler, disorientation guides; maps that use software creatively → Enfolding for example, feral atlas, atlas of radical geographies etc)
@@ -46,12 +58,12 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
 
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PRODUCTION
 
-    TACTICS (vs. strategies --> alternative methods) Citing all those on methods, modes, materials
+    TACTICS (vs. strategies (de certeau) --> alternative methods) Citing all those on methods, modes, materials
     (ways of being, operating, modes of doing, eclectic methodologicalism and spatial/bricolage)
     neurodivergence, intuition, lure, drive, derive, contour, affect, sensorium
     SLOW SCHOLARSHIP
     PRAXIS based
-        my work practice based rather than practice led bc generating knwoledge from creative practice
+        my work practice based rather than practice led bc generating knowledge  from creative practice
 
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ACCEPTED WAYS OF RENDERING RESEARCH (PUBLIC)
     
