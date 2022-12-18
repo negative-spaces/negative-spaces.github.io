@@ -15,8 +15,6 @@ The Field
          being moved/transformed by field (Certeau, Loveless, Acker)
             "Place impels me; it is the actor. Place unfurls around me; it becomes the subject." 132 Lyric Geography by Maleea Acker
 
-
-
 Navigation 
     {navigations within a field articulate a framework, a mental map,  - there are multiple ways to connect concepts, multiple pathways to understanding, multiple routes to a destination.process oriented recognizes the navigation as a site of learning}
 
@@ -39,8 +37,6 @@ Non-linearity (everything here is connected despite the formatting)
 
         >place writings (Cresswell's Maxwell Street), collage, topopoetics, geopoetics, 
     Memory
-
-Lost (v.)
 
 Orientation/Disorientation
     (dare i include, map)
@@ -71,7 +67,6 @@ Intuition
     time, future pull (navigation/orientation/bearing)
     bearing (compass)
 
-
 Praxis, Process, Practice 
 Writing Geography, actually enacting knowledge production differently (Priti and Emily paper)
     Navigations of everyday life: 
@@ -82,9 +77,11 @@ Practice Based Research
 Research-Creation (Loveless, Trouman ed., ?Roussell?, )
     “Research-creation follows desire, and builds spaces and contexts that allow time and space to experiment in unpredictable directions… Research creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as valid object and method, with in which disciplinary framework, where, when, and how” (Loveless 71)
 
-    “GeoHumanities…do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. 
+        “GeoHumanities…do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. 
 
-    … what might GeoHumanities do, and what might it mean to do the GeoHumanities? …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
+        … what might GeoHumanities do, and what might it mean to do the GeoHumanities? …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
+
+        "Looking across the contributions we see publics as collaborators, as knowledge producers, and as constituencies who incite the production of knowledge." (Hawkins et al)
 
     
     .
@@ -101,8 +98,6 @@ Research-Creation (Loveless, Trouman ed., ?Roussell?, )
 
          -- Critical Concepts for the creative humanities - van der tuin and verhoeff
 
-* - my own concepts
-
 *Thinking with the field ^creative humanities
 
 *Assuming the field / the city as co-author
@@ -117,7 +112,13 @@ Research-Creation (Loveless, Trouman ed., ?Roussell?, )
     Expanding the monochrome 
         Dialectic, Tension, (surface tension of a bubble)
 
-    It's a practice of reflexively inhabiting the world. Deep mapping is a praxis of (creative, political, disciplinary) intervention, of valorizing process (slow scholarship), of being open - open sponteneity, serendipity, and the possibility of being transormed by the field entered. 
+    
+        Diffraction
+            >Haraway
+            >Barad
+            >van der Tuin
+
+    It's a practice of [reflexively] inhabiting the world. Deep mapping is a praxis of (creative, political, disciplinary) intervention, of valorizing process (slow scholarship), of being open - open sponteneity, serendipity, and the possibility of being transormed by the field entered. 
     
 *Rhythm exceeds measure 
     quantification, measurable output
@@ -189,7 +190,6 @@ Research-Creation (Loveless, Trouman ed., ?Roussell?, )
     gaining perspectie, vantage
     theorizing; abstracting
     above (critique of aerial view from above by de certeau)
-    
 
 interdisciplinarity --> co writing - "being on the same page" 
 
@@ -201,5 +201,9 @@ itertextuality
         Italo Calvino. My all time favorites. I like to put texts into conversation first amongst themselves. In my bag
         they rest against one another, interlap even with one a bookmark for the other.
         Books read me as I read them. I open myself as I open them: read me. What else is there to say?
-analogue
-adhd methods 
+
+neurodivergence
+    neuroqueer
+    adhd methods 
+        analogue
+        
