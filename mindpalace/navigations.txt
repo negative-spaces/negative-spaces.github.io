@@ -14,6 +14,10 @@ NAVIGATIONS
             
     Walking as a practice of thinking. Walking the Bridge. Vertical distance --> perspective/contexe, theorizing made more possible.  
 
+    process oriented recognizes the navigation as a site of learning. 
+    bus ride as fieldwork
+    >>slow scholarship 
+    >presence
 
 Detour 
         From my field notes, and written into the white space of A brief history of my body, by Billy-Ray Belcourt:
@@ -36,6 +40,10 @@ Lost (v.) Losing
     I lost my initial project outline when my computer broke unexpectedly. For two months (October - November) I worked analogue and between a friend's computer and the public library. Finally buying a new device I learned I'd have to wait till January to recover srivener files backed up (once, on a whim, call that spontaneous serendipity) to the cloud. 
 
     Losing my outline and writings from the fall was disorienting. However, it allowed for the re-formation of my thoughts and the push to figure out a different way to organize my writing. Without this detour I wouldn't have thought to use a code editor to write, git to save and track changes, and GitHub to organize my text in process. 
+
+
+    Deep mapping is an exercise in slow scholarship: it takes time to know a place, to follow curiosity, to become lost. 
+
 
 Orientation/Disorientation
     Like many colleagues, beginning a graduate program meant moving to a new city, biome, country. I arrived in Vancouver on the unceded lands of Coast Salish First Nations, disoriented.  I graded sixty maps of downtown before I finally ventured there. [insert paragraph from lecture I gave but the contents of which I lost to the cloud pending account recovery on january 9th.]
