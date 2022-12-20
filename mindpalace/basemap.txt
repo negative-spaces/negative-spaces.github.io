@@ -1,0 +1,39 @@
+Google maps as basemap in cartography class
+Memorizing contour but does that reflect lived experience?
+Tyranny of orientation
+Flat maps
+
+(write more when I recover files from lecture I gave)
+
+ THE BASEMAP
+        see basemap.txt
+        Critical cartography of basemap, 2D, flattened. 
+            Google maps, "tyranny of orientation" (Kurgan)
+                        "It seems as though in the end, maps —the successful ones, the ones that show us where we are and get us from here to there —risk offering only two alternatives. They let us see too much, and hence blind us to what we cannot see, imposing a quiet tyranny of orientation that erases the possibility of disoriented discovery, or they lose sight of all the other things that we ought to see. They omit, according to their conventions, those invisible lines of people, places, and networks that create the most common spaces we live in today." (Laura Kurgan, 16-17 from Close up and at a distance)
+
+            Like many colleagues, beginning a graduate program meant moving to a new city, biome, country. I arrived in Vancouver on the unceded lands of Coast Salish First Nations, disoriented. While Google Maps helped me get from A to B, the drive to locate and coordinate precludes disoriented discovery. As cartography TA, I graded sixty maps of downtown before I finally ventured there. Until then, it didn’t exist for me because it was nowhere on my mental map. For me, orientation evolved not through memorizing a map but by developing spatial awareness through everyday practices of engaging with the city. 
+
+            >>(write more when I recover files from lecture I gave)
+
+        Theorizing from the bridge, from the plaza --> perspective, context
+                 {I like places that offer me perspective, like this spot, or the rooftop parkade of the supermarket two blocks from here or Granville Bridge. Places above the ground offer an alternate framing of what goes on in the city - the field in which I practice deep mapping. The sensorium is less overwhelming up here. Less abrasive. Bodily distanced, I feel less. Vertically distanced, I see more. The places I have Been fall into some geospatial context. (The surest method of developing spatial awareness, however, is getting lost on the ground.) From such a vantage, the city and my thesis are more easily theorized. I'll take out my notebook or my voice recorder and let the ideas flow.}
+
+            Certeau on Walking in the city chapter:
+                "His eleveation transfigures him into a voyeur... It puts him at a distance. It ransforms the bewitching world by which one was "posessed" into a text that lies before one's eyes. It allows one to read it, to be a solar Eye, looking down like a god. The exaltation of a scopic and gnostic drive: the fiction of knowledge is related to this lust to be a viewpoint and nothing more." (92)
+
+                ..."Escaping the imaginary totalizations produced by the eye, the everyday has a certain strangeness that does not surface, or whose surface is only the upper limit, outlining itself against the visible." (93)
+
+                >In the chapter Certeau outlines practices outside/counter to geometrical, panoptic, visual geographies and theoretical constructions... Beyond the surfice of the 2D aerial view of the city. 
+
+                >Map --> tool of spatial/urban rhetoric
+
+            Segway to deep mapping through de Certeau's footsteps --> practices of space 
+                is it worth bringing the basemap into his articulation of synechdoche and asyndeton --> how this relates to deep mapping doing both? 
+                Could bring in Cresswell on writing place and topopoetics... after all I am writing my experience of the  city into being here. 
+
+                walking as a tactic (discuss in tactic section) --> city is articulated through walking
+                "to walk is to lack a place. It is the indefinite process of being absent and in search of a proper.... the City" (103)
+
+                bring in Italo Calvino --> Invisible Cities 
+                
+

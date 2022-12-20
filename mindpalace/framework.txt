@@ -1,41 +1,75 @@
-Structural organization: sections will be grouped under DEEP MAPPING as CONSTRUCTIVE INTERFERENCE a) with the basemap b) with established forms of knowledge production c) with accepted ways of rendering research public 
-    {  d) maybe something about rhythms, time, and iteration through theory and practice, though this can be covered in b)
-
-Multiple navigations will be offered which guide the interlocutor through sections contained within the above groupings in unique pathways. 
-
-    With the basemap (critical cartography, embodied ways of knowing place), with established forms of knowledge production (practice based, slow scholarship, process orinted, time, metrics), with acceted ways of rendering research (research creation and creative outputs talk about space) 
-
+ON ORGANIZATION of
+    CONTENT
+        Structural organization: sections will be grouped under DEEP MAPPING as CONSTRUCTIVE INTERFERENCE a) with the basemap b) with established forms of knowledge production c) with accepted ways of rendering research public 
+            { d) maybe something about rhythms, time, and iteration through theory and practice, though this can be covered in b) }
+    FORM
+        Multiple navigations will be offered which guide the interlocutor through sections contained within the above groupings in unique pathways. 
 
 Prologue
-    over-view - small scale - introductory sweep of project
     see ./prologue.txt
+    over-view: small scale, introductory glance though may need to flesh out with aims, motivations and contributions, as well as interjections & responses within disciplinary conversations and general situatedness of researcher and work
+        Citations (integrate if fleshing out as noted above; otherwise include in FIELD)
+            enacting otherwise; beyond theory to praxis
+                Narayan, Priti, and Emily Rosenman. “From Crisis to the Everyday: Shouldn’t We All Be Writing Economies?” Accessed December 14, 2022. https://doi.org/10.1177/0308518X211068048.
+                Leeuw, Sarah de, and Harriet Hawkins. “Critical Geographies and Geography’s Creative Re/ Turn: Poetics and Practices for New Disciplinary Spaces.” Gender, Place & Culture 24, no. 3 (2017): 303–24.
+                Hawkins, Harriet, Lou Cabeen, Felicity Callard, Noel Castree, Stephen Daniels, Dydia DeLyser, Hugh Munro Neely, and Peta Mitchell. “What Might GeoHumanities Do? Possibilities, Practices, Publics, and Politics.” GeoHumanities 1, no. 2 (July 3, 2015): 211–32. https://doi.org/10.1080/2373566X.2015.1108992.
+            on place dialogue; writing place
+                Adams, Paul C., and Jacek Kotus. “Place Dialogue.” Transactions of the Institute of British Geographers n/a, no. n/a (2022). https://doi.org/10.1111/tran.12554.
+                Banazek, Kerry. “Geopoetics in Practice.” In Taylor & Francis, edited by Eric Magrane, Linda Russo, Sarah de Leeuw, and Craig Santos Perez, 17–28. Routledge, 2019. https://www.taylorfrancis.com/books/edit/10.4324/9780429032202/geopoetics-practice-eric-magrane-linda-russo-sarah-de-leeuw-craig-santos-perez.
+                Cresswell, Tim. “Towards Topopoetics: Space, Place and the Poem.” In Place, Space and Hermeneutics, 319–25. Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-52214-2_23.
+                ———. “Writing Place.” In Maxwell Street: Writing and Thinking Place, 1–19. The University of Chicago, 2019.
+            on Diffraction
+                Haraway, Donna J. In Modest_Witness@Second_Millennium. FemaleMan_Meets_OncoMouse: Feminism and Technoscience, 2nd ed. Second edition. | New York, NY : Routledge, 2018. | The title is an email: Routledge, 2018. https://doi.org/10.4324/9780203731093.
+                Tuin, Iris van der. “Diffraction as a Methodology for Feminist Onto-Epistemology: On Encountering Chantal Chawaf and Posthuman Interpellation.” Parallax 20, no. 3 (July 3, 2014): 231–44. https://doi.org/10.1080/13534645.2014.927631.
+                Barad, Karen. “Diffracting Diffraction: Cutting Together-Apart.” Parallax 20, no. 3 (July 3, 2014): 168–87. https://doi.org/10.1080/13534645.2014.927623.
 
 FIELD 
     see ./field.txt
     Situating self in place (vancouver) --> point of orign (0,0) 
     EXPANDED FIELD
-    Fieldwork --> practice 
+    FIELDWORK --> practice 
+        Modeen, Mary, and Iain Biggs. Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
+        ———. “‘Fieldwork’, Reconsidered.” In Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies, 209–22. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
     Probematising The City as noun/subject/field --> de Certeau
-    Situate within disciplinary field --> transdisciplinary? polydisciplinary (loveless)
-        Creative Humanities, Geohumanities, Cartography, Geography, Digital Geography - 
+        Lindner, Christoph, and Miriam Meissner. “Urban Imaginaries in Theory and Practice.” In The Routledge Companion to Urban Imaginaries. Routledge, 2018
+    Situate within disciplinary field --> 
+        transdisciplinary? polydisciplinary (loveless)
+        Citations
+            Creative Humanities, Geohumanities, Cartography, Geography, Digital Geography - 
+                Leeuw, Sarah de, and Harriet Hawkins. “Critical Geographies and Geography’s Creative Re/ Turn: Poetics and Practices for New Disciplinary Spaces.” Gender, Place & Culture 24, no. 3 (2017): 303–24.
+                Hawkins, Harriet, Lou Cabeen, Felicity Callard, Noel Castree, Stephen Daniels, Dydia DeLyser, Hugh Munro Neely, and Peta Mitchell. “What Might GeoHumanities Do? Possibilities, Practices, Publics, and Politics.” GeoHumanities 1, no. 2 (July 3, 2015): 211–32. https://doi.org/10.1080/2373566X.2015.1108992.
+                Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
+        
+                Rousell, David. Immersive Cartography and Post-Qualitative Inquiry: A Speculative Adv. Routledge, 2021. https://www.taylorfrancis.com/books/mono/10.4324/9780367816445/immersive-cartography-post-qualitative-inquiry-david-rousell.
+                Acker, Maleea. “Lyric Geography.” In Geopoetics in Practice, edited by Eric Magrane, Linda Russo, Sarah de Leeuw, and Craig Santos Perez, 131–62. London: Routledge, 2019. https://doi.org/10.4324/9780429032202-10.
 
 NAVIGATIONS 
     of site, of field, of concepts 
-    iterative loops
-        through theory and practice
+        riding the 66
+    iterative loops through theory and practice >>
+            Dourish, Paul. Where the Action Is: The Foundations of Embodied Interaction, 2001. https://doi.org/10.7551/mitpress/7221.001.0001.
+            Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
     enacting slow scholarship/revalorizing process --> journey/navigation is a site of learning
-    research creation --> my work practice based rather than practice led bc generating knwoledge from creative practice
-    or put this in b)
+    research creation 
+        my work practice based rather than practice led bc generating knwoledge from creative practice //or put this in b)
     Following curiosity --> Lure
+        Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
 
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
     THE BASEMAP
         see basemap.txt
         Critical cartography of basemap, 2D, flattened. 
-            Google maps, "tyranny of orientation" (Kurgan)
+            Crampton, Jeremy W. “Maps as Social Constructions: Power, Communication and Visualization.” Progress in Human Geography 25, no. 2 (June 1, 2001): 235–52. https://doi.org/10.1191/030913201678580494.
+            Crampton, Jeremy W., and John Krygier. “An Introduction to Critical Cartography.” ACME: An International Journal for Critical Geographies 4, no. 1 (2005): 11–33.
+
+        Google maps, "tyranny of orientation" (Kurgan)
+                Kurgan, Laura. Close up at a Distance: Mapping, Technology, and Politics. First hardcover edition. Brooklyn, NY: Zone Books, 2013.
+
                     
         Theorizing from the bridge, from the plaza --> scale, perspective, context
             Certeau on Walking in the city chapter:
+            Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
+
                 "His eleveation transfigures him into a voyeur... It puts him at a distance. It ransforms the bewitching world by which one was "posessed" into a text that lies before one's eyes. It allows one to read it, to be a solar Eye, looking down like a god. The exaltation of a scopic and gnostic drive: the fiction of knowledge is related to this lust to be a viewpoint and nothing more." (92)
 
                 ..."Escaping the imaginary totalizations produced by the eye, the everyday has a certain strangeness that does not surface, or whose surface is only the upper limit, outlining itself against the visible." (93)
@@ -45,6 +79,7 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
                 >Map --> tool of spatial/urban rhetoric
 
             Segway to deep mapping through de Certeau's footsteps --> practices of space 
+
 
     BEYOND THE BASEMAP (beyond the monochrome)
         cartographies beyond the basemap - maps and mapping practices that counter cartesian conventions by orienting towards embodied ways of knowing place
@@ -56,19 +91,79 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with the BASEMAP
         Deep Mapping: bring in literature and outline my practice as I draw from psychogeography and rhythmanalysis
         Field notes etc. will be separate page, but throughout text I will link to note or expressly articulate how concept/connection/idea came to me while deep mapping - from thinking WITH the field. 
 
+        Biggs, Iain. “Deep Mapping as an ‘Essaying’ of Place,” 2010. http://www.iainbiggs.co.uk/text-deep-mapping-as-an-essaying-of-place/.
+        ———. “Iain Biggs: Open Deep Mappings Today - a Personal Introduction.” ClimateCultures - Creative Conversations for the Anthropocene (blog). Accessed December 17, 2022. https://climatecultures.net/longer/open-deep-mappings/.
+        ———. “Open Deep Mapping: Conversations-in-Process, Places-in-Time.” ClimateCultures - Creative Conversations for the Anthropocene (blog), June 17, 2022. https://climatecultures.net/longer/open-deep-mapping/.
+
+        Bonnett, Alastair. “Beyond the Map: Spikescapes and Wild Strawberries.” Places Journal, April 10, 2018. https://doi.org/10.22269/180410.
+        Pred, Allan. “Social Reproduction and the Time-Geography of Everyday Life.” In Theory and Methods: Critical Essays in Human Geography, edited by Chris Philo, 243–60. Routledge, 2008. https://doi.org/10.4324/9781315236285-18.
+        Roberts, Les. “Deep Mapping and Spatial Anthropology.” Humanities 5, no. 1 (2016): 5. https://doi.org/10.3390/h5010005.
+        ———. Spatial Anthropology: Excursions in Liminal Space. Rowman and Littlefield, 2018.
+        ———. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
+        ———. “The Rhythm of Non-Places: Marooning the Embodied Self in Depthless Space.” Humanities 4, no. 4 (December 2015): 569–99. https://doi.org/10.3390/h4040569.
+        Modeen, Mary, and Iain Biggs. “Deep Mapping and Slow Residency.” In Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies, 50–73. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
+        Low, Setha. “Placemaking and Embodied Space.” In Making Place: Space and Embodiment in the City, by Arijit Sen and Lisa Silverman, 19–43. Indiana University Press, 2014.
+        Croft, Jo. “Gleaning and Dreaming on Car Park Beach.” Humanities 7, no. 2 (June 2018): 33. https://doi.org/10.3390/h7020033.
+        McLucas, Clifford. “Clifford McLucas - Deep Mapping.” Clifford McLucas. Accessed December 19, 2022. https://cliffordmclucas.info/deep-mapping.html.
+        Pinder, D. “Subverting Cartography: The Situationists and Maps of the City.” Environment and Planning A: Economy and Space 28, no. 3 (March 1, 1996): 405–27. https://doi.org/10.1068/a280405.
+
+
+    Rhythmanalysis 
+        Lefebvre, Henri. Rhythmanalysis: Space, Time and Everyday Life. Bloomsbury Publishing Plc, 2013. https://doi.org/10.5040/9781350284838.
+        Fels, Lynn. “Coming into Presence: The Unfolding of a Moment” 5, no. 1 (2010).
+        Crang, Mike. “The Rhythms of the City: Temporalised Space and Motion.” In Timespace, 187–207. Routledge, 2001.
+
+
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PRODUCTION
+    
+    Narayan, Priti, and Emily Rosenman. “From Crisis to the Everyday: Shouldn’t We All Be Writing Economies?” Accessed December 14, 2022. https://doi.org/10.1177/0308518X211068048.
+        Place writing --> writing place
+                Cresswell, Tim. “Towards Topopoetics: Space, Place and the Poem.” In Place, Space and Hermeneutics, 319–25. Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-52214-2_23.
+                ———. “Writing Place.” In Maxwell Street: Writing and Thinking Place, 1–19. The University of Chicago, 2019.
 
     TACTICS (vs. strategies (de certeau) --> alternative methods) Citing all those on methods, modes, materials
+        Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
     (ways of being, operating, modes of doing, eclectic methodologicalism and spatial/bricolage)
+        Kincheloe, Joe L. “Describing the Bricolage: Conceptualizing a New Rigor in Qualitative Research.” Qualitative Inquiry 7, no. 6 (December 1, 2001): 679–92. https://doi.org/10.1177/107780040100700601.
+
     neurodivergence, intuition, lure, drive, derive, contour, affect, sensorium
-    SLOW SCHOLARSHIP
+        Walker, Nick. “Neuroqueer: An Introduction,” August 1, 2021. https://neuroqueer.com/neuroqueer-an-introduction/.
+        Egner, Justine E. “‘The Disability Rights Community Was Never Mine’: Neuroqueer Disidentification.” Gender & Society 33, no. 1 (February 1, 2019): 123–47. https://doi.org/10.1177/0891243218803284.
+
+    Walking/Drift
+        Pierce, Joseph, and Mary Lawhon. “Walking as Method: Toward Methodological Forthrightness and Comparability in Urban Geographical Research.” The Professional Geographer 67, no. 4 (October 2, 2015): 655–62. https://doi.org/10.1080/00330124.2015.1059401.
+        Moretti, Christina. “The Wandering Ethnographer: Researching and Representing the City through Everyday Encounters.” Anthropologica 53 (January 1, 2011): 245–55.
+        Jung, Yuha. “Mindful Walking: The Serendipitous Journey of Community-Based Ethnography.” Qualitative Inquiry 20, no. 5 (June 1, 2014): 621–27. https://doi.org/10.1177/1077800413505543.
+        Frisby, David. “The Flâneur in Social Theory.” In The Flâneur. Routledge, 1994.
+        the demolition project. “Debbie Kent.” Accessed December 17, 2022. https://thedemolitionproject.com/author/overheardinthecity/.
+        Debord, Guy. “Critique of Urban Geography.” Translated by Ken Knabb, 1955. http://www.bopsecrets.org/SI/urbgeog.htm.
+        ———. “Theory of the Derive.” Translated by Ken Knabb, 1958. http://www.bopsecrets.org/SI/2.derive.htm.
+        Pinder, D. “Subverting Cartography: The Situationists and Maps of the City.” Environment and Planning A: Economy and Space 28, no. 3 (March 1, 1996): 405–27. https://doi.org/10.1068/a280405.
+
+
+        Culhane, Dara. “Sensing.” In A Different Kind of Ethnography: Imaginative Practices and Creative Methodologies, edited by Denielle Elliott and Dara Culhane, 45–67. North York, Ontario, Canada ; Tonawanda, New York, USA: University of Toronto Press, 2017.
+        Brown, Andrew. “Soundwalking: Deep Listening and Spatio-Temporal Montage.” Humanities 6, no. 3 (September 2017): 69. https://doi.org/10.3390/h6030069.
+        Ingold, Tim. “Against Soundscape.” Accessed July 27, 2022. http://lajunkielovegun.com/AcousticEcology-11/AgainstSoundscape-AutumnLeaves.pdf.
+
+
+    SLOW SCHOLARSHIP/Process oriented
+        Deep mapping is an exercise in slow scholarship: it takes time to know a place, to follow curiosity, to become lost. Light waves which penetrate the surface of a bubble take longer to re-emerge than those which reflect (off) the surface. 
+            cite
+                Mountz, Alison, Anne Bonds, Becky Mansfield, Jenna Loyd, Jennifer Hyndman, Margaret Walton-Roberts, Ranu Basu, et al. “For Slow Scholarship: A Feminist Politics of Resistance through Collective Action in the Neoliberal University.” ACME: An International Journal for Critical Geographies 14, no. 4 (August 18, 2015): 1235–59.
+
     PRAXIS based
         my work practice based rather than practice led bc generating knowledge  from creative practice
+        Arthur, Mathew. “Four Alleys.” Society for Cultural Anthropology. Accessed December 17, 2022. https://culanth.org/fieldsights/series/four-alleys.
 
 DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ACCEPTED WAYS OF RENDERING RESEARCH (PUBLIC)
     
     RESEARCH-CREATION
     deep mapping as research-creation 
+        Candy, Linda. “Practice Based Research: A Guide,” 2006, 19.
+        Truman, Sarah. Feminist Speculations and the Practice of Research-Creation: Writing Pedagogies and Intertextual Affects. Accessed December 17, 2022. https://www.routledge.com/Feminist-Speculations-and-the-Practice-of-Research-Creation-Writing-Pedagogies/Truman/p/book/9780367612627.
+        Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
+        ———, ed. Knowings and Knots. The University of Alberta Press, 2019. https://www.uap.ualberta.ca/titles/956-9781772124859-knowings-and-knots.
+
 
     MAKING SPACE 
         about this space
@@ -76,4 +171,6 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ACCEPTED WAYS OF RENDERING RESEAR
         revalorizing process --> commit history
         spatiality of git 
 
+        this space may be a digital cartography??, but my thesis isnt producing a deep map of vancouver
 
+        Zana, Sultana. “This Is an Unconnected Network.” Accessed August 5, 2022. https://sultanazana.github.io/.
