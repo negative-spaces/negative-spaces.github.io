@@ -115,15 +115,43 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PR
     Place writing --> writing place
                 Cresswell, Tim. “Towards Topopoetics: Space, Place and the Poem.” In Place, Space and Hermeneutics, 319–25. Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-52214-2_23.
                 ———. “Writing Place.” In Maxwell Street: Writing and Thinking Place, 1–19. The University of Chicago, 2019.
-                
+
     Practical Knowledge 
         Chapter 9 in Seeing Like a State by James Scott
             "By themselves, the simplified rules can never generate a functioning community, city, or economy. Formal order, to be more explicit, is always and to some considerable degree parasitic on informal processes, which the formal scheme does not recognize, without which it could not exist, and which it alone cannot create or maintain." (310)
-            >sequence vs. timing<
-
+            
             Each of these skills requires hand-eye coordination that comes with practice and a capacity to "read" the waves, the wind, or the road and to make the appropriate adjustments. One powerful indication that they all require metis is that they are exceptionally difficult to teach apart from engaging in the activity itself. One might imagine trying to write down explicit instructions on how to ride a bicycle, but one can scarcely imagine that such instructions would enable a novice to ride a bicycle on the first try. The maxim "Practice makes perfect" was devised for such activities as this, inasmuch as the continual, nearly imperceptible adjustments necessary for riding a bicycle are best learned by having to make them." (313)
+                embodied knowledge conenction(?)
 
-            "Knowing how and when to apply the rules of thumb in a concrete situation is the essence of metis. " (316)
+            >sequence vs. timing<
+            pattern observation
+            accuracy vs. practicality 
+                ("accuracy" of maps)
+            concept of mētis
+                "adapt to a constantly shifting situation" and "understand, and hence outwit... adversaries" (313) (Odysseus in deceiving the cyclops)
+                >activities that especially engage metis require (313): 
+                    practice in hand-eye coordination (me: juggling)
+                    capacity to process incoming information ("read" waves, wind, road) and make appropriate adjustments
+                    such activities are "excep- tionally difficult to teach apart from engaging in the activity itself" --> deep mapping; learning as/thru doing (CCCH)
+                    
+            "But metis equally applies to human interaction." (314)
+            "The necessarily implicit, experiential nature of metis seems central."(315)
+
+            "The practice and experience reflected in metis is almost always local." (317)
+                gap b/w general knowledge and situated knowledge.
+                    like tracing a screenshot of aerial google maps vancouver to get a sense of the city vs inhabiting it for a while
+                    --> 2D flat map vs deep mapping practice --> how I give directions to people who ask now... or can drive around without maps
+                    
+            319: grammar vs speach, rule-of-thumb vs metis
+                "use, trial, error" --> ITERATION
+
+                practical knowledge/metis --> developed through iteration! YES
+
+                "any formula that excludes or sup- presses the experience, knowledge, and adaptability of metis risks inco- herence and failure; learning to speak coherent sentences involves far more than merely learning the rules of grammar" (319)
+
+                why practicing geography is critical if one is to be a geography and write geography!
+
+            "Knowing how and when to apply the rules of thumb in a _concrete situation_ is the essence of metis. " (316)
             ^^^connects to TACTICS (which, when I searched this document for, found to be the next concept of interest which affirms that the connection was already making itself)
 
     TACTICS 
@@ -131,6 +159,9 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PR
             Citing all those on methods, modes, materials
                 Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
             (ways of being, operating, modes of doing, eclectic methodologicalism and spatial/bricolage)
+            Bricolage connection to Practical Knowledge:
+                    Scott (315):
+                        "Adapting quickly and well to unpredictable events ...and making the best out of limited re- sources are the kinds of skills that are hard to teach as cut-and-dried disciplines."
                 Kincheloe, Joe L. “Describing the Bricolage: Conceptualizing a New Rigor in Qualitative Research.” Qualitative Inquiry 7, no. 6 (December 1, 2001): 679–92. https://doi.org/10.1177/107780040100700601.
                 Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
             >intuition, lure, drive, derive, contour, affect, sensorium
