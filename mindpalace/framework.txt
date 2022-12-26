@@ -115,14 +115,16 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PR
     Place writing --> writing place
                 Cresswell, Tim. “Towards Topopoetics: Space, Place and the Poem.” In Place, Space and Hermeneutics, 319–25. Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-52214-2_23.
                 ———. “Writing Place.” In Maxwell Street: Writing and Thinking Place, 1–19. The University of Chicago, 2019.
-    Practical Knowledge
+                
+    Practical Knowledge 
         Chapter 9 in Seeing Like a State by James Scott
             "By themselves, the simplified rules can never generate a functioning community, city, or economy. Formal order, to be more explicit, is always and to some considerable degree parasitic on informal processes, which the formal scheme does not recognize, without which it could not exist, and which it alone cannot create or maintain." (310)
             >sequence vs. timing<
 
             Each of these skills requires hand-eye coordination that comes with practice and a capacity to "read" the waves, the wind, or the road and to make the appropriate adjustments. One powerful indication that they all require metis is that they are exceptionally difficult to teach apart from engaging in the activity itself. One might imagine trying to write down explicit instructions on how to ride a bicycle, but one can scarcely imagine that such instructions would enable a novice to ride a bicycle on the first try. The maxim "Practice makes perfect" was devised for such activities as this, inasmuch as the continual, nearly imperceptible adjustments necessary for riding a bicycle are best learned by having to make them." (313)
 
-            being neruodivergent --> aquiring practical knowledge; requiring tactics
+            "Knowing how and when to apply the rules of thumb in a concrete situation is the essence of metis. " (316)
+            ^^^connects to TACTICS (which, when I searched this document for, found to be the next concept of interest which affirms that the connection was already making itself)
 
     TACTICS 
         (vs. strategies (de certeau) --> alternative methods) 
@@ -131,7 +133,10 @@ DEEP MAPPING as CONSTRUCTIVE INTERFERENCE with ESTABLISHED FORMS of KNOWLEDGE PR
             (ways of being, operating, modes of doing, eclectic methodologicalism and spatial/bricolage)
                 Kincheloe, Joe L. “Describing the Bricolage: Conceptualizing a New Rigor in Qualitative Research.” Qualitative Inquiry 7, no. 6 (December 1, 2001): 679–92. https://doi.org/10.1177/107780040100700601.
                 Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
-            intuition, lure, drive, derive, contour, affect, sensorium
+            >intuition, lure, drive, derive, contour, affect, sensorium
+            >neurodivergence in space (computational thinking (abstractions, patterns, possible paths, algorithm), troubleshooting)
+            >being neruodivergent --> aquiring practical knowledge; requiring tactics
+
         Walking/Drift
             Pierce, Joseph, and Mary Lawhon. “Walking as Method: Toward Methodological Forthrightness and Comparability in Urban Geographical Research.” The Professional Geographer 67, no. 4 (October 2, 2015): 655–62. https://doi.org/10.1080/00330124.2015.1059401.
             Moretti, Christina. “The Wandering Ethnographer: Researching and Representing the City through Everyday Encounters.” Anthropologica 53 (January 1, 2011): 245–55.
