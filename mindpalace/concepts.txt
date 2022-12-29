@@ -23,10 +23,18 @@ Slow Scholarship (Mountz et al., Modeen and Biggs)
    
 Bricolage (Roberts, de Certeau, Kincheloe)
     Methodological Eclecticism 
+        "allowing circumstances to shape methods employed"
         Lefebvre calls concepts "methodologically utilised categories" 
+    Researcher as bricoleur (me, bricoleur as researcher) - roberts
+        "the researcher-as-bricoleur goes about his or her business equipped with a set of tools rather than a fit-for-purpose methodolotical strategy" (54) --> TACTIC vs strategy (certeau)
+            connect to loveless on evolving methodology in research-creation
     Tactics (vs. strategies - de Certeau)
-Gleaning
-    Collage (of)
+    connect to making do - with whats there ---> 
+    Gleaning (Roberts)
+        "Gleaning as a spatial praxis" (57)
+        "Whatever is found in whatever landscape the gleanerbricoleur happens to find herself at whatever time she happens to be there is poetntially constituent matter of an assemblage-in-progress, the production of which may take a number of different forms (or none at all - the practice of gleaning-bricolage need not cede an 'output' for it to still count as gleaning and/or bricolage)." (58)
+
+        "space is being _made_ but only from what is ready-to-hand and by putting to work only those methods that offer themselves up for strategically provisional means" (roberts 54)--> git space
 Non-linearity (everything here is connected despite the formatting)
      Bricoleur-as-researcher
         Les Roberts on such a person not always aware they’ve embarked upon a project. Connect to Roussell’s concept of immersive cartography to describe unfolding nature of project, ever-changing field informing my perspective and permutations of connections as I go
@@ -77,11 +85,11 @@ Practice Based Research
 Research-Creation (Loveless, Trouman ed., ?Roussell?, )
     “Research-creation follows desire, and builds spaces and contexts that allow time and space to experiment in unpredictable directions… Research creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as valid object and method, with in which disciplinary framework, where, when, and how” (Loveless 71)
 
-        “GeoHumanities…do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. 
+    “GeoHumanities…do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. 
 
-        … what might GeoHumanities do, and what might it mean to do the GeoHumanities? …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
+     … what might GeoHumanities do, and what might it mean to do the GeoHumanities? …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
 
-        "Looking across the contributions we see publics as collaborators, as knowledge producers, and as constituencies who incite the production of knowledge." (Hawkins et al)
+    "Looking across the contributions we see publics as collaborators, as knowledge producers, and as constituencies who incite the production of knowledge." (Hawkins et al)
 
     
     .
@@ -193,8 +201,12 @@ Research-Creation (Loveless, Trouman ed., ?Roussell?, )
 
         I pressed my chest against the bridge and felt at once its trembling vibration and my own heart’s rapid beating. My body in visceral contact with that of the city - its infrastructure - I embodied for some duration the city’s rhythm.
 
+interdisciplinary --> co writing - "being on the same page" 
+intertextuality
+transdisciplinarity
+intertheory
+polydisciplinamory
 
-interdisciplinarity --> co writing - "being on the same page" 
 
 itertextuality
     Each time I leave home I carefully select which books to bring with me, not because I will necessarily read
@@ -209,4 +221,6 @@ neurodivergence
     neuroqueer
     adhd methods 
         analogue
-        
+
+Pracical knowledge
+    `metis (James Scott)
