@@ -17,7 +17,7 @@ Thoughts on rendering after talking to Q this morning:
         
          "We take an interdisciplinary approach to the study of the natural environment, and are committed to addressing the ongoing climate crisis through our teaching, research and practice. Our goal is cutting-edge research that matters and makes a difference, intellectually and practically." (geog.ubc.ca/about)
 
-    As a discipline which awards degrees in both arts and science, geography is an inherently interdisciplinary field of study. But what does that actually look like within a department and amongst geographers? It "common knowledge" amongst UBC geography graduates that physical (grad) geographers and human (grad) geographers on the whole seldom interact socially (let alone engage collaboratively). Indeed, our offices are on separate floors. What does interdisciplinary mean in practice for geographers (graduate students and faculty alike)? Though my research draws from many disciplines, I argue is not simply interdisciplinary, but transdisciplinary. Polydisciplinamory even.
+    As a discipline which awards degrees in both arts and science, geography is an inherently interdisciplinary field of study. But what does that actually look like within a department and amongst geographers? Its "common knowledge" amongst UBC geography graduates that physical (grad) geographers and human (grad) geographers on the whole seldom interact socially (let alone engage collaboratively). Indeed, our offices are on separate floors. What does interdisciplinary mean in practice for geographers (graduate students and faculty alike)? Though my research draws from many disciplines, I argue is not simply interdisciplinary, but transdisciplinary. Polydisciplinamory even.
         
         "Traditional interdisciplinary, with its intertheory thrust, could be said to be about _who_ (which disciplines) one commits to, while research-creation, as a _polydisciplinamorous_ orientation, becomes about _how_ one commits to producing new kinship ties not only in terms of _content_ (the "who") but in terms of _form_ (the "how"). Natalie Loveless in her Manifesto for Research Creation (2019, 63)
 
@@ -27,6 +27,35 @@ Thoughts on rendering after talking to Q this morning:
 
       ubc_gradyear_gradmonth_lastname_firstname.pdf 
 
-    Submitting a research "product" in any other (file) form(at) such as image, sound, or *interactive resource* is restricted to MFA students (https://bit.ly/3I827yk). Submitting as one's thesis a collection containing both text a non-text is for "CREATIVE ARTS ONLY" (capital letters signal caution on instructional website).
 
-    How can practice based research be valued if a creative output, integrated together with text or separate, is not even viable for submission? The expectation that research process be rendered down into a distilled linear, text.pdf whereby process is relegated to the negative space of an outcome - to evaporated matter - is engrained in the system no matter the "flexibility" and "interdisciplinary" the program signals. What modes of making difference and what differences matter (enough) to the department become apparent when it comes time for research outcomes to be submitted for evaluation. As a graduate student, to enact otherwise - to produce knowledge differently - means risking not only legibility & intelligibility, but acceptance of one's research value by the institution at a juncture where degree rejection (potentially) excises you from academia. 
+    Submitting a research "product" in any other (file) form(at) such as image, sound, or *interactive resource* is restricted to MFA students (https://bit.ly/3I827yk). Submitting as one's thesis a collection containing both text a non-text is for "CREATIVE ARTS ONLY" (capital letters signal caution on instructional website). Finally, the caution: "Please note: It is your responsibility to meet all submission requirements. If the thesis does not meet formatting requirements it will not be approved."
+
+    How can practice based research be valued if a creative output, integrated together with text or separate, is not even viable for submission? The expectation that research process be rendered down into a distilled text.pdf whereby process is relegated to the negative space of an outcome - to evaporated matter - is engrained in the system no matter the "flexibility" and "interdisciplinary" the program signals. What modes of making difference and what differences matter (enough) to the department become apparent when it comes time for research outcomes to be submitted for evaluation. As a graduate student, to enact otherwise - to produce knowledge differently - means risking not only legibility & intelligibility, but acceptance of one's research value by the institution at a juncture where degree rejection (potentially) excises you from academia. 
+
+    In the end I *could* strip my site of writings and stitch them one after another for submission. But such a distortion of form would offer a very hollow contribution 
+----------------
+
+    RESEARCH-CREATION
+    
+    "
+    ...research-creation suggests a mode of knowledge production that does more than simply contribute to
+            existing realms of interdisciplinary and di"
+    deep mapping as research-creation 
+
+        Truman, Sarah. Feminist Speculations and the Practice of Research-Creation: Writing Pedagogies and Intertextual Affects. Accessed December 17, 2022. https://www.routledge.com/Feminist-Speculations-and-the-Practice-of-Research-Creation-Writing-Pedagogies/Truman/p/book/9780367612627.
+        Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
+        ———, ed. Knowings and Knots. The University of Alberta Press, 2019. https://www.uap.ualberta.ca/titles/956-9781772124859-knowings-and-knots.
+
+    MEASURE , METRICS 
+        rhythm exceeds measure... 
+
+    MAKING SPACE for deep mapping
+        How might spatial praxes that counter cartography be rendered without being flattened, georeferenced, or vectorized?
+            about this space
+            making do/learning through doing
+            revalorizing process --> commit history
+            spatiality of git 
+            workflows, troubleshooting, computational thinking, pathways, labyrinths, neural networks
+
+            cite:
+                Zana, Sultana. “This Is an Unconnected Network.” Accessed August 5, 2022. https://sultanazana.github.io/

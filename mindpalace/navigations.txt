@@ -1,54 +1,60 @@
 NAVIGATIONS 
-    navigations within a field articulate a framework, a mental map. 
+
+    {see field note on navigating here - reference field notes within writing - another way to integrate field, practice, process}
+
+        I take the 33 bus to campus on a whim. I'm running late to teach and I don't want to deal with the hassle of Broadway construction. Why have I never taken the 33 I wonder as a 5 minute walk brings me to the stop. I'm the only one there and I sit on a bench in the sun to catch my breath before the bus pulls up. Riding the 33 is outside my routine. It's route takes me through places I've been before but have yet to connect via this navigation. The city is daily reinvented in my imagination. It emerges for me not through place making alone but from connections/spatial relationships drawn by my moving in/out/through/between/among areas of familiarity. (Like going to WISE two different times. )
+
+        Navigations articulate a mental map of place. And, though forever evolving and contingent, as the the field becomes more densely networked with/through unique connections the more anchored in relation to one another specific areas or spots become. In this way, navigation makes navigable. For me, spatial awareness of the place I inhabit - the geographical field of my encounter - develops through spatial practices (discussed further in tactics) including everyday navigations.  (>>game of finding one another)
+
+
+             "...navigation entails the production of a performative cartography of a terrain, field, or domain that is constituted in the very act of its exploration...
+
+            ...navigation itself produces knowledge that feeds into its course and experience itself.
+                    (i happened these quotes on the concept of navigation by chance, grabbing critical concepts for the creative humanities as I rushed out the door (once again running "behind time" and serendipitously placing a pencil on this very page.)
+
+
+            ...iterative loops between action, experience, and knowledge" (Tuin and Verhoeff, 2022)
+                     
+                     Cites Paul Dourish "Embodied Interaction is about the relationship between action and meaning, and the concept of practice that unites the two. Action and meaning are not opposites. From the perspective of embodiment, they form a duality. Action both produces and draws upon meaning; meaning both gives rise to and arises from action." (Paul Dourish 2001, 206)
+
+                
+    connect physical field to conceptual // practice based - it is both - and this is what i mean by thinking with the field/ the city 
+
+    navigations within a field articulate a framework 
     there are multiple ways to connect concepts, multiple pathways to understanding, multiple routes to a destination.
-    process oriented recognizes the navigation as a site of learning. 
-
-        "...navigation entails the production of a performative cartgraphy of a terrain, field, or domain that is constituted in the very act of its exploration...
-
-        ...navigation itself produces knowledge that feeds into its course and experience itself.
-
-        ...iterative loops between action, experience, and knowledge" 
-
-            cites Paul Dourish 2001, 206:
-            "Embodied Interaction is about the relationship between action and meaning, and the concept of practice that unites the two. Action and meaning are not opposites. From the perspective of embodiment, they form a duality. Action both produces and draws upon meaning; meaning both gives rise to and arises from action."
+   
             
     Walking as a practice of thinking. Walking the Bridge. Vertical distance --> perspective/contexe, theorizing made more possible.  
 
-    process oriented recognizes the navigation as a site of learning. 
-    bus ride as fieldwork
-    >>slow scholarship 
-    >presence
+    **process oriented recognizes the navigation as a site of learning**
+        journey
+         >>slow scholarship 
+            >presence
 
 Detour 
-        From my field notes, and written into the white space of A brief history of my body, by Billy-Ray Belcourt:
-        
-        I take the 33 bus to campus as a treat - something different, outside routine. It takes me through places I've
-        been before but have yet to connect via this navigation. The city is daily reinvented in my imagination. It emerges for me, not through place making alone but through connections drawn by my movement between areas of familiarity. Lines between points expand out into planes of contingent perception which layer and stretch to pinch and intersect with one another. 
 
-        ... 
-
-        Later in the day I'm sitting outside with the same book, writing these musings from the _margins_ to html. A stranger approaches me and asks me, says I'm the only person he's seen today using a physical book. We get to talking. He's in his
-        eighties, never travelled, says he talks instead to all sorts of people to build an understanding of the wider
-        world. He offers me advice: something about detours being an important part of the journey. Be open. 
+        Later in the day I'm sitting outside with the same book, writing these musings from the _margins_ to html. A stranger approaches me and asks me, says I'm the only person he's seen today using a physical book. We get to talking. He's in his eighties, never travelled, says he talks instead to all sorts of people to build an understanding of the wider
+        world. He offers me advice: something about detours being an important part of the journey. 
         
-        Taking the 33 instead of the 99 B-Line to campus was a detour from my habitual route. I'd never taken the 33 before but it goes to show sponteneity (in my practical experience) is often met with serendipitous convergences. 
+        Taking the 33 instead of the 99 B-Line to campus was a detour from my habitual route. I'd never taken the 33 before but it goes to show spontaneity (in my practical experience) is often met with serendipitous convergences. 
     
     Detour Maps
          Construction at the intersection disorient familiar navigations. Re-orientation can only be established from looking around; from the city's map -- only further disorientation. 
    
 Lost (v.) Losing
-    I lost my initial project outline when my computer broke unexpectedly. For two months (October - November) I worked analogue and between a friend's computer and the public library. Finally buying a new device I learned I'd have to wait till January to recover srivener files backed up (once, on a whim, call that spontaneous serendipity) to the cloud. 
+    I lost my initial project outline when my computer broke unexpectedly. For two months (October - November) I worked analogue and between a friend's computer and the public library. Finally buying a new device I learned I'd have to wait till January to recover scrivener files backed up (once, on a whim, call that spontaneous serendipity) to the cloud. Losing my outline and writings from the fall was disorienting. However, it allowed for the re-formation of my thoughts and the push to figure out a different way to organize my writing. Without this detour I wouldn't have thought to use a code editor to write, git to save and track changes, and GitHub to organize my text in process. 
 
-    Losing my outline and writings from the fall was disorienting. However, it allowed for the re-formation of my thoughts and the push to figure out a different way to organize my writing. Without this detour I wouldn't have thought to use a code editor to write, git to save and track changes, and GitHub to organize my text in process. 
-
-
-    Deep mapping is an exercise in slow scholarship: it takes time to know a place, to follow curiosity, to become lost. 
-
+Getting lost as a practice--> solo
+    (Bike ride on the north shore - feeling where the path was!)
 
 Orientation/Disorientation
-    Like many colleagues, beginning a graduate program meant moving to a new city, biome, country. I arrived in Vancouver on the unceded lands of Coast Salish First Nations, disoriented.  I graded sixty maps of downtown before I finally ventured there. [insert paragraph from lecture I gave but the contents of which I lost to the cloud pending account recovery on january 9th.]
-    While Google Maps helped me get from A to B, the drive to locate and coordinate precludes disoriented discovery.     
+    Like many colleagues, beginning a graduate program meant moving to a new city, biome, country. I arrived in Vancouver disoriented. I graded sixty maps of downtown before I finally ventured there. [insert paragraph from lecture I gave but the contents of which I lost to the cloud pending account recovery on january 9th.] While Google Maps helped me get from A to B, the drive to locate and coordinate precludes disoriented discovery.     
 
         "It seems as though in the end, maps —the successful ones, the ones that show us where we are and get us from here to there —risk offering only two alternatives. They let us see too much, and hence blind us to what we cannot see, imposing a quiet tyranny of orientation that erases the possibility of disoriented discovery, or they lose sight of all the other things that we ought to see. They omit, according to their conventions, those invisible lines of people, places, and networks that create the most common spaces we live in today." (Laura Kurgan, 16-17 from Close up and at a distance)
 
     For me, orientation evolved not through memorizing a map but by developing spatial awareness through everyday practices of engaging with the city. 
+
+Lemniscate 
+    >>spatial awareness
+        (Eurythmy bring back up with rythmanalysis)
+      
