@@ -1,32 +1,43 @@
     "Place impels me; it is the actor. Place unfurls around me; it becomes the subject." Maleea Acker in Lyric Geography (2019, 132)
 
 Some grey day last winter I walked the stretch of shoreline that wraps around the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nations. I am here because from where the sand turns dry begin the University Endowment Lands on which UBC campus is situated. With the Salish sea on one side and a forest of evergreens and sword ferns to the other, the university at which I am a graduate student is geographically and administratively separated from the city of Vancouver. The beach is the only spot on campus where I can think. A five minute walk from the Geography Department takes me to a zig-zag staircase at the bottom of which awaits a place where clothing is optional. My shoes and socks are the first to come off. The sand is cold and firm, yet porous. It holds the impression of my soles and reshapes in my hands. I contain it for a moment - appreciating the texture worn from time and force - then release it. How freeing to exist in a landscape with nothing (on) but the body. 
-
+   
 Sunshine was a precious thing my first winter in Vancouver when it rained for four months and the cloud cover was so dense that a dimple of white was the only indication our star remained. Monochrome days used to really kill my vibe. There’s a dullness to a landscape lit ambiently, a non-differentiation that makes it difficult to articulate thoughts. That day I paused at ocean’s edge where barnacles encrust the rocks and molluscs collect in crunchy bundles. In and out rolled the waves and I breathed with them. On each exhale I noticed how foam gathered around the rocks at my feet, forming bubbles on whose surface spun psychedelic spirals. This happens due to thin film interference, where light waves reflecting off the surface of a bubble are interfered with by waves which have been transmitted through the film, reflected back, and refracted at the surface at the angle of incidence. When refracted waves are shifted so as to be in-synch with those reflected, they interfere constructively to make visible an abundance of colors. [sketch reference diagram] 
 
-Deep mapping is constructive interference with superficial reflections renderd by flat maps. 
-Deep mapping is not constitutive of a cartography itself but rather a capacious practice of situated, embodied, reflexive inhabitation. 
+Deep mapping is constructive interference with the superficial reflection that is a flat map. Deep mapping is not constitutive of a cartography itself but rather a capacious practice of situated, embodied inhabitation. 
 
-    indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themsevels in the warp and weft of a lived and fundamentally intersubjective spatiality." (Roberts 2018)
+    indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themselves in the warp and weft of a lived and fundamentally intersubjective spatiality." (Roberts 2018)
+
+Spatiality as lived and intersubjective --> space (v) 
+
+    "_Spatial anthropology_ is an attempt to give a name to the processes whereby the fundamental spatiality of being is woven into and from everyday practices, dispositions and experiential knowledge. 
+
+    To proceed on these terms ... is to understand and practice space as an existential ground of everyday being." (Roberts 2018, 30)
 
 Deep mapping is geography in practice. Mapping deeply requires the researcher to enter into dialogue with the field of inquiry. Off the page. In the everyday. 
 
-     "_Spatial anthropology_ is an attempt to give a name to the processes whereby the fundamental spatiality of being is woven into and from everyday practices, dispositions and experiential knowledge. To proceed on these terms - irrespective of disciplinary persuasion - is to understand and practice space as an existential ground of everyday being." (Roberts 2018, 30)
+The importance of place is no secret to geographers, but of those whom I’ve met, few consider their everyday navigations as fieldwork. 
+
+    
+    "research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how." (Loveless 2019, 70)
 
 
-The importance of place is no secret to geographers, but of those whom I’ve met, few consider their everyday navigations as fieldwork. My master's thesis is a practice-based geography of thinking with place. Assuming the city/fields(bc ubc campus not just vancouver, also problematizing what the "city" is and also departmental etc.) of my encounter as co-author, I demonstrate a way of researching where the field is not a site separate from the desk at which geography is written. In methods, form, and content, my work responds to the charge for praxis to extend beyond study and actually enact knowledge production differently (Narayan and Rosenman 2022). 
+I demonstrate a way of researching where the field is not a site separate from the desk at which geography is written. My work responds to the charge for praxis to extend beyond study and actually enact knowledge production differently (Narayan and Rosenman 2022). 
 
 //REFERENCE DIFFRACTION //
-iteration through theory and practice --> rythm like sewing -- entering the field, emerging, iterating through theory and practice - the rhythm of deep mapping as research-creation
-iteration through theory and practice --> WEAVING A RHYTHM OF CARTOGRAPHIC PRAXIS BEYOND THE MONOCHROME)
+//transgression, against counter mapping - counter cartography is not counter conduct --> deep mapping is not in opposition of other mapping practices . 
 
+ 
 From my iteration through theory and practice and by thinking with the (conceptual, geographical, institutional) fields of my encounter, I evolve my own interpretation of deep mapping that serves for now, for this project:    
 
     Deep mapping is a praxis of iterative intervention with the basemap, established forms of knowledge production, and accepted ways of rendering research public. 
 
-My aims throughout this project and as a geographer, deep mapper, rhythmanalyst, and bricoleur-as-researcher (not in any particular order) are to practice geography, valorize process, and be open - open to sponteneity, serendipity, and the possibility of being transormed by the field entered. 
+My aims throughout this project and as a geographer, deep mapper, rhythmanalyst, and bricoleur-as-researcher (not in any particular order) are to practice geography, valorize process, and be open - open to sponteneity, serendipity, and the possibility of being transformed by the field entered. 
 
 
+
+
+--- 
 from here:
 >> the field
         expanding the field of cartography, or what that term means --> cartography is the art and science of map making --> but when used in sense of practice generally conceived of as the making of a 2D map
@@ -34,3 +45,6 @@ from here:
         a) navigations through conceptual field articulate a framework
         b) navigations through geographical field (city) develop cognative map (detour taking the 66)
         c) multiple navigations through this site
+
+constructive-interference.txt
+rendering.txt
