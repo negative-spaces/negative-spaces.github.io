@@ -1,9 +1,9 @@
 NAVIGATIONS 
  concepts: Route, Disorientation, Lost, Detour, {Detournement,} Lemniscate, Loops, Journey, Exploration, Form(at -drawing)
 
-        I take the 33 bus to campus on a whim. I'm running late to teach and I don't want to deal with the hassle of Broadway construction. Why have I never taken the 33 I wonder as a 5 minute walk brings me to an empty stop. I sit on a bench in the sun to catch my breath a moment before the bus pulls up. Its one of the smaller busses and the seats have the soft fabric patterned like a roller rink carpet. Riding the 33 is outside my routine. It's route takes me through places I've been before but have yet to connect via this navigation. ("I didn't realize the WISE was so close to Commercial! I came a different way last time. Oh, I remember walking through this park though! Okay, now I know where I am and where the WISE 'really is' on the map.") The city is daily reinvented in my imagination. (Constant shifting of field --> 'immersive cartography' concept by Roussell.)It emerges for me not through place making alone but from connections - spatial relationships - drawn by my moving in/out/through/between/among areas of familiarity/encounter.
+        I take the 33 bus to campus on a whim. I'm running late to teach and I don't want to deal with the hassle of Broadway construction. Why have I never taken the 33? I wonder as a 5 minute walk brings me to a deserted stop. I sit on a bench in the sun to catch my breath a moment. The 33 is one of the smaller buses. Its seats have that soft fabric patterned like a roller rink carpet. Riding the 33 is outside my routine. Its route takes me through places I've been before but have yet to connect via this navigation. ("I didn't realize the WISE was so close to Commercial! I came a different way last time. Oh, I remember walking through this park though! Okay, now I know where I am and where the WISE 'really is.'") The city is daily reinvented in my imaginary. Though far from Venice, I could fill a book with each page a different Vancouver. The city emerges for me not through place making alone but from connections - spatial relationships - drawn by my moving in/out/through/between/among areas of familiarity.
 
-        Navigations articulate a mental map of place. And, though forever evolving and contingent, as the the field becomes more densely networked with/through unique connections the more anchored in relation to one another specific areas or spots become. In this way, navigation makes navigable. For me, spatial awareness of the place I inhabit - that geographical field of my encounter - develops through embodied spatial practices (see tactics) including everyday navigations.  
+        Navigations articulate a mental map of place. And, though forever evolving and contingent, as the  field becomes more densely networked with/through unique connections, specific areas or spots become more anchored in relation to one another. In this way, navigation makes navigable. (I can trace in my mind at least10 pathways to travel from where I stand to Centerm Shipyard. And that's as a human – the urban field to a crow or a pair of chasing squirrels is another.) For me, spatial awareness of the place I inhabit - that geographical field of my encounter - develops through embodied spatial practices (see tactics.txt) including everyday navigations.  
 
     I wrote these thoughts initially in the whitespace of _A brief history of my body_ by Billy-Ray Belcourt. Around the margin, in the negative space of another story. Each time I leave home I carefully select which books to bring with me, not because I will necessarily read them, but more because I like their company. I bring along the people/stories/concepts I wish to think with for the day. Often I bring more than one book. I like to put texts into conversation first amongst themselves. In my bag they interlap, folding together they bookmark one another. Opening one, I open myself: read me. 
 
@@ -13,7 +13,7 @@ NAVIGATIONS
 
     Just as navigating the geographical field articulates a mental map of physical space navigations within a conceptual field articulate a theoretical framework - a cognitive conceptualization of an emergent web of connection at which my ideas tug and pull. Following a concept in multiple directions I find myself making surprising connections. I write "follow" because when I loosen my desire to arrive at a specific place, when I release control of the destination as it were, I make room for latent connections to make themselves (apparent).  
     
-    Exploration, put one way, is "the action of traveling in or through an unfamiliar area in order to learn about it." (https://bit.ly/3XeFxZw) Deep mapping is a practice of learning through disorientation. Though the field, geographical or conceptual, is at first unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute the field of encounter. 
+    Exploration, put one way, is "the action of traveling in or through an unfamiliar area in order to learn about it" (https://bit.ly/3XeFxZw). Deep mapping is a practice of learning through disorientation. Though the field, geographical or conceptual, is at first unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute the field of encounter. 
     
         "...navigation itself produces knowledge that feeds into its course and experience itself." (Tuin and Verhoeff 2022, 137-139) 
     
@@ -21,34 +21,40 @@ NAVIGATIONS
 
 My theory of deep mapping is constituted through my practice of deep mapping. 
 
-That sentence took nine months of writing and re-writing. My theory, the knowledge I produce, what my thesis is actually about - it all emerges from the iteration through theory and practice. The form taken by "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) I imagine as a lemniscate: 
+That sentence took nine months of writing and re-writing. My theory, the knowledge I produce, what my thesis is actually about - it all emerges from the iteration through theory and practice. To further describe the "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) which form my research (and whose form my research takes) I introduce the Lemniscate:
 
     ∞
 
-Cassini curve "The French astronomer Giovanni Dominico Cassini (1625-1712) found the curves in 1680, while attempting to describe the movement of the earth relative to the sun" (https://www.2dcurves.com/quartic/quarticca.html)
+The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught. My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
+                !!!!Form Drawing / rendering
+                 CONNECTS TO DE CERTEAU --> MAPS OF FOOTSTEPS --> 
+                "a form drawing is a present record of a past movement, the remaining trace of a finished gesture." (Gerbert 1987, 9)
 
-    Eurythmy
-        Spatial awareness, walking backwards
-    Form Drawing
-         "It is the _act_ of drawing that educates, not the result" (Gebert)
-    cognative pathways 
+Note: The lemniscate is the graphical (cartesian) rendering of an equation where the product of two foci is always one. A lemniscate is a curve derived from a constant relation, whereas a figure-eight is a symbol representing the concept of infinity. How then, does ∞, both form and symbol, relate to my spatial praxis and the formation of knowledge? 
+
+Well in algebraic geometry
+algebraic geometry ---> vs projective geometry!!!!! 
+infinity points introduced --> 3D --> think perspective drawing
+
+problem of rendering 3D in 2D (like my thesis)
+add infinity points for perspective but in practice its a lemniscate, 
+
+>Conceptual and Geographical/physical field may be paralell planes, but in projective geometry "where infinity points are added to euclideean space" parallel lines do intersect at infinity. (think of a perspective drawing where rows of skyscrapers on parallel sides of the street convene where the sunsets and the road meets the skysunset.)
+>> practice based --> iterative looping --> bring together fields fields brought together by iteration through theory and praxis : thus I weave, dance, or draw a thesis beyond the monochrome
 
 
-Lemniscate as Infinity Symbol
-     "The common symbol for infinity, ∞, was invented by the English mathematician John Wallis in 1655. " (britannica)
+by the an iteration through theory and practice, ad infinitum. 
 
 
- >Conceptual and Geographical/physical field may be paralell planes, but in projective geometry "where infinity points are added to euclideean space" parallel lines do intersect at infinity.
- >> practice based --> iterative looping --> bring together fields fields brought together by iteration through theory and praxis : thus I weave, dance, or draw a thesis beyond the monochrome
 
-   
+infinity is a concept but through spatial practices - whether iterative drawing or walking - it takes form.
+
     RELATES TO LIMITS 
     limits, counter, conduct, transgression, negative space
+    does ∞ symbolize limitlessness? what was it about coming into contact with limits? 
 
-
+of perpetual motion
 form itself is an unending wave 
-
-
 
 it's a non-linear process which means 
 picking start and end point --> arbitrary 
@@ -67,17 +73,72 @@ is why my output is intentionally non linear
         have fun! i did:)
 
 
-
 Deep mapping is geography in practice. I think *with* the field of my encounter as it unfolds for me. I am a process-oriented geographer who recognizes the journey, with all its detours, as a site of learning. Being lost is the beginning of exploration. Embracing the unknown unknown opens the deep-mapper-as-explorer to possibilities unlimited by expectation. To disoriented discovery.
 
-
+My project is geography in/as/through practice
 
 include 
 "performative mapping" - cite lit
 "performative cartography"
 >>Immersive cartography (though maybe field? ach, all connected - talk about in ending here)
 
+          
+---------OTHER STUFF FOR OTHER PLACES-----------
+DETOURS AND DIFFRACTION 
+-----------
+Detour 
+
+        Later in the day I'm sitting outside with the same book, writing these musings from the _margins_ to html. A stranger approaches me and asks me, says I'm the only person he's seen today using a physical book. We get to talking. He's in his eighties, never travelled, says he talks instead to all sorts of people to build an understanding of the wider
+        world. He offers me advice: something about detours being an important part of the journey. 
+        
+        Taking the 33 instead of the 99 B-Line to campus was a detour from my habitual route. I'd never taken the 33 before but it goes to show spontaneity (in my practical experience) is often met with serendipitous convergences. 
+
+    //My commute is fieldwork. Process oriented research recognizes the journey as a site of learning (and knowledge production!).
+
+    Detour Maps
+         Construction at the intersection disorient familiar navigations. Re-orientation can only be established from looking around; from the city's map -- only further disorientation. 
+   
+Lost (v.) Losing
+    I lost my initial project outline when my computer broke unexpectedly. For two months (October - November) I worked analogue and between a friend's computer and the public library. Finally buying a new device I learned I'd have to wait till January to recover scrivener files backed up (once, on a whim, call that spontaneous serendipity) to the cloud. Losing my outline and writings from the fall was disorienting. However, it allowed for the re-formation of my thoughts and the push to figure out a different way to organize my writing. Without this detour I wouldn't have thought to use a code editor to write, git to save and track changes, and GitHub to organize my text in process. 
+
+    Getting lost as a practice--> solo
+    (Bike ride on the north shore - feeling where the path was!)
+    Slow scholarship (tkaes time sentence)
+
+    Process-oriented research recognizes the journey is a site of learning. Being lost is the beginning of exploration.
+
+
+    Like many colleagues, beginning a graduate program meant moving to a new city, biome, country. I arrived in Vancouver disoriented. As cartography marked sixty maps of downtown before I finally ventured there. Points, Lines, Polygon planes - memorizing contours blurb [insert paragraph from lecture I gave but the contents of which I lost to the cloud pending account recovery on january 9th.] While Google Maps helped me get from A to B, the drive to locate and coordinate precludes disoriented discovery.     
+
+        "It seems as though in the end, maps —the successful ones, the ones that show us where we are and get us from here to there —risk offering only two alternatives. They let us see too much, and hence blind us to what we cannot see, imposing a quiet tyranny of orientation that erases the possibility of disoriented discovery, or they lose sight of all the other things that we ought to see. They omit, according to their conventions, those invisible lines of people, places, and networks that create the most common spaces we live in today." (Laura Kurgan, 16-17 from Close up and at a distance)
+
+
+ ^^^  There are multiple ways to connect concepts, multiple pathways to understanding, multiple routes to a destination. 
+   
+  geographers site /fieldwork quote //enacting diff if talk research creation first
+Deep mapping is geography in practice. I think *with* the field of my encounter as it unfolds for me. I am a process-oriented geographer who recognizes the journey, with all its detours, as a site of learning. Being lost is the beginning of exploration. Embracing the unknown unknown opens the deep-mapper-as-explorer to possibilities unlimited by expectation. To disoriented discovery.
+
+Form(at)
+Navigating my practice-based research output
+connect to navigations of this space --> why its configured in this form and how to navigate it --
+
+  The concept of Navigation Tuin and Verhoeff reference the writing of Paul Dourish on Embodied Interaction. 
+    Navigating user interfaces. ---->   CAN CONNECT TO HOW TO NAVIGATE THIS SPACE
+
+
+       Describe navigations for this space
+        also repetition of quotes places -- different ways they fit together 
+        thesis not like a puzzle at all only one way everything fits together to produce an image, a map, a representation, rendering of my research. 
+        no, this space is for your disoriented discovery. 
+        have fun! i did:)
+kingsway disorients my grid of vancouver --> use this to connnect to ending dis. about navigating this site
       
+
+
+      Process-oriented research recognizes the journey is a site of learning. Being lost is the beginning of exploration.
+
+
+      Deep mapping as research-creation takes the form of a lemniscate.
 
 From here:
 >Constructive Interference with The Basemap
@@ -86,3 +147,8 @@ From here:
 >on navigating HERE to (journey.txt)
 
 ---
+
+chiasmus?
+
+
+geography in theory is a practice but in practice a geography is but theory  
