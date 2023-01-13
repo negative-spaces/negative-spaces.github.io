@@ -29,8 +29,10 @@ The lemniscate is a form I grew up drawing and walking as part of Waldorf pedago
                 !!!!Form Drawing / rendering
                  CONNECTS TO DE CERTEAU --> MAPS OF FOOTSTEPS --> 
                 "a form drawing is a present record of a past movement, the remaining trace of a finished gesture." (Gerbert 1987, 9)
-
-Note: The lemniscate is the graphical (cartesian) rendering of an equation where the product of two foci is always one. A lemniscate is a curve derived from a constant relation, whereas a figure-eight is a symbol representing the concept of infinity. How then, does ∞, both form and symbol, relate to my spatial praxis and the formation of knowledge? 
+                
+Note: 
+(still working on this definition...)
+The lemniscate is the graphical (cartesian) rendering of an equation where the product of two foci is always one. A lemniscate is a curve derived from a constant relation, whereas a figure-eight is a symbol representing the concept of infinity. How then, does ∞, both form and symbol, relate to my spatial praxis and the formation of knowledge? 
 
 Well in algebraic geometry
 algebraic geometry ---> vs projective geometry!!!!! 
