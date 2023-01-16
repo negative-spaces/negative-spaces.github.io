@@ -1,0 +1,35 @@
+
+    RESEARCH-CREATION
+    
+    "
+    research-creation suggests a mode of knowledge
+production that does more than simply contribute to existing realms of
+interdisciplinary and disciplinary data. Instead, without eschewing the
+asymmetries of hierarchical disciplinary differences, it tumbles outside
+of these intellectual frameworks, challenging practice/theory divides as
+they police what gets to count as a valid object and method, within which
+disciplinary framework, where, when, and how." pg 70 loveless 
+    deep mapping as research-creation 
+
+        Truman, Sarah. Feminist Speculations and the Practice of Research-Creation: Writing Pedagogies and Intertextual Affects. Accessed December 17, 2022. https://www.routledge.com/Feminist-Speculations-and-the-Practice-of-Research-Creation-Writing-Pedagogies/Truman/p/book/9780367612627.
+        Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
+        ———, ed. Knowings and Knots. The University of Alberta Press, 2019. https://www.uap.ualberta.ca/titles/956-9781772124859-knowings-and-knots.
+
+("Research-creation follows desire, and builds spaces and contexts that allow the time and space to _experiment in unpredictable directions_." -Loveless)
+
+JK GIBSON graham paper on knowledge produciton
+
+
+    MEASURE , METRICS 
+        rhythm exceeds measure... 
+
+    MAKING SPACE for deep mapping
+        How might spatial praxes that counter cartography be rendered without being flattened, georeferenced, or vectorized?
+            about this space
+            making do/learning through doing
+            revalorizing process --> commit history
+            spatiality of git 
+            workflows, troubleshooting, computational thinking, pathways, labyrinths, neural networks
+
+            cite:
+                Zana, Sultana. “This Is an Unconnected Network.” Accessed August 5, 2022. https://sultanazana.github.io/
