@@ -1,21 +1,74 @@
 
-    RESEARCH-CREATION
+RESEARCH-CREATION & RENDERING RESEARCH PUBLIC 
+concepts: constructive-interference, diffraction, rhythm, transformation, form  
+
+Quotes and Notes from A Manifesto for Research-Creation (2019) by Natalie Loveless
+    Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
+
+    Chapter 1: the way we tell stories matters --> has material semiotic impact
+        Referencing King and Haraway, Loveless writes "One invites us to attend to how we are remade by all we speak and hear. One invites us to attend to how we are remade through all we touch and are touched by. Both frame these intertwined sensorial relations as productive of stories that matter" (22).
+            > touch and being touched : feeling the city --> bridge poem; rhythmanalysis 
+                I pressed my chest against the bridge and felt at once its trembling vibration and my own heart’s rapid beating. My body in visceral contact with that of the city - its infrastructure - I embodied for some duration the city’s rhythm.
+
+            ***Deep mapping :: research-creation :: constructive interference :: diffraction :: transformation through encounter, two waves (rhythms) are spatiotemporally aligned and in so being alter and are altered by one another producing a new wave (subject/object, researcher/field, Lily/City)***
     
-    "
-    research-creation suggests a mode of knowledge
-production that does more than simply contribute to existing realms of
-interdisciplinary and disciplinary data. Instead, without eschewing the
-asymmetries of hierarchical disciplinary differences, it tumbles outside
-of these intellectual frameworks, challenging practice/theory divides as
-they police what gets to count as a valid object and method, within which
-disciplinary framework, where, when, and how." pg 70 loveless 
-    deep mapping as research-creation 
+        Research-creation outputs as 'boundary objects' (Bowker and Star 1999)
+            "A boundary object does things with disciplines, satisfying certain of their requirements, without, however, belonging properly to any one of them" (32)
 
-        Truman, Sarah. Feminist Speculations and the Practice of Research-Creation: Writing Pedagogies and Intertextual Affects. Accessed December 17, 2022. https://www.routledge.com/Feminist-Speculations-and-the-Practice-of-Research-Creation-Writing-Pedagogies/Truman/p/book/9780367612627.
-        Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
-        ———, ed. Knowings and Knots. The University of Alberta Press, 2019. https://www.uap.ualberta.ca/titles/956-9781772124859-knowings-and-knots.
+    Chapter 2 --> art: value; evaluation; legibility; measure; What gets to count 
+        Form! Matters!
+        "Research-creation, in important ways, resists the illustrative frameworks in which a thesis or dissertation explains, justifies, or describes an artistic practice (and vice-versa), exploding the inherited binary between the artistobject and the theorist-subject..." (44)
 
-("Research-creation follows desire, and builds spaces and contexts that allow the time and space to _experiment in unpredictable directions_." -Loveless)
+        "To bring scholarly disciplines together with historically nonacademic practices...and then to engage these as scholarly activities is not only to challenge the questions and methods (and therefore blind spots) that structure a given discipline (the sine qua non for interdisciplinarity), it is also to question our very understanding of the work of the university. It is to push at the various ways that the university (specifically in the humanities and social sciences) has established for making scholarly research public—which modes of publication... are seen as valid, useful, peer reviewable, and capable of pushing an academic discourse forward in ways legitimated by the fields at stake, and legible (enough) to those doing the work of assessment to count. It is to allow oneself to take on the risk of insufficiency without letting oneself off the hook for accountability. 
+            It is to tell new stories, in new ways, in the academy.
+            And to be told by them." (45)
+
+                > relates to frame at Jericho Beach: What do you see? Many stories exist in the landscape
+                Connects to Maleea Acker's Lyric Geography (2019, 132): "Place impels me; it is the actor. Place unfurls around me; it becomes the subject."
+        
+        THIS IS IT
+            The research question is "setting up a dialogue with the world, and driven by the
+            very real pulsations of our links+/objets a.16 If we understand researchcreation as productive of undutiful, uncanny, boundary objects, it is the queer and queering, polydisciplinamorous link+/objet a that organizes such production. It does so by insisting we attend to those drives and desires that animate our stories—the stories that we find ourselves told by—and the ethics embedded in such modes of attention. The stories at stake here are not conscious. These aren’t simply stories that we mobilize, that we control. These are stories that grasp us as much if not more than we grasp them."
+                > For me these stories are Invisible Cities by Italo Calvino and Rhythmanalysis by Henri Lefebvre. 
+                    "...to grasp a rhythm it is necessary to have been grasped by it; one must let oneself go, give oneself over, abandon oneself to its duration. 
+                    
+                    Like in music and the learning of a language (in which one only really understands the meanings and connections when one comes to produce them, which is to say, to produce spoken rhythms)." (27)
+
+
+    Mode of Knowledge Production
+        "research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how" (70). 
+            >Theory/Praxis; What gets to count 
+            >Practice based vs. practice led
+        Telling stories this way, rendering research this way --> risks illegibility; unintelligibility; Learning through disorientation, Uncanny, Unknown, Discomfort
+        > Making space as my outcome, integrating form and content, theory and practice gleanings while intersecting conceptual and geographical fields through navigations --> attempt to "render the university a site of potential uncanniness by rendering the familiar unfamiliar" (51). 
+        
+         
+    Polydisciplinamory / Curiosity; drive;lure;pull; INTUITION
+        challenges content-oriented interdisciplinarity by suggesting attention to how one relates to the various fields drawn upon and the ways in which one's research form/s kinship ties
+        
+        "Read in this way, theoretical polyamory informs and re-forms the approach to interdisciplinarity—the organizations of knowledge, attention to hegemonic power structures, and intergenerational reproductions—demanded by research-creation as it has been figured over the past two chapters. Traditional interdisciplinarity, with its intertheory thrust, could be said to be about who (which disciplines) one commits to, while research-creation, as a polydisciplinamorous orientation, becomes about how one commits to producing new kinship ties not only in terms of content (the “who”) but in terms of form (the “how”). Taught by the poly lit detailed above, polydisciplinamory argues that not all disciplinarities are equal: it sees monogamous disciplinarity as a structure of relating based on exclusion and a polydisciplinamorous one as allowing for disciplinary acts while rejecting the imperative of monodisciplinarity as the only site of rigorous legitimacy." (63 - 64)
+
+        "How we do, think about, think-with our research practices—be they written, spoken, or danced—matters." (70)   THINK WITH PRACTICE 
+
+        "Research-creation, understood in this way, is a practice of love. It is
+        an erotic, driven, invested practice. And, as such, it fails to fit into those
+        models that see interdisciplinarity as a way to streamline and multiply
+        research productivities. It is too disruptive for that. Research-creation follows desire, and builds spaces and contexts that allow the time and space
+        to experiment in unpredictable directions. " (70)
+            > Connects to exploration; navigation of fields (written about in navigation.txt) and therefore connects to 
+
+    Slow Scholarship
+        "I turn to research-creation to encourage modes of temporal and material attunement within the academy that require slowing down in a way that does not fetishize the slow but in which slowness comes from the work of defamiliarization and the time it takes to ask questions differently. Research-creation, at its best, has the capacity to impact our social and material conditions, not by offering more facts, differently figured, but by finding ways, through aesthetic encounters and events, to persuade us to care and to care differently." (107)
+
+    
+Loveless, Natalie., ed. Knowings and Knots. The University of Alberta Press, 2019. https://www.uap.ualberta.ca/titles/956-9781772124859-knowings-and-knots.
+
+Truman, Sarah. Feminist Speculations and the Practice of Research-Creation: Writing Pedagogies and Intertextual Affects. Accessed December 17, 2022. https://www.routledge.com/Feminist-Speculations-and-the-Practice-of-Research-Creation-Writing-Pedagogies/Truman/p/book/9780367612627.
+        
+
+ 
+
+
 
 JK GIBSON graham paper on knowledge produciton
 
@@ -23,8 +76,11 @@ JK GIBSON graham paper on knowledge produciton
     MEASURE , METRICS 
         rhythm exceeds measure... 
 
-    MAKING SPACE for deep mapping
+MAKING SPACE for deep mapping
         How might spatial praxes that counter cartography be rendered without being flattened, georeferenced, or vectorized?
+
+        The question of how we might render rhizomatic spatial praxes without linearizing, flattening, or georeferencing is one I’ve been walking with recently. Deep mapping as I conceive of it does not counter cartography. It is not defined by opposition so much as through acts of iterative intervention with the basemap, established forms of knowledge production, and accepted ways of rendering research public.  The concept of deep mapping as constructive interference came to me while breathing with the ocean. The day was grey but at my feet I noticed foam forming bubbles on whose surface spun psychedelic spirals. This happens due to thin film interference, where light waves reflecting off the surface are interfered with by waves which have entered the film and re-emerged as refracted light. When refracted waves align with those reflected, they interfere constructively, intensifying the wavelength of light to make visible an abundance of colors. Deep mapping is constructive interference with the superficial reflection that is place rendered by flat maps. It’s situated, embodied inhabitation – a dialogue with the field of encounter. Off the page. Transformation through everyday navigations, relationships, conversations.
+
             about this space
             making do/learning through doing
             revalorizing process --> commit history
