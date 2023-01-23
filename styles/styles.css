@@ -6,7 +6,6 @@
     src: url(./Inconsolata/static/Inconsolata/Inconsolata-Light.ttf);
 }
 
-
 /* Headings */
 h1 {
     font-family: 'Courier New', Courier, monospace;
@@ -22,7 +21,6 @@ h3 {
     text-align: center;
     text-transform: uppercase;
 }
-
 
 /* Default Paragraph */
 p {
@@ -105,7 +103,6 @@ a:hover {
 }
 
 /*SCROLLING COLUMN*/
-
 
 #content, html, body {
     box-sizing: border-box;
