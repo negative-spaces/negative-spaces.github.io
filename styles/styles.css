@@ -104,13 +104,38 @@ a:hover {
     text-decoration: none;
 }
 
-/*SCROLLING COLUMN
-/* two independently scrolling columns*/
+/*SCROLLING COLUMN*/
+
 
 #content, html, body {
-    height: 70%;
-    box-sizing: content-box;
+    box-sizing: border-box;
+    height: 250px;
+    width: 100%;
+    
 }
+
+/* one scrolling column*/
+#scroll-box {
+    width: 55%;
+    height:250px;
+    overflow: scroll;
+    margin-left: 23.5%;
+
+}
+
+/*scrolling text*/
+#scroll-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 11pt;
+    font-weight: lighter;
+    line-height: 1.5;
+    text-align: justify;
+    margin-right:2%;
+    margin-left:2%;
+
+}
+
+/* two independently scrolling columns*/
 #left {
     float: left;
     width: 60%;
@@ -123,12 +148,10 @@ a:hover {
     height: 100%;
     margin-right: 10%;
     overflow: scroll;
-
 }
-/* one scrolling column*/
-#center {
-    float: left;
-    width: 100%;
-    height: 100%;
-    overflow: scroll;
+
+#field-image {
+    margin-left: 23.5%; 
+    margin-right: auto; 
+    width: 55%;
 }
