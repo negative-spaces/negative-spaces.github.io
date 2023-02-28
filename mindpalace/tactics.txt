@@ -10,7 +10,7 @@ Tactics vs. strategies,
     bricolage, methodological eclecticism (de Certeau; Kincheloe; Roberts)
         Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
 
-        "I call a strategy the calculation (or manipula­ tion) of power relationships that becomes possible as soon as a subject with will and power (a business, an army, a city, a scientific institution) can be isolated. It postulates a place that can be delimited as its own and serve as the base from which relations with an exteriority composed of targets or threats (customers or competitors, enemies, the country sur­ rounding the city, objectives and objects of research, etc.) can be man­ aged. As in management, every "strategic" rationalization seeks first of all to distinguish its "own" place, that is, the place of its own power and will, from an "environment." A Cartesian attitude, if you wish: it is an effort to delimit one's own place in a world bewitched by the invisible powers of the Other." (35-36) Mastery of place over time. "The "proper" is a triumph of place over time." --> Proper nounification of city (connect to deleuze and guattari). Mastery of places by sight --> panoptic practice made possible (connect to rhythmanalyst who is more sensitive of times than of spaces, yet finds a bit of vantace offers optimal position for observing/sensing)
+        "I call a strategy the calculation (or manipula­tion) of power relationships that becomes possible as soon as a subject with will and power (a business, an army, a city, a scientific institution) can be isolated. It postulates a place that can be delimited as its own and serve as the base from which relations with an exteriority composed of targets or threats (customers or competitors, enemies, the country sur­ rounding the city, objectives and objects of research, etc.) can be man­ aged. As in management, every "strategic" rationalization seeks first of all to distinguish its "own" place, that is, the place of its own power and will, from an "environment." A Cartesian attitude, if you wish: it is an effort to delimit one's own place in a world bewitched by the invisible powers of the Other." (35-36) Mastery of place over time. "The "proper" is a triumph of place over time." --> Proper nounification of city (connect to deleuze and guattari). Mastery of places by sight --> panoptic practice made possible (connect to rhythmanalyst who is more sensitive of times than of spaces, yet finds a bit of vantace offers optimal position for observing/sensing)
 
         --
 
@@ -21,24 +21,31 @@ Tactics vs. strategies,
         >LOCI - exteriority (tactics will come around again in discussion of negative space; transgression)
         >theory, constituted through practice, theory as praxis, practice, navigations constitute field of encounter, navigations are trajectories, without loci, tactics not tracings, trajectories, flash, illuminating negative space, problematizing oppositions, expanding the field by refocusing the field from within, 'eluding discipline without being outside the field in which it is exercised', transgression. 
 
-    Bricolage, Making Do, Methodological Eclecticism
+    Bricolage, Making Do, Methodological Eclecticism, Gleaning, Informal Economies 
         Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. 
 
         "gleaning as spatial praxis"
 
-Gleaning, Informal Economies (Arthur; {Narayan and Rosenman; Gibson-Graham})
-    Walking (residential) Alleys, shoes, outlet, giving (time) freely, indirect poaching
+        "Whatever is found in whatever landscape the gleanerbricoleur happens to find herself at whatever time she happens to be there is poetntially constituent matter of an assemblage-in-progress, the production of which may take a number of different forms (or none at all - the practice of gleaning-bricolage need not cede an 'output' for it to still count as gleaning and/or bricolage)." (58)
 
-    Arthur, Mathew. “Four Alleys.” Society for Cultural Anthropology. Accessed December 17, 2022. https://culanth.org/fieldsights/series/four-alleys.
+        "space is being _made_ but only from what is ready-to-hand and by putting to work only those methods that offer themselves up for strategically provisional means" (roberts 54)--> git space
+        "allowing circumstances to shape methods employed"
+            Lefebvre calls concepts "methodologically utilised categories" 
 
-        “I survey the patternings of alley scenes to offer a speculative vocabulary for practicing the data of city life otherwise—each term an incitement to mess with instructions, to make space for the world to keep on.”
+    
+        Arthur, Mathew. “Four Alleys.” Society for Cultural Anthropology. Accessed December 17, 2022. https://culanth.org/fieldsights/series/four-alleys.
 
-        “Walking alleys is not about transition, as if place could be stabilized by any easy mapping of movement from A to B. Nor is it meant to transgress method as usual. Rather, walking is “transcorporeal, transitive, and transspecies” (Springgay & Truman 2017)—it activates the ethics of being undifferentiably entangled in world. To walk as method is to contest processes of datafication while dramatizing what is noticed in order to tell stories that matter (Powell 2017).”
+            “I survey the patternings of alley scenes to offer a speculative vocabulary for practicing the data of city life otherwise—each term an incitement to mess with instructions, to make space for the world to keep on.”
 
-        “Alleys are a form of attention, where abandoned and jerry-rigged uses cue rhythms of material life that seem too much or not enough. They are out of sync with market logics, circulatory zones where thriftiness counts as care”
-        “Property lines are breached with trash.” “The data of my alley walks refuse easy coding”
-            Rhizome; overcoding; Alleys as rhizome; deep mapping data as rhizome itself 
+            “Walking alleys is not about transition, as if place could be stabilized by any easy mapping of movement from A to B. Nor is it meant to transgress method as usual. Rather, walking is “transcorporeal, transitive, and transspecies” (Springgay & Truman 2017)—it activates the ethics of being undifferentiably entangled in world. To walk as method is to contest processes of datafication while dramatizing what is noticed in order to tell stories that matter (Powell 2017).”
 
+            “Alleys are a form of attention, where abandoned and jerry-rigged uses cue rhythms of material life that seem too much or not enough. They are out of sync with market logics, circulatory zones where thriftiness counts as care”
+            “Property lines are breached with trash.” “The data of my alley walks refuse easy coding”
+            
+        Rhizome; overcoding; Alleys as rhizome; deep mapping data as rhizome itself 
+        Walking (residential) Alleys, shoes, outlet, giving (time) freely, indirect poaching
+
+            
 
 Practical Knowledge (Scott)
     Scott, James. “Thin Simplifications and Practical Knowledge: Mētis.” In Seeing Like a State, 309–41. Yale University Press, 1998. https://yalebooks.yale.edu/9780300078152/seeing-like-a-state.
@@ -88,6 +95,11 @@ Theory, Practice, Toolkit (Foucault and Deleuze)
 
         Foucault: "... In this sense theory does not express, translate, or serve to apply practice: it is practice. But it is local and regional, as you said, and not totalising. This is a struggle against power, a struggle aimed at revealing and undermining power where it is most invisible and insidious. It is not to "awaken consciousness" that we struggle (the masses have been aware for some time that consciousness is a form of knowledge; and consciousness as the basis of subjectivity is a prerogative of the bourgeoisie), but to sap power, to take power; it is an activity conducted alongside those who struggle for power, and not their illumination from a safe distance. A "theory " is the regional system of this struggle."
         Deleuze "Precisely. A theory is exactly like a box of tools. It has nothing to do with the signi er. It must be useful. It must function. And not for itself. If no one uses it, beginning with the theoretician himself (who then ceases to be a theoretician), then the theory is worthless or the moment is inappropriate.... A theory does not totalise; it is an instrument for multiplication and it also multiplies itself."
+
+        
+        Theory as a toolkit; 
+         Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. 
+            "the researcher-as-bricoleur goes about his or her business equipped with a set of tools rather than a fit-for-purpose methodolotical strategy" (Roberts 2018, 54) --> tactics are tools, driven by theory. I am a bricoleur-as-researcher. 
 
     
 
