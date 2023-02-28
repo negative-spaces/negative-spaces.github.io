@@ -25,7 +25,7 @@ h3 {
 /* Default Paragraph */
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 11pt;
+    font-size: 12pt;
     font-weight: lighter;
     line-height: 1.5;
     text-align: justify;
@@ -40,6 +40,7 @@ p {
 
     font-family: "Inconsolata";
     font-size: 11pt;
+    /*font-weight: bold;*/
     text-transform: uppercase;
     text-align: justify;
     letter-spacing: .2mm;
@@ -81,6 +82,7 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 9.5pt;
 }
+
 /* Link Hover */
 a:link {
     align-items: center;
@@ -132,6 +134,27 @@ a:hover {
 
 }
 
+/* static div text */
+#static-box {
+    width: 55%;
+    margin-left: 23.5%;
+}
+
+#static-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 11pt;
+    font-weight: lighter;
+    line-height: 1.5;
+    text-align: justify;
+    letter-spacing: .2mm;
+    margin-right:0%;
+    margin-left:0%;
+}
+
+
+
+
+/*COMMON PLACE WRITING*/
 /* two independently scrolling columns*/
 #left {
     float: left;
