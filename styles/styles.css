@@ -40,12 +40,10 @@ p {
 
     font-family: "Inconsolata";
     font-size: 11pt;
-    /*font-weight: bold;*/
+    font-weight: bold;
     text-transform: uppercase;
     text-align: justify;
     letter-spacing: .2mm;
-    margin-right: 25%;
-    margin-left: 25%;
 
 }
 
