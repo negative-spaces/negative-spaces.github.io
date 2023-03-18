@@ -1,5 +1,5 @@
 ---
-permalink: /negative-space.html
+permalink: /index.html
 ---
 
 
