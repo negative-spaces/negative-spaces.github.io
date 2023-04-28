@@ -1,0 +1,87 @@
+
+disOrientation
+    learning through disorientation 
+    my educational background in physical geography and GIS; 
+    Moving here; TAing cartography;  
+    Tyranny of orientation: Flat maps, Google Maps, Geographic Information Science 
+        GIS - STS - Situated Knowledges 
+        Multiple stories exist in the landscape, what do you see? (R-c stories drawn by, italo calvino's invisible cities) intertextuality
+    Detours, Topology (GIS and mental map)
+        Vignette: getting to wise 3 different ways, taking 33 bus 
+    The city, performatively constituted through navigations as a physical-conceptual field of encounter 
+    Research Creation --> Questions that set up a dialogue with the world, assuming the city, the field of my encounter as interlocutor
+    Thinking *with* place, *feeling* the city
+
+Thinking through Practice 
+    Deep Mapping - situated embodied cohabitation 
+        I explore and respond to these questions through deep mapping, a spatial practice of situated, embodied cohabitation through which I enter into dialogue with my surroundings. 
+        empirics from practice inform each plateau, not separated
+
+    Deep mapping does not counter cartography - not defined by opposition so much as through interference with ENGAGING/REPRESENTING PLACE, PRODUCING GEOGRAPHIC KNOWLEDGE, RENDERING SPATIAL RESEARCH PUBLIC. Spatial analysis that accounts for rhythms, knowledge formed by practices of everyday life. came to this theorization by Thinking Through Practice. 
+
+    Spatial anthropology
+
+        Accountability for positionality, exclusions, partiality of interpretation in conversation. locate work in negative space --> challenge choropleth mappings of place, boundaries, limits, transgressive knowledge production. 
+
+        Relationship Anarchy -> "Build for the lovely unexpected" my orientation is that of slowing down, giving freely, and being open - open to spontaneity, serendipity, and the possibility of being transformed by the field. 
+        Maleea acker quote, though problematise "subject". 
+    
+
+Interference
+    Deep mapping is an orientation to geography research which recognizes, as Barad does, that “knowing, thinking, measuring, theorizing, and observing are material practices of intra-acting within and as part of the world” (Barad 2007, 90).
+
+    Vignette: Bubble at wreck beach
+        January 2022; First conception of deep mapping as (constructive) interference - stepping "into" the field as it were, diffracting, and interfering with superficial reflections (basemap) to produce a cartography beyond the monochrome 
+
+    Deep mapping not counter-cartography - not in opposition to cartography, GIS. Not outside field. Interfering generatively within. 
+    
+    Situated knowledge --> commonalities and differences through dialogue, overlapping rhythms - constructive and destructive interference.
+
+    Ideas, diffracting  - Frameworks, books, ways i read --> Thinking through practice (bridge) Frameworks, intertextuality
+     
+    Deep mapping as a 'diffractive apparatus' (Barad) - site and tactic for generating interference and studying how these patterns come to matter
+    
+
+Negative Space
+    Krauss, expanded field through problematizing oppositions
+    Vignette: Avoid the subject sticker on lampost in gastown - February 2022 during rhythmanalysis (before i knew of the book) at intersection as part of counter-cartographies 
+    Alleys
+    Negative space --> Transgression (Foucault)
+    eluding discipline from within the field (de certeau)
+
+Tactics
+    GIS strategy(jon goss) vs Deep mapping tactics 
+    Gleaning, Bricolage, Making do: What are tactics? My tactics?
+        talk about my fieldwork! 
+    Practical knowledge (James Scott, metis)
+    ND - pattern recognition, Computational Thinking (GIS) 
+    Analogue methods
+    Slow Scholarship
+
+Rhythmanalysis
+    Rhythm exceeds measure, monday night runners vignette 
+    Roberts - marooning - so cool!!!! 
+    Bridge - feeling the city - bodily boundaries, de certeau on bridge
+    time geography - allen pred
+
+Rendering
+    Research creation: the rhythm of deep mapping  
+    lemniscate  - rhythm of research creation 
+    form drawing: diffracting practices, situating practice
+    Linearity, A-->B, flatness, pdf
+    Site - ATP 
+    Projections, geoid, distortions, approximations
+    - distortion of different attriubtes minimized FOR nav. PURPOSES etc. --> cartographers SELECT Projection
+
+Superposition
+    Theory as Praxis
+    Theory and practice, toolbox (tactics) (Deleuze and Foucault)
+    its all the field (ex. conference, symposium)
+    this site, its form and formation, site and tactic of dm, praxis
+    inseparability of "self" from research practice 
+    
+
+Toolkit 
+    methods
+Field Notes
+Process Commonplace 
