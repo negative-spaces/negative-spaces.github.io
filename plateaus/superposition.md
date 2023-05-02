@@ -1,0 +1,6 @@
+# Superposition 
+After a risky speech I was asked: "Are you more of a wave or a particle?" All I could think to say then was "interesting how you've framed the question as an either or..." 
+
+I've been holding the duality in mind since - subconciously mostly - until a beginning of something came one morning like the momentary illumination of lighting:
+
+I am (we are all) both wave and particle. Although routinely apprehended as individuals, fixed, bounded, defined bodies, we are permeable - continuously transfiguring through encounters, experiencing life as a process transforming and transfiguring through intra-action. We emanate waves which interfere and are interfered with by others, human and nonhuman. To practice deep mapping is to embody superposition: (theorypractice, spacetime, waveparticle, subjectobject, thinkingbeing, ontoepistemology, insideoutside,  .... ). Paradox is not a closure but an opening - to possibilities - the existance of multiple states, simultaneous multiplicities, inextricable layers.
