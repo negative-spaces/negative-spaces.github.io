@@ -1,5 +1,5 @@
 NAVIGATIONS 
- concepts: Route, Disorientation, Lost, Detour, {Detournement,} Lemniscate, Loops, Journey, Exploration, Form(at -drawing)
+ concepts: Route, Disorientation, Lost, Detour, {Detournement,} Lemniscate, Loops, Journey, Exploration, Form(at -drawing, Field
 
         I take the 33 bus to campus on a whim. I'm running late to teach and I don't want to deal with the hassle of Broadway construction. Why have I never taken the 33? I wonder as a 5 minute walk brings me to a deserted stop. I sit on a bench in the sun to catch my breath a moment. The 33 is one of the smaller buses. Its seats have that soft fabric patterned like a roller rink carpet. Riding the 33 is outside my routine. Its route takes me through places I've been before but have yet to connect via this navigation. ("I didn't realize the WISE was so close to Commercial! I came a different way last time. Oh, I remember walking through this park though! Okay, now I know where I am and where the WISE 'really is.'") The city is daily reinvented in my imaginary. Though far from Venice, I could fill a book with each page a different Vancouver. The city emerges for me not through place making alone but from connections - spatial relationships - drawn by my moving in/out/through/between/among areas of familiarity.
 
@@ -13,7 +13,7 @@ NAVIGATIONS
 
     Just as navigating the geographical field articulates a mental map of physical space navigations within a conceptual field articulate a theoretical framework - a cognitive conceptualization of an emergent web of connection at which my ideas tug and pull. Following a concept in multiple directions I find myself making surprising connections. I write "follow" because when I loosen my desire to arrive at a specific place, when I release control of the destination as it were, I make room for latent connections to make themselves (apparent).  
     
-    Exploration, put one way, is "the action of traveling in or through an unfamiliar area in order to learn about it" (https://bit.ly/3XeFxZw). Deep mapping is a practice of learning through disorientation. Though the field, geographical or conceptual, is at first unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute the field of encounter. 
+    Exploration, put one way, is "the action of traveling in or through an unfamiliar area in order to learn about it" (https://bit.ly/3XeFxZw). Deep mapping is a practice of learning through disorientation. Though the field, geographical or conceptual, is at first unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute whats known of the field - the field of encounter. 
     
         "...navigation itself produces knowledge that feeds into its course and experience itself." (Tuin and Verhoeff 2022, 137-139) 
     
@@ -26,46 +26,20 @@ That sentence took nine months of writing and re-writing. My theory, the knowled
     ∞
 
 The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught. My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
-                !!!!Form Drawing / rendering
-                 CONNECTS TO DE CERTEAU --> MAPS OF FOOTSTEPS --> 
-                "a form drawing is a present record of a past movement, the remaining trace of a finished gesture." (Gerbert 1987, 9)
-                
-Note: 
-(still working on this definition...)
+           
 The lemniscate is the graphical (cartesian) rendering of an equation where the product of two foci is always one. A lemniscate is a curve derived from a constant relation, whereas a figure-eight is a symbol representing the concept of infinity. How then, does ∞, both form and symbol, relate to my spatial praxis and the formation of knowledge? 
 
-Well in algebraic geometry
-algebraic geometry ---> vs projective geometry!!!!! 
-infinity points introduced --> 3D --> think perspective drawing
+This part is a bit tricky and theoretical but basically it turns out that introducing infinity into euclidean space allows parallel planes to intersect at that very point of infinity. Think perspective drawing where parallel sides of the street converge at one or more (focal) points on the horizon. My lemniscate-like looping through theory and practice is enacting an intersection of the conceptual and geographical fields. Though they may exist as parallel planes, the introduction of intervention ad infinitum is the very thing which brings them into dialogue. In this way I hope to, albeit circuitously, explain how deep mapping is thinking *with* the fields of encounter. 
 
-problem of rendering 3D in 2D (like my thesis)
-add infinity points for perspective but in practice its a lemniscate, 
+    where to begin 
+         -last winter - bubble, march -- negative space concept and constructive interference, may decision to do this as thesis though it was cartographic map based (open ended though) but even before undergrad thesis -- critical and creative cartography of pandemic including isolation psychogeography where i walked around in the woods. whole project was multi media website. 
 
->Conceptual and Geographical/physical field may be paralell planes, but in projective geometry "where infinity points are added to euclideean space" parallel lines do intersect at infinity. (think of a perspective drawing where rows of skyscrapers on parallel sides of the street convene where the sunsets and the road meets the skysunset.)
->> practice based --> iterative looping --> bring together fields fields brought together by iteration through theory and praxis : thus I weave, dance, or draw a thesis beyond the monochrome
+         "The bricoleur—as compared to, say, the scientist or engineer—is arguably less governed by an overarching awareness that they are embarked on a ‘project’, and that, correspondingly, they are performing in compliance with a clearly defined set of ‘aims’ or ‘objectives’. The idea that research might be conducted under conditions of aimlessness and without a clear objective in mind does not necessarily mean that it lacks the rigours of ‘accomplishment and execution’ but that
+         "much of what is fashioned in the process is contingent on factors that cannot always be foreseen. "
 
+Where, then, do I begin writing? When did this project begin? It becomes clear that picking a beginning and ending point is arbitrary. Picking a starting and ending point from a continuous form is arbitrary. So, where do I begin or end my thesis? How do you render rhizomatic spatial praxes without linearizing, flattening, georeferencing, or vectorizing them? 
 
-by the an iteration through theory and practice, ad infinitum. 
-
-
-
-infinity is a concept but through spatial practices - whether iterative drawing or walking - it takes form.
-
-    RELATES TO LIMITS 
-    limits, counter, conduct, transgression, negative space
-    does ∞ symbolize limitlessness? what was it about coming into contact with limits? 
-
-of perpetual motion
-form itself is an unending wave 
-
-it's a non-linear process which means 
-picking start and end point --> arbitrary 
-
-where to begin 
-     -last winter - bubble, march -- negative space concept and constructive interference, may decision to do this as thesis though it was cartographic map based (open ended though) but even before undergrad thesis -- critical and creative cartography of pandemic including isolation psychogeography where i walked around in the woods. whole project was multi media website. 
-
-
-"The bricoleur—as compared to, say, the scientist or engineer—is arguably less governed by an overarching awareness that they are embarked on a ‘project’, and that, correspondingly, they are performing in compliance with a clearly defined set of ‘aims’ or ‘objectives’. The idea that research might be conducted under conditions of aimlessness and without a clear objective in mind does not necessarily mean that it lacks the rigours of ‘accomplishment and execution’ but that much of what is fashioned in the process is contingent on factors that cannot always be foreseen. "
+This segways into a justification for the form/structure of my thesis output. And, description of how to navigate it. 
 
 is why my output is intentionally non linear 
         Multiple navigations will be offered which guide the interlocutor through differing pathways amongst sections contained within the above groupings.
@@ -75,16 +49,34 @@ is why my output is intentionally non linear
         have fun! i did:)
 
 
+
+End with something about this project being a geography in/as/through practice. Mention that I position myself as a process-oriented geographer who recognizes the journey, with all its detours, as a site of learning. Being lost is the beginning of exploration. Embracing the unknown unknown opens the deep-mapper-as-explorer to possibilities unlimited by expectation. To disoriented discovery.
+
+
 Deep mapping is geography in practice. I think *with* the field of my encounter as it unfolds for me. I am a process-oriented geographer who recognizes the journey, with all its detours, as a site of learning. Being lost is the beginning of exploration. Embracing the unknown unknown opens the deep-mapper-as-explorer to possibilities unlimited by expectation. To disoriented discovery.
 
 My project is geography in/as/through practice
 
 include 
-"performative mapping" - cite lit
+"performative mapping" 
 "performative cartography"
 >>Immersive cartography (though maybe field? ach, all connected - talk about in ending here)
+There is more on detours and lost/losing but I’m already side tracked enough here so I might include those thoughts in my pure fieldnotes instead. 
 
-          
+From Here:
+>Constructive Interference with The Basemap
+>Tactics
+    >Rhythmanalysis, Derive
+>on navigating HERE to (journey.txt)
+>Rendering.txt
+
+
+
+
+
+
+
+
 ---------OTHER STUFF FOR OTHER PLACES-----------
 DETOURS AND DIFFRACTION 
 -----------
@@ -154,3 +146,11 @@ chiasmus?
 
 
 geography in theory is a practice but in practice a geography is but theory  
+
+
+
+trajectories 
+
+"Indeed, this "representation" is insufficient, precisely because a trajectory is drawn, and time and movement are thus reduced to a line that can be seized as a whole by the eye and read in a single moment, as one projects onto a map the path taken by someone walking through a city. However useful this "flattening out" may be, it transforms the temporal articulation of places into a spatial sequence of points. A graph takes the place of an operation. A reversible sign (one that can be read in both directions, once it is projected onto a map) is substituted for a practice indissociable from particular moments and "opportunities," and thus irreversible (one cannot go backward in time, or have another chance at missed oppor­ tunities). It is thus a mark in place of acts, a relic in place of perfor­ mances: it is only their remainder, the sign of their erasure. Such a projection postulates that it is possible to take the one (the mark) for the other (operations articulated on occasions)" (de certeau 35).
+
+connect to deleuze and guattari 
