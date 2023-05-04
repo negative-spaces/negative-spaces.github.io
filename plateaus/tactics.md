@@ -42,14 +42,14 @@ activities that especially engage metis require (313):
 - "The practice and experience reflected in metis is almost always local." (317)
 -  "any formula that excludes or suppresses the experience, knowledge, and adaptability of metis risks incoherence and failure; learning to speak coherent sentences involves far more than merely learning the rules of grammar" (319)
 - developed through iteration!
-                
+- "The practice and experience reflected in metis is almost always local." (317)
 gap b/w general knowledge and situated knowledge - whats lost in jumping scales- like tracing a screenshot of aerial google maps vancouver to get a sense of the city vs inhabiting it for a while
 
 ## Theory as a toolkit
 "the researcher-as-bricoleur goes about his or her business equipped with a set of tools rather than a fit-for-purpose methodological strategy" (Roberts 2018, 54)
 
->Foucault: "... In this sense **theory does not express, translate, or serve to apply practice: it is practice.** But it is local and regional, as you said, and not totalising. This is a struggle against power, a struggle aimed at revealing and undermining power where it is most invisible and insidious. It is not to "awaken consciousness" that we struggle (the masses have been aware for some time that consciousness is a form of knowledge; and consciousness as the basis of subjectivity is a prerogative of the bourgeoisie), but to sap power, to take power; it is an activity conducted alongside those who struggle for power, and not their illumination from a safe distance. A "theory " is the regional system of this struggle."
-Deleuze "Precisely. **A theory is exactly like a box of tools. It has nothing to do with the signifier. It must be useful. It must function. And not for itself. If no one uses it, beginning with the theoretician himself (who then ceases to be a theoretician), then the theory is worthless or the moment is inappropriate....** A theory does not totalise; it is an instrument for multiplication and it also multiplies itself." (Foucault 1977, Intellectuals and power)
+>Foucault: "... In this sense **theory does not express, translate, or serve to apply practice: it is practice.** But it is local and regional, as you said, and not totalising. **This is a struggle against power, a struggle aimed at revealing and undermining power where it is most invisible and insidious.** It is not to "awaken consciousness" that we struggle (the masses have been aware for some time that consciousness is a form of knowledge; and consciousness as the basis of subjectivity is a prerogative of the bourgeoisie), but to sap power, to take power; it is an activity conducted alongside those who struggle for power, and not their illumination from a safe distance. **A "theory " is the regional system of this struggle.**"
+Deleuze "Precisely. **A theory is exactly like a box of tools. It has nothing to do with the signifier. It must be useful. It must function. And not for itself. If no one uses it, beginning with the theoretician himself (who then ceases to be a theoretician), then the theory is worthless or the moment is inappropriate....** A theory does not totalise; it is an instrument for multiplication and it also multiplies itself." (Foucault 1977, Conversation on Intellectuals and Power)
 
 Proper deployment of theory - a tactic
 methods - a tactic
