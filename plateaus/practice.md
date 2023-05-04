@@ -40,3 +40,21 @@ deep mapping is a praxis of interference with hegemonic forms of ENGAGING & REPR
 >"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters." (Loveless 2019, 70)
 
 That is what this project is about. Not a cartography, a trace of practice, a fixation operationalization or method, but an interference, a praxis, a doing and thinking (about) deep mapping
+
+
+
+- Gebert, Rosemary. “Form Drawing.” Child and Man 21, no. 1 (1987).
+- Steiner, Rudolf. “A Lecture on Eurythmy.” Archive. Rudolf Steiner Archive, August 26, 1923. https://rsarchive.org/Lectures/19230826p01.html.
+- McLucas, Clifford. “Deep Mapping.” Clifford McLucas. Accessed December 19, 2022. https://cliffordmclucas.info/deep-mapping.html.
+- Modeen, Mary, and Iain Biggs. “Deep Mapping and Slow Residency.” In Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies, 50–73. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
+- Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. https://doi.org/10.3390/h4030476.
+- Biggs, Iain. “Deep Mapping as an ‘Essaying’ of Place,” 2010. http://www.iainbiggs.co.uk/text-deep-mapping-as-an-essaying-of-place/.
+- ———. “Iain Biggs: Open Deep Mappings Today - a Personal Introduction.” ClimateCultures - Creative Conversations for the Anthropocene (blog). Accessed December 17, 2022. https://climatecultures.net/longer/open-deep-mappings/.
+- Bull, Michael. “Sounding Out the City: An Auditory Epistemology of Urban Experience.” In The Auditory Culture Reader, 2nd ed. Routledge, 2015.
+- Roberts, Les. “Deep Mapping and Spatial Anthropology.” Humanities 5, no. 1 (2016): 5. https://doi.org/10.3390/h5010005.
+- ———. Spatial Anthropology: Excursions in Liminal Space. Rowman and Littlefield, 2018.
+- Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
+- Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
+- Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
+- Candy, Linda. “Practice Based Research: A Guide,” 2006, 19.
+- Brown, Andrew. “Soundwalking: Deep Listening and Spatio-Temporal Montage.” Humanities 6, no. 3 (September 2017): 69. https://doi.org/10.3390/h6030069.
