@@ -4,26 +4,26 @@ foci loci topoi
 field web site
 concepts like research-creation, disoriented discovery, negative space, interference & diffraction - evolve throughout pages and are invoked in different ways.
 
+think more about empirics woven thru each - how argument develops, is threaded through, and concepts/texts are more deeply drawn on 
 
 # disorientation
 [writing space](disorientation.md)
 
 I have come to understand being a geographer as less of an ability to know where you are in space at all times and more **the capacity to learn through disorientation**. Like many colleagues, I began graduate school in a place I’d never been before and where I knew no one. 
 
-Coming from physical geography and geographic information science to human geography
-
-Journey here - driving cross country without linear plan; no mental map of vancouver before arrival 
+I will briefly describe my experience coming from physical geography and geographic information science to human geography - feeling lost and not at all adept... what was it I aimed to achieve in my program? Also mention my journey driving across country here without a linear plan, arriving in Vancouver with no prior mental map of the place I was to inhabit. A few sentences on adjusting, walking around, commuting via bike to campus, my sense of the city confined to dunbar and campus. 
 
 As teaching assistant for a departmental cartography course, I was responsible for introducing and evaluating assignments, as well as demonstrating the use of required software. The first assignment: to **make a map of downtown Vancouver by tracing a screenshot from Google Maps in Adobe Illustrator.** I graded sixty of these maps before I finally ventured to the place they represented. Having now inhabited Vancouver for nearly two years and taught this assignment nine times, I find Google’s map incongruous with my mental map of the city drawn from lived experience. Navigational maps, writes Laura Kurgan, “impos[e] a quiet tyranny of orientation that erases the possibility of disoriented discovery. . .” (2009, 16-17). 
 
+## Navigation makes navigable
+
 **Spatial awareness** of my surroundings has evolved not by following Google's Map from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways.
 
+```
 Vignette: getting to wise 3 different ways, taking 33 bus
+```
 
-I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations like riding the bus and walking the bridge.
-
-
-What if the field were not a site separate from where spatial analyses are produced, maps rendered, and urban geography written? Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking
+I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. `Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations.` The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. I propose an orientation to geography research where the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking
 
 ```
 What could it mean to think *with* place, to *feel* the city?
@@ -42,7 +42,7 @@ What could it mean to think *with* place, to *feel* the city?
 [writing space](practice.md)
 
 ## Refrain from elsewhere
-from [disorientation](./disorientation.md): **Spatial awareness** of my surroundings has evolved not by following Google's Map from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways. Thus disoriented, I find areas of familiarity connected in surprising ways. I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations. What if the field were not a site separate from where spatial analyses are produced, maps rendered, and urban geography written? Bringing this orientation to the ground, as praxis, means assuming the field of encounter (the city, as encountered if you will) as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking, *What could it mean to think *with* place, to *feel* the city?*
+I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. `Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations.` The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. I propose an orientation to geography research where the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking, *What could it mean to think *with* place, to *feel* the city?*
 
 ## Mapping Deeply 
 
@@ -54,12 +54,12 @@ Deep mapping does not render down to a map in the cartesian sense, where action 
 
 >"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art.... to city people the urban center is movement, the unpredictable, the possible and encounters. For then, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
 
-Space as practiced. (Crouch: Space-ing)
+Space as practiced
 
 **Affect**
 "How do we now describe the activity of sensual world-making, and what kind of theory is being built in this way?" (Stewart 2010) Deep mapping as attuning to affective atmospheres... "an atmosphere is not an inert context but a force field in which people find themselves. It is not an effect of other forces but a lived affect a capacity to affect and to be affected that pushes a present into a composition, an expressivity, the sense of potentiality and event. It is an attunement of the senses, of labors, and imaginaries to potential ways of living in or living through things" (Stewart 2010)
 
-Vignette about alleys, garbage and stories in the mundane. 
+**Derive** - the Situationist exercise of drifting about the city and allowing oneself to be pulled by urban geography’s affective contours
 
 "Attending to atmospheric attunements and trying to figure their significance incites forms of writing and critique that detour into descriptive eddies and attach to trajectories" (Stewart 2010, 452): Vignettes from practice are interspersed throughout the site. Constituting the empirics from fieldwork, I cite navigations and encounters from practice in the theory I convey here. 
 
@@ -68,7 +68,7 @@ Vignette about alleys, garbage and stories in the mundane.
 
 Deep mapping is research-creation for my exploration is driven by intellectual and spatial topoi which lure me forwards even before I comprehend where they lead (Loveless 2019, 95). Following a concept in multiple directions I find myself making surprising connections. I write "follow" because when I loosen my desire to arrive at a specific place, when I release control of the destination as it were, I make room for latent connections to make themselves (apparent).  
     
-Exploration, put one way, is ["the action of traveling in or through an unfamiliar area in order to learn about it"](https://bit.ly/3XeFxZw). Deep mapping is a practice of learning through disorientation. Though the field (city, discipline) is at first unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute am embodied topology - the field of encounter. 
+Exploration, put one way, is ["the action of traveling in or through an unfamiliar area in order to learn about it"](https://bit.ly/3XeFxZw). **Deep mapping is a practice of learning through disorientation.** Though the field (city, discipline) is at first unknown and therefore unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute am embodied topology - the field of encounter. 
     
 ```
 My theory of deep mapping is constituted through my practice of deep mapping.
@@ -82,27 +82,21 @@ To further describe the "iterative loops between action, experience, and knowled
 
 ∞
 
-The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. 
-Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). **The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught.** My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
+The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). **The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught.** My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
 
-*Other embodied practices and how they support deep mapping:*
-- playing viola (rhythm, dexterity and different hands doing different things together, breathing with orchestra, learning music by ear --> spatial memory)
-- unicycling, teaching and practicing yoga
+*Other embodied practices and how they support deep mapping: playing viola (rhythm, dexterity and different hands doing different things together, breathing with orchestra, learning music by ear --> spatial memory) unicycling, teaching and practicing yoga*
 
-Slow scholarship
-Deep mapping and slow residency
+Discuss deep mapping as **slow scholarship**; slow residency
 
-## Theorizing practice through practice
+## Theorizing deep mapping
 
-From my iteration through theory and practice by which I think together the physical and conceptual  fields of my encounter, I offer an interpretation of deep mapping that serves for now, for this project:
+From my iteration through theory and practice by which I weave together the physical and conceptual fields of my encounter, I offer an interpretation of deep mapping that serves for now, for this project:
 
 ```
 deep mapping is a praxis of interference with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public.  
 ``` 
 
-"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters." (Loveless 2019, 70) That is what this project is about. Not a map, counter-cartography, or operationalization of practice to method. About... 
-
-"Research-creation, in important ways, resists the illustrative frameworks in which a thesis or dissertation explains, justifies, or describes an artistic practice (and vice-versa), exploding the inherited binary between the artist-object and the theorist-subject..." (Loveless 2019, 44) 
+"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters" (Loveless 2019, 70). That is what this project is about. Not a map, counter-cartography, or operationalization of practice to method. About conveying knowledge generated through practice and of practice without operationalizing practice itself.
 
 *Dedication*
 
@@ -122,6 +116,7 @@ deep mapping is a praxis of interference with hegemonic forms of engaging & repr
 - Steiner, Rudolf. “A Lecture on Eurythmy.” Archive. Rudolf Steiner Archive, August 26, 1923. https://rsarchive.org/Lectures/19230826p01.html.
 - Stewart, Kathleen. “Atmospheric Attunements.” Environment and Planning D: Society and Space 29, no. 3 (June 1, 2011): 445–53. https://doi.org/10.1068/d9109.
 - Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
+
 
 
 
@@ -171,7 +166,6 @@ Deep mapping is diffraction - both site and tactic/ object and instrument of int
 [writing space](./framing.md)
 *Introduce Negative space - avoid the subject. expanding field by valorizing negative space - its all the field.  - interfering from within by challenging boundaries of legibility/intelligibility. However, framing/frameworks/bounding is necessary sometimes, like to write a thesis. Introduce agental realism, cuts - constitutive exclusions, Situated knowledges - accountability for negative space. its all the _possible_ field. Multiple stories, what stories/theories/frameworks grasp me?* 
 *Presuppositions elaborated elsewhere to be reiterated here: Field performatively constituted through navigations, intra-action; city as physical-conceptual field of encounter.* 
-
 
 ## Negative Space 
 Vignette: Avoid the subject sticker on lampost in gastown - February 2022 during rhythmanalysis (before i knew of the book) at intersection as part of counter-cartographies     
@@ -232,30 +226,10 @@ DM is a praxis of situated, embodied, inhabitation. assumes field of encounter a
 
 
 
-# Negative Spaces 
-*boundary play, limits vanishing points and transgression part*
-
->(de Certeau 1984, 96): "multiform, resistance, tricky and stubborn procedures that elude discipline without being outside the field in which it is exercised, and which should lead us to a theory of everyday practices, of lived space, of the disquieting familiarity
-of the city."
-
-Negative Space --> Deep mapping as transgression (foucault, creswell, roberts, biggs) and eluding discipline from within the field (de certeau) 
-
-
->"The limit and transgression depend on each other for whatever density of being they possess: a limit could not exist if it were absolutely uncrossable and, reciprocally, transgression would be pointless if it merely crossed a limit composed of illu­sions and shadows... Trans­gression caries the limit right to the limit of its being; transgres­ sion forces the limit to face the fact of its imminent disappearance, to find itself in what it excludes" (Foucault: preface to transgression (1977), pg 34)
-
-"Transgression, then, is not related to the limit as black to white, the prohibited to the lawful, the outside to the inside, or as the open area of a building to its enclosed spaces. Rather, their relationship takes the form of a spiral which no simple infraction can exhaust. Perhaps it is like a flash of lightning in the night which, from the beginning of time, gives a dense and black in­ tensity to the night it denies, which lights up the night from the inside, from top to bottom, and yet owes to the dark the rtark clarity of its manifestation, its harrowing and poised singularity; the flash loses itself in this space it marks with its sovereignty and becomes silent now that it has given a name to obscurity." (35)
-
-"its [transgression's] role is to measure the excessive distance that it opens at the heart of the limit and to trace the flashing line that causes the limit to arise. Transgression contains nothing negative, but affirms limited being—affirms the limitlessness into which it leaps as it opens this zone to existence for the first time" (35)
-
-DM is counter conduct not counter cartography 
-"inventively modify, resist or escape the ways in which we are governed" (http://sro.sussex.ac.uk/id/eprint/59644/1/Counter-conduct%20Special%20Issue%20introduction%20Final-1.pdf)
-
-Bataille: "to revolt is to be there, sovereign and without limits" 
-
 # Tactics of deep mapping
 [writing space](./tactics.md)
 
-## strategy  vs tactics
+## strategy vs tactics
 - Tactics are methods whose validity is measured by their applicability to the situation at hand (de Certeau 1984)
 - GIS deploys strategy (cf jon goss) while deep mapping employs tactics 
 could this be the space for gis, godtrick, gaze from above, sts? 
@@ -297,29 +271,42 @@ Analogue, methods, material practices of engaging texts
 where i explain/demonstrate eclectic methods; skills, tools, and materials i employ (as appropriate) in my research-creation process
 why analogue at times - when do i employ the digital and for what ends? all part of apparatus
 
-- Narayan, Priti, and Emily Rosenman. “From Crisis to the Everyday: Shouldn’t We All Be Writing Economies?” Environment and Planning A: Economy and Space 54, no. 2 (March 1, 2022): 392–404. https://doi.org/10.1177/0308518X211068048.
-- Crouch, David. “Bricolage, Poetics, Spacing.” Humanities 6, no. 4 (December 2017): 95. https://doi.org/10.3390/h6040095.
-- Scott, James. “Thin Simplificationsand Practical Knowledge: Mētis.” In Seeing Like a State, 309–41. Yale University Press, 1998.
-- Routledge & CRC Press. “A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World.” Accessed May 4, 2023. https://www.routledge.com/A-History-of-Spaces-Cartographic-Reason-Mapping-and-the-Geo-Coded-World/Pickles/p/book/9780415144988.
-- Routledge & CRC Press. “Ground Truth: The Social Implications of Geographic Information Systems.” Accessed May 4, 2023. https://www.routledge.com/Ground-Truth-The-Social-Implications-of-Geographic-Information-Systems/Pickles/p/book/9780898622959.
-
-
 ## dm - tactic of/for transgression
 *boundary play, limits vanishing points and transgression part*
 
->(de Certeau 1984, 96): "multiform, resistance, tricky and stubborn procedures that elude discipline without being outside the field in which it is exercised, and which should lead us to a theory of everyday practices, of lived space, of the disquieting familiarity of the city."
+>(de Certeau 1984, 96): "multiform, resistance, tricky and stubborn procedures that elude discipline without being outside the field in which it is exercised, and which should lead us to a theory of everyday practices, of lived space, of the disquieting familiarity
+of the city."
 
 Negative Space --> Deep mapping as transgression (foucault, creswell, roberts, biggs) and eluding discipline from within the field (de certeau) 
->"The limit and transgression depend on each other for whatever density of being they possess: a limit could not exist if it were absolutely uncrossable and, reciprocally, transgression would be pointless if it merely crossed a limit composed of illu­sions and shadows... Trans­gression caries the limit right to the limit of its being; transgres­sion forces the limit to face the fact of its imminent disappearance, to find itself in what it excludes" (Foucault: preface to transgression (1977), pg 34)
+
+
+>"The limit and transgression depend on each other for whatever density of being they possess: a limit could not exist if it were absolutely uncrossable and, reciprocally, transgression would be pointless if it merely crossed a limit composed of illu­sions and shadows... Trans­gression caries the limit right to the limit of its being; transgres­ sion forces the limit to face the fact of its imminent disappearance, to find itself in what it excludes" (Foucault: preface to transgression (1977), pg 34)
 
 "Transgression, then, is not related to the limit as black to white, the prohibited to the lawful, the outside to the inside, or as the open area of a building to its enclosed spaces. Rather, their relationship takes the form of a spiral which no simple infraction can exhaust. Perhaps it is like a flash of lightning in the night which, from the beginning of time, gives a dense and black in­ tensity to the night it denies, which lights up the night from the inside, from top to bottom, and yet owes to the dark the stark clarity of its manifestation, its harrowing and poised singularity; the flash loses itself in this space it marks with its sovereignty and becomes silent now that it has given a name to obscurity." (35)
 
+"its [transgression's] role is to measure the excessive distance that it opens at the heart of the limit and to trace the flashing line that causes the limit to arise. Transgression contains nothing negative, but affirms limited being—affirms the limitlessness into which it leaps as it opens this zone to existence for the first time" (35)
 
 DM is counter conduct not counter cartography 
 "inventively modify, resist or escape the ways in which we are governed" (http://sro.sussex.ac.uk/id/eprint/59644/1/Counter-conduct%20Special%20Issue%20introduction%20Final-1.pdf)
--------
 
+Bataille: "to revolt is to be there, sovereign and without limits" 
 "forces the limit to face the fact of its imminent disappearance, to find itself in what it excludes" (Foucault). its all the field (Lily & Bellas refrain).
+
+## References
+- Arthur, Mathew. “Four Alleys.” Society for Cultural Anthropology, 2020. https://culanth.org/fieldsights/series/four-alleys.
+- Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
+- Crouch, David. “Bricolage, Poetics, Spacing.” Humanities 6, no. 4 (December 2017): 95. https://doi.org/10.3390/h6040095.
+- Debord, Guy. “Theory of the Derive.” Translated by Ken Knabb, 1958. http://www.bopsecrets.org/SI/2.derive.htm.
+- Debord, Guy, and Gil J Wolman. “A User’s Guide to Detournement,” 1956. http://www.bopsecrets.org/SI/detourn.htm.
+- Foucault, Michel. “A Preface to Transgression.” In Language, Counter-Memory, Practice: Selected Essays and Interviews, edited by Donald Bouchard, translated by Donald Bouchard and Sherry Simon, 29–52. Ithaca, N.Y: Cornell University Press, 1977.
+- ———. “Intellectuals and Power: A Conversation between Michel Foucault and Gilles Deleuze.” In Language, Counter-Memory, Practice: Selected Essays and Interviews, edited by Donald Bouchard, translated by Donald Bouchard and Sherry Simon, 205–17. Ithaca, N.Y: Cornell University Press, 1977.
+- Goss, Jon. “Marketing the New Marketing: The Strategic Discourse of Geodemographic Information Systems.” In Ground Truth: The Social Implications of Geographic Information Systems, edited by John Pickles. Routledge, 1995. https://www.routledge.com/Ground-Truth-The-Social-Implications-of-Geographic-Information-Systems/Pickles/p/book/9780898622959.
+- Kincheloe, Joe L. “Describing the Bricolage: Conceptualizing a New Rigor in Qualitative Research.” Qualitative Inquiry 7, no. 6 (December 1, 2001): 679–92. https://doi.org/10.1177/107780040100700601.
+- Narayan, Priti, and Emily Rosenman. “From Crisis to the Everyday: Shouldn’t We All Be Writing Economies?” Environment and Planning A: Economy and Space 54, no. 2 (March 1, 2022): 392–404. https://doi.org/10.1177/0308518X211068048.
+- Pickles, John. “Maps and Worlds.” In A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World. Routledge, 2004. https://www.routledge.com/A-History-of-Spaces-Cartographic-Reason-Mapping-and-the-Geo-Coded-World/Pickles/p/book/9780415144988.
+- Roberts, Les. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
+- Scott, James. “Thin Simplificationsand Practical Knowledge: Mētis.” In Seeing Like a State, 309–41. Yale University Press, 1998. https://yalebooks.yale.edu/9780300078152/seeing-like-a-state.
+- Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
 
 
 # Rendering
@@ -346,12 +333,15 @@ the web-site and constitutive code repository which I will submit as my research
 In what follows, I articulate how my theorization of deep mapping––constituted through my practice of deep mapping––is enacted in both the form and formation of negative-spaces.github.io.
 
 ## Form (site)
-negative-spaces.github.io is itself a webbed field for deep mapping, a space for nonlinear exploration following ideas that grasp and pull the visitor. Until now, I have used this address to invoke the entire site. However, pasting this link into a web browser will bring you to an initial entry point only. My argument will unfold across multiple pages, each page connecting to a multiplicity of others via hyperlinks. SHOW Multimedia, rather than being relegated to an appendix, are integrated directly with text. My use of Github as a host platform was inspired by sultanazana.github.io, whose “network of webpages will grow more tangled with time.” Conventionally used for managing code development, I chose Github as a host platform because the code repository renders visible the iterative process of my site’s formation as well as the content which constitutes its rendered form. 
+negative-spaces.github.io is itself a webbed field for deep mapping, a space for nonlinear exploration following ideas that grasp and pull the visitor. Until now, I have used this address to invoke the entire site. However, pasting this link into a web browser will bring you to an initial entry point only. My argument will unfold across multiple pages, each page connecting to a multiplicity of others via hyperlinks. Multimedia, rather than being relegated to an appendix, are integrated directly with text. Indeed, Cliffard McLucas (2000) said that renderings from deep mapping “will be genuinely multimedia, not as an aesthetic gesture or affectation, but as a practical necessity." 
 
-"Research-creation follows desire, and builds spaces and contexts that allow the time and space
-        to experiment in unpredictable directions. " (Loveless 2019, 70)
+"Research-creation follows desire, and builds spaces and contexts that allow the time and space to experiment in unpredictable directions. " (Loveless 2019, 70)
 
-- McLucas, Clifford. “Deep Mapping.” Clifford McLucas. Accessed December 19, 2022. https://cliffordmclucas.info/deep-mapping.html.
+form allows to build for a variety of creative syncretisms such as parataxis (placing things side by side; a flat ontology where nothing is subordinated), montage (juxtaposition of disparate elements; connections implied by spatial contiguity), and commonplacing (an arrangement of resonant quotes; a literary topos) (Cresswell 2019, 1-20).
+
+My use of Github as a host platform was inspired by sultanazana.github.io, whose “network of webpages will grow more tangled with time.” Conventionally used for managing code development, I chose Github as a host platform because the code repository renders visible the iterative process of my site’s formation as well as the content which constitutes its rendered form. 
+
+
 
 ## Formation (tactics)
 I know how to make web maps, wield GIS, and construct cartesian cartographies. What I didn’t know a year ago was how I would render a geography in process and of process without tracing out my practice in a linear text.pdf. Tactics are methods whose validity is measured by their applicability to the situation at hand (de Certeau 1984). Appropriate use of tactics therefore depends on practical, experiential knowledge gleaned through everyday navigations of terrains physical, conceptual, and digital. 
@@ -361,7 +351,6 @@ I know how to make web maps, wield GIS, and construct cartesian cartographies. W
 
 In both field-research and site-creation I employ tactics of bricolage––the poetics of making do with what tools, skills, and materials are already around (Roberts 2018a). For example, instead of learning everything about coding and styling webpages before building my web-site, I teach myself what I need as I go, often gleaning (copypasting) snippets of open source code (as is custom) that are relevant to what I am attempting in the moment. Moreover, I picked up knowledge of git and Github through my job in GIS at the university library. Mapping deeply cultivates an awareness of what is around, gleaning information that may become useful later on.
 
-Site form and formation - ATP - elaborate end of aag paper
 
 
 Research-creation outputs as 'boundary objects' (Bowker and Star 1999)
@@ -389,7 +378,7 @@ This means the site which renders my theory of deep mapping as interference with
 
 # Superposition
 >"Research-creation, in important ways, resists the illustrative frameworks in which a thesis or dissertation explains, justifies, or describes an artistic practice (and vice-versa), exploding the inherited binary between the artist-object and the theorist-subject..." (Loveless 2019, 44) Form! Matters!
->"research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how" (Lovless 2019, 70). 
+>"research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how" (Loveless 2019, 70). 
 
 >“GeoHumanities… do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
 
