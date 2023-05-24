@@ -8,7 +8,7 @@
     "editor.fontSize": 12,
     "editor.lineHeight": 2,
     "workbench.colorCustomizations": {
-        "editor.background": "#fefdf5",
+        "editor.background": "#fdfdfb",
         "editor.foreground": "#000000", 
         "editor.lineHighlightBackground": "#ffed9a",
         "editor.wordHighlightBackground": "#ffed9a",
