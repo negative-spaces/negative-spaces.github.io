@@ -325,8 +325,6 @@ form allows to build for a variety of creative syncretisms such as parataxis (pl
 
 My use of Github as a host platform was inspired by sultanazana.github.io, whose “network of webpages will grow more tangled with time.” Conventionally used for managing code development, I chose Github as a host platform because the code repository renders visible the iterative process of my site’s formation as well as the content which constitutes its rendered form. 
 
-
-
 ## Formation (tactics)
 I know how to make web maps, wield GIS, and construct cartesian cartographies. What I didn’t know a year ago was how I would render a geography in process and of process without tracing out my practice in a linear text.pdf. Tactics are methods whose validity is measured by their applicability to the situation at hand (de Certeau 1984). Appropriate use of tactics therefore depends on practical, experiential knowledge gleaned through everyday navigations of terrains physical, conceptual, and digital. 
 
@@ -419,12 +417,6 @@ This page collages pictures of notes, sketches, ideas in marginalia, gleanings, 
 
 # Acknowledgements
 
-# My toolskit ? is this a separte section or integrate into tactics - throughout? how
-Analogue, methods, material practices of engaging texts
-where i explain/demonstrate eclectic methods; skills, tools, and materials i employ (as appropriate) in my research-creation process
-why analogue at times - when do i employ the digital and for what ends? all part of apparatus
-
-
 # Notes to self
 >disorientation encounter interference superposition 
 >waves diffract upon **encountering** an other. superposition at the site of **interference**. co-producing a **pattern of difference** or a diffraction pattern.  
@@ -439,3 +431,7 @@ situate limits-
 
 how to navigate section on its own
 
+My toolskit ? is this a separte section or integrate into tactics - throughout? how
+Analogue, methods, material practices of engaging texts
+where i explain/demonstrate eclectic methods; skills, tools, and materials i employ (as appropriate) in my research-creation process
+why analogue at times - when do i employ the digital and for what ends? all part of apparatus
