@@ -24,6 +24,8 @@ I argue for **refocusing the frame - expanding what counts as field**, as as val
  
 My field cannot be instantaneously apprehended as the nominal City, nor can it be captured by the frame of a single map. Neither is one existing disciplinary framework or methodology sufficient: each time I leave home I bring along the people/stories/theories I wish to think with for the day. I put texts into conversation first amongst themselves. Heavy in my bag, their pages interlap, folding together like a pair of hands. Opening one, I open myself: README.md; Transform me. My field is the emergent web of connections drawing together (with) physical and conceptual topoi––a topology continuously transforming through intra-action. It is this relational entanglement that is at stake in rendering thinking through practice. 
 
+>"Feminist accountability requires a knowledged tuned to reasonance [sic], not to dichotomy" (Haraway 1988, 588).
+
 ## Framing 
 
 ![many-stories](../media/field/jericho-beach.png)
@@ -34,11 +36,18 @@ cutting, framing, bounding important sometimes (like writing a thesis) - backgro
 
 **agental realism** 
 “knowing, thinking, measuring, theorizing, and observing are material practices of intra-acting within and as part of the world” (Barad 2007, 90).
+**assuming field of encounter as interlocutor** disorients representationalist dualisms
+
 
 **Situated Knowledges** - Donna Haraway - accountability for positionality, perspective, location, situatedness, partial view.  
+>"Like "poems," which are sites of literary production where language too is an actor independent of intentions and authors, bodies as objects of knowledge are material-semiotic generative nodes. Their *boundaries* materialize in social interaction. **Boundaries are drawn by mapping practices; "objects" do not preexist as such. Objects are boundary projects. But boundaries shift from within;** boundaries are very tricky. What boundaries provisionally contain remains generative, productive of meanings and bodies. Siting (sighting) boundaries is a risky practice (Haraway 1988, 595)
 
-**assuming field of encounter as interlocutor** disorients representationalist dualisms
- 
+*siteing boundaries to know site of interference. 
+>"Deep mapping... presupposed the embodied presence of the researcher 'within' the space under investigation" (Roberts 2018, 11).
+s/citing the body
+
+>"Situated knowledges require that the object of knowledge be pictured as an actor and agent, not as a screen or a ground or a resources... Accounts of a "real" world do not, then, depend on a logic of "discovery" but on a power-charged social relation of "conversation" (Haraway 1988, 592 - 593). 
+
 Conveying **partial** side of conversation, an interpretation. I do not claim to speak for the field nor from the perspective of anyone but myself. What informs this thesis is but one interpretation of my ongoing conversation with my city––a response woven with support from diverse literatures read through one another. Much of what I have gleaned remains (as yet) ineffable. And, that which I have theorized evolves from my own situated spatiotemporal practice. Therefore, I do not attempt to define deep mapping so much as possibilize a mode of doing theory grounded in practice. Sharing my story enacts deep mapping as praxis: challenging the boundaries of field and research, I valorize ways of being and operating in the world and academy that generatively interfere with hegemonic norms of intelligibility and legibility. 
 
 What stories/theories/interlocutors do I choose to practice/think/write with? What DONT I? 

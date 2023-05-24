@@ -1,0 +1,20 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "intersubjective",
+        "problematise"
+    ],
+    "editor.fontFamily": "font-family: Calibri, Candara, Segoe, Optima, Arial, sans-serif",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 2,
+    "workbench.colorCustomizations": {
+        "editor.background": "#fefdf5",
+        "editor.foreground": "#000000", 
+        "editor.lineHighlightBackground": "#ffed9a",
+        "editor.wordHighlightBackground": "#ffed9a",
+        "editor.inactiveSelectionBackground": "#ffed9a",
+        "editor.selectionHighlightBackground": "#ffed9a",
+        "editor.selectionBackground": "#ffed9a"
+    }
+    // "workbench.colorTheme": "Default Light+",
+}

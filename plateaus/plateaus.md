@@ -1,10 +1,16 @@
+*Note to readers*    
+Outline of thesis web-field-site pages. The order of each section - [Disorientation](#disorientation), [Thinking through practice](#thinking-through-practice), [Interference](#interference), [Framing a story](#framing-a-story), [Tactics](#tactics-of-deep-mapping), [Rendering](#rendering), [Superposition](#superposition) - is the navigational pathway curated for my research supervisors, though each page will exist separately with hyperlinks to related pages interspersed throughout text and at top and bottom of page. The "what thesis is really all about" story is in the works but not one of the listed pages. Literature I cite but don't engage in deep conversation with has yet to be added to each section, and likely will be folded in as I write out the pages. 
+
+
+---
+
 # disorientation
 [writing space](disorientation.md)
 
 ## Journey 
 I have come to understand being a geographer as less of an ability to know where you are in space at all times and more **the capacity to learn through disorientation**. Like many colleagues, I began graduate school in a place I’d never been before and where I knew no one. 
 
-*briefly describe my experience coming from physical geography and geographic information science to human geography - feeling lost and not at all adept... what was it I aimed to achieve in my program? Also mention my journey driving across country here without a linear plan, arriving in Vancouver with no prior mental map of the place I was to inhabit. A few sentences on adjusting, walking around, commuting via bike to campus, my sense of the city confined to dunbar and campus.* 
+*briefly describe my experience coming from physical geography and geographic information science to human geography - feeling lost and not at all adept... what was it I aimed to achieve in my program? Also mention my journey driving across country here without a linear plan, arriving in Vancouver with no prior mental map of the place I was to inhabit. A few sentences on adjusting, walking around, commuting via bike to campus, my sense of the city confined to dunbar, pacific spirit park, and campus.* 
 
 As teaching assistant for a departmental cartography course, I was responsible for introducing and evaluating assignments, as well as demonstrating the use of required software. The first assignment: to **make a map of downtown Vancouver by tracing a screenshot from Google Maps in Adobe Illustrator.** I graded sixty of these maps before I finally ventured to the place they represented. Having now inhabited Vancouver for nearly two years and taught this assignment nine times, I find Google’s map incongruous with my mental map of the city drawn from lived experience. Navigational maps, writes Laura Kurgan, “impos[e] a quiet tyranny of orientation that erases the possibility of disoriented discovery. . .” (2009, 16-17). 
 
@@ -17,7 +23,7 @@ Vignette: getting to wise 3 different ways, taking 33 bus
 ## Navigation makes navigable
 I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. `Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations.` 
 
-The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. My thesis output, this web-field-site, is a collage of bits and pieces written with the field––the bridge, the plaza, the brewery on a notepad, voice recorder, napkin *[elaborate, in Tactics]*. I propose an orientation to geography research where the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking
+The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. My thesis output, this web-field-site, is a collage of bits and pieces written with the field––the bridge, the plaza, the brewery on a notepad, voice recorder, napkin *[elaborate, in Tactics]*. For me, the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking
 
 ```
 What could it mean to think *with* place, to *feel* the city?
@@ -48,21 +54,14 @@ Deep mapping attends to **spatial anthropology,** what Les Roberts (2018b, 30) c
 
 Deep mapping does not render down to a map in the cartesian sense, where action is made legible by the substitution of trace for practice (de Certeau). Indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themselves in the warp and weft of a lived and fundamentally intersubjective spatiality" (Roberts). 
 
->"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art.... to city people the urban center is movement, the unpredictable, the possible and encounters. For then, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
+>"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art.... to city people the urban center is movement, the unpredictable, the possible and encounters. For them, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
 
 **Space as practiced**
-
-**Affect**
-"How do we now describe the activity of sensual world-making, and what kind of theory is being built in this way?" (Stewart 2010) Deep mapping as attuning to affective atmospheres... "an atmosphere is not an inert context but a force field in which people find themselves. It is not an effect of other forces but a lived affect a capacity to affect and to be affected that pushes a present into a composition, an expressivity, the sense of potentiality and event. It is an attunement of the senses, of labors, and imaginaries to potential ways of living in or living through things" (Stewart 2010)
-
-**Balcony Imaginaries; stories in garbage - falling in love with the mundane, refuse** 
-
-**Derive** - the Situationist exercise of drifting about the city and allowing oneself to be pulled by urban geography’s affective contours *Vignette: south granville, 2 streets, when you spend so much time you notice things -- sign speaking of bella, warehouse mystery, 15 minute city*
-
-"Attending to atmospheric attunements and trying to figure their significance incites forms of writing and critique that detour into descriptive eddies and attach to trajectories" (Stewart 2010, 452): Vignettes from practice are interspersed throughout the site. Constituting the empirics from fieldwork, I cite navigations and encounters from practice in the theory I convey here. 
+**Affect, balcony imaginaries, stories in garbage, derive**
+"How do we now describe the activity of sensual world-making, and what kind of theory is being built in this way?" (Stewart 2010) Deep mapping as attuning to affective atmospheres... "an atmosphere is not an inert context but a force field in which people find themselves. It is not an effect of other forces but a lived affect a capacity to affect and to be affected that pushes a present into a composition, an expressivity, the sense of potentiality and event. It is an attunement of the senses, of labors, and imaginaries to potential ways of living in or living through things" (Stewart 2010). "Attending to atmospheric attunements and trying to figure their significance incites forms of writing and critique that detour into descriptive eddies and attach to trajectories" (Stewart 2010, 452): Vignettes from practice are interspersed throughout the site. Constituting the empirics from fieldwork, I cite navigations and encounters from practice in the theory I convey here. 
 
 ## Process Oriented
-*Deep mapping is process oriented, praxis-based research-creation. It takes time to get to know a place - to get lost and wander around. Deep mapping enacts slow scholarship as praxis. Deep mapping as not only a spatial practice with urban surroundings but enactment of theory at all sites of interference* 
+*Deep mapping is process oriented, praxis-based research-creation. It takes time to get to know a place - to get lost and wander around. Deep mapping enacts slow scholarship as praxis. Deep mapping as not only a spatial practice with urban surroundings but enactment of theory at all sites of interference. Visit [process-commonplace](../commonplace.html) for more* 
 
 Deep mapping is **research-creation** for my exploration is driven by intellectual and spatial topoi which lure me forwards even before I comprehend where they lead (Loveless 2019, 95). Following a concept in multiple directions I find myself making surprising connections. I write "follow" because when I loosen my desire to arrive at a specific place, when I release control of the destination as it were, I make room for latent connections to make themselves (apparent).  
     
@@ -79,8 +78,7 @@ That sentence took nine months of writing and re-writing (iteration). Just that 
 Navigation makes navigable the field. To further describe the "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) which form my research (and whose form my research takes), I introduce the lemniscate: ∞ The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). **The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught.** My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
 
 *Other embodied practices and how they support deep mapping: playing viola (rhythm, dexterity and different hands doing different things together, breathing with orchestra, learning music by ear --> spatial memory) unicycling, teaching and practicing yoga*
-
-Discuss deep mapping as **slow scholarship**; slow residency (Modeen and Biggs)
+Discuss deep mapping as **slow scholarship**; discuss also slow residency, fidelity to place (in conversation with Modeen and Biggs)
 
 ## Theorizing deep mapping
 
@@ -90,7 +88,7 @@ From my iteration through theory and practice by which I weave together the phys
 deep mapping is a praxis of interference with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public.  
 ``` 
 
-"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters" (Loveless 2019, 70). **This is what my thesis is about.** Not a map, counter-cartography, or operationalization of practice to method. About conveying knowledge generated through practice and of practice without operationalizing practice itself. *Elaborate and give dedication/what i am dedicated to doing*
+"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters" (Loveless 2019, 70). **This is what my thesis is about.** Not a map, counter-cartography, or operationalization of practice to method. About conveying knowledge generated through practice and of practice without operationalizing practice itself. *Elaborate and give dedication/what i am dedicated to doing - overarching story that's in the works*
 
 ## References 
 - Biggs, Iain. “Deep Mapping as an ‘Essaying’ of Place,” 2010. http://www.iainbiggs.co.uk/text-deep-mapping-as-an-essaying-of-place/.
@@ -131,7 +129,7 @@ Barad's **agental realism** and **intra-action** (2007):
 “knowing, thinking, measuring, theorizing, and observing are material practices of intra-acting within and as part of the world” (90).
 >"Knowing is not about seeing from above or outside or even seeing from a prosthetically enhanced human body. Knowing is a matter of intra-acting. Knowing entails specific practices through which the world is differentially articulated and accounted for. In some instances, "nonhumans" (even beings without brains) emerge as partaking in the world's active engagement in practices of knowing. Knowing entails
 differential responsiveness and accountability as part of a network of performances. Knowing is not a bounded or closed practice but an ongoing performance of the world" (Barad 2007, 149). 
-"apparatuses are material-discursive practices-causal intra-actions through which matter is iteratively and diferentially articu­lated, reconfigurinn the material-discursive field of possibilities and impossibilities in the ongoing dynamics of intra-activity that is agency. Apparatuses are not bounded objects or structures; they are open-ended practices." (170)
+"apparatuses are material-discursive practices-causal intra-actions through which matter is iteratively and differentially articulated, reconfiguring the material-discursive field of possibilities and impossibilities in the ongoing dynamics of intra-activity that is agency. Apparatuses are not bounded objects or structures; they are open-ended practices." (170)
 
 Explain Barad's **Diffractive Apparatus** 
 For them, Apparatus serves at times as instrument of investigation and at other times, object. but never both at once - complementary events. *Later on I argue my DM praxis is a diffractive apparatus and both a site and tactic of interference. the open question is, however, is it both at once? (superposition) and, most radically, apprehended as both at once? Theory and practice -- foucault says theory is practice. I would agree, and argue I put the theory I have so far into practice in instances of interference where the site is suddenly opened, and only later theorize deeper. but that doesn't discount the praxis (theory as practice) i was enacting in the moment.*
@@ -139,7 +137,7 @@ For them, Apparatus serves at times as instrument of investigation and at other 
 ```Pressing my chest against the Granville Bridge I feel at once its trembling vibration and my own heart’s rapid beating. I embody a sonic superposition: vibrational waves overlap; interfere; combine. The rhythm of their resulting wave marks a pattern of interference, also called a diffraction pattern. Through visceral encounter, I become entangled with the infrastructure which I had heretofore approached only as an abstracting vantage for rhythmanalysis. I leave the bridge holding a little of my warmth and bring away with me this idea…
 ```  
 
-Deep mapping as I enunciate it does not "counter cartography" (cf Mason-Deese 2020); It is not defined by opposition so much as through *iterative acts of interference* with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public. Understood this way... `Deep mapping as a Baradian diffractive apparatus for generating interferences and studying how they (these patterns of difference) come to matter.`
+Deep mapping as I enunciate it does not "counter cartography" (cf Mason-Deese 2020); It is not defined by opposition so much as through *iterative acts of interference* with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public. Understood this way... `Deep mapping as a Baradian diffractive apparatus for generating interferences and studying how they (these patterns of difference) come to matter.`  As an apparatus of investigation, deep mapping assumes the physical-conceptual field of encounter as interlocutor. Empirics emerge from synesthetic attunement to the entangled viscera of urban bodies human and nonhuman. 
 
 *Mark difference b/w rhythmanalyst and deep mapper --> RA is simultaneously inside and outside however, the RA (like the flaneur) does not intervene as the deep mapper does.*
 
@@ -170,33 +168,27 @@ Deep mapping as I enunciate it does not "counter cartography" (cf Mason-Deese 20
 
 In visual art, negative space is that which surrounds the subject but is not the intended focus of attention. Indeed, the intelligible form is defined by what it others––what it excludes, what it is not. For example, alleyways occupy negative space on Google’s street map. 
 
-Krauss constructs the **expanded field** through problematizing oppositions (sculpture as not-landscape and not-architecture). I argue for **refocusing the frame - expanding what counts as field**, as as valid research method, output, subject. *whyI locate my work in negative space, rendering negative-spaces.github.io -->process, margins, refocusing from within the field, boundaries/limits* 
+Krauss constructs the **expanded field** through problematizing oppositions (sculpture as not-landscape and not-architecture). I argue for **refocusing the frame - expanding what counts as field**, as as valid research method, output, subject. *explain why I locate my work in negative space, rendering negative-spaces.github.io -->process, margins, refocusing from within the field, boundaries/limits* 
 
 >"research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how" (Loveless 2019, 70).
 
 *overlaying frameworks, intertextuality, diffractive reading*
 <img src="../media/process/diffractive-reading.jpg">
-My field cannot be instantaneously apprehended as the nominal City, nor can it be captured by the frame of a single map. Neither is one existing disciplinary framework or methodology sufficient: each time I leave home I bring along the people/stories/theories I wish to think with for the day. I put texts into conversation first amongst themselves. Heavy in my bag, their pages interlap, folding together like a pair of hands. Opening one, I open myself: README.md; Transform me. My field is the emergent web of connections drawing together (with) physical and conceptual topoi––a topology continuously transforming through intra-action. It is this relational entanglement that is at stake in rendering thinking through practice. 
+My field cannot be instantaneously apprehended as the nominal City, nor can it be captured by the frame of a single map. Neither is one existing disciplinary framework or methodology sufficient: each time I leave home I bring along the people/stories/theories I wish to think with for the day. I put texts into conversation first amongst themselves. Heavy in my bag, their pages interlap, folding together like a pair of hands. Opening one, I open myself: README.md; Transform me. My field is the emergent web of connections drawing together (with) physical and conceptual topoi––a topology continuously transforming through intra-action. It is this relational entanglement that is at stake in rendering thinking through practice.  (converse more here with Barad 2007, 182)
 
 >"Feminist accountability requires a knowledged tuned to reasonance [sic], not to dichotomy" (Haraway 1988, 588). 
-
-    
-## Framing 
+ 
+## Framing exclusions 
 ![many-stories](../media/field/jericho-beach.png)
-*Many stories exist in the landscape. What do you see?*
-*slightly ironic bc i have exceptional eyesight and have difficulty differentiating foreground and background. so, actually, bounding is very important for me in this thesis bc otherwise i will include every single thing i think of thats relevant.*
-*this page is on cutting, framing, bounding important sometimes (like writing a thesis) - background/foreground, not forclosing other possibilities - accountability for constitutive exclusions  and negative space. --> thats feminist objectivity* 
+*Many stories exist in the landscape. What do you see? (slightly ironic bc i have exceptional sense of sight and have difficulty differentiating foreground and background. so, actually, bounding is very important (and difficult) for me in this thesis bc otherwise i will include every single thing i think of.)*
+*this page is on cutting, framing, bounding important sometimes (like writing a thesis) - background/foreground, not foreclosing other possibilities - accountability for constitutive exclusions  and negative space. --> *site-ing boundaries to articulate site of interference.* thats Haraway's feminist objectivity and Barad's agential realism* 
 
 **assuming field of encounter as interlocutor** disorients representationalist dualisms
-
 **Situated Knowledges** - Donna Haraway - accountability for positionality, perspective, location, situatedness, partial view.  
-Situated knowledge --> commonalities and differences through dialogue, in other words, a diffraction pattern
+Situated knowledge --> commonalities and differences through dialogue, in other words, a diffraction patterns
 >"Like "poems," which are sites of literary production where language too is an actor independent of intentions and authors, bodies as objects of knowledge are material-semiotic generative nodes. Their *boundaries* materialize in social interaction. **Boundaries are drawn by mapping practices; "objects" do not preexist as such. Objects are boundary projects. But boundaries shift from within;** boundaries are very tricky. What boundaries provisionally contain remains generative, productive of meanings and bodies. Siting (sighting) boundaries is a risky practice (Haraway 1988, 595)
 
-
-*site-ing boundaries to articulate site of interference.*
-
->"The rhythmanalyst will not have these methodological obligations: rendering oneself passive, forgetting one's knowledge, in order to re-present it in its entirety in the interpretation. He listens - and first to his body; he learns rhythm from it, in order consequently to appreciate external rhythms.... The rhythm analyst will not be obliged to *jump* from the inside to the outside of observed *bodies*; he should come to listen to them *as a whole* and unify them by taking his own rhythms as a reference: by integrating the outside with the inside and vice versa... The *object* is not inert; time is not set aside for the *subject*. It is only slow in relation to our time, to our body, the measure of rhythms...The rhythmanalyst calls on all his senses... He thinks with his body, not in the abstract, but in lived temporality...He garbs himself in this tissue of the lived, of the everyday. (Lefebvre's *Rhythmanalysis* 27-31) >"Deep mapping... presupposed the embodied presence of the researcher 'within' the space under investigation" (Roberts 2018, 11).s/citing the body *(unlike RA though deep mapping does generate interferences - pg 31 - addressed elsewhere)*
+>"The rhythmanalyst will not have these methodological obligations: rendering oneself passive, forgetting one's knowledge, in order to re-present it in its entirety in the interpretation. He listens - and first to his body; he learns rhythm from it, in order consequently to appreciate external rhythms.... The rhythm analyst will not be obliged to *jump* from the inside to the outside of observed *bodies*; he should come to listen to them *as a whole* and unify them by taking his own rhythms as a reference: by integrating the outside with the inside and vice versa... The *object* is not inert; time is not set aside for the *subject*. It is only slow in relation to our time, to our body, the measure of rhythms...The rhythmanalyst calls on all his senses... He thinks with his body, not in the abstract, but in lived temporality...He garbs himself in this tissue of the lived, of the everyday. (Lefebvre's *Rhythmanalysis* 27-31) >"Deep mapping... presupposed the embodied presence of the researcher 'within' the space under investigation" (Roberts 2018, 11).s/citing the body *(unlike Rhythmanalyst (RA) though deep mapping does generate interferences - pg 31 - addressed elsewhere)*
 
 >"Situated knowledges require that the object of knowledge be pictured as an actor and agent, not as a screen or a ground or a resources... Accounts of a "real" world do not, then, depend on a logic of "discovery" but on a power-charged social relation of "conversation" (Haraway 1988, 592 - 593). 
  
@@ -205,9 +197,9 @@ Conveying **partial** side of conversation, an interpretation. I do not claim to
 What stories/theories/interlocutors do I choose to practice/think/write with? What DONT I? 
 >research-creation: "insisting we attend to those drives and desires that animate our stories—the stories that we find ourselves told by—and the ethics embedded in such modes of attention. The stories at stake here are not conscious. These aren’t simply stories that we mobilize, that we control. These are stories that grasp us as much if not more than we **grasp** them." (Loveless 2019, 95)
 
-For me these stories are **Invisible Cities by Italo Calvino and Rhythmanalysis by Henri Lefebvre.** "...to grasp a rhythm it is necessary to have been grasped by it; one must let oneself go, give oneself over, abandon oneself to its duration. (Lefebvre. 27) --> Bridge --> good description of boundary practices of frames, why necessary, how made and remade through intra-action 
+For me these stories are **Invisible Cities by Italo Calvino and Rhythmanalysis by Henri Lefebvre.** "...to grasp a rhythm it is necessary to have been grasped by it; one must let oneself go, give oneself over, abandon oneself to its duration. (Lefebvre. 27) *Vignette of Bridge --> good description of boundary practices of frames, why necessary, how made and remade through intra-action. I come back to this encounter often to articulate my ideas, but from different angles.*
 
-Summary: DM is a praxis of situated, embodied, inhabitation which assumes field of encounter as interlocutor. A partial perspective, rendering thinking through practice must necessarily account for negative space drawn by a chosen framing. Many stories exist in the landscape. I convey a situated, partial perspective of an ongoing dialogue with Vancouver. 
+Summary: DM (deep mapping, diffractive mapping) is a praxis of situated, embodied, inhabitation which assumes field of encounter as interlocutor. A partial perspective, rendering thinking through practice must necessarily account for negative space drawn by a chosen framing. Many stories exist in the landscape. I convey a situated, partial perspective of an ongoing dialogue with Vancouver. 
 
 ## References
 - Barad, Karen. Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press, 2007.
@@ -256,7 +248,7 @@ Deleuze "Precisely. **A theory is exactly like a box of tools. It has nothing to
 Proper deployment of theory - a tactic
 methods - a tactic
 deep mapping must be practiced. It does not exist as a theory. only praxis. 
-my thesis here not only conveys a theory of a practice generated through the practice but enacts the practice... see rendering portion 
+my thesis here not only conveys a theory of a practice generated through the practice but enacts the practice... see rendering page 
 
 ## My toolskit
 Analogue, methods, material practices of engaging texts
@@ -426,7 +418,6 @@ This page collages pictures of notes, sketches, ideas in marginalia, gleanings, 
     - Jan Zwicky in Wisdom and Metaphor, 7 left
 
 # Acknowledgements
-
 
 # My toolskit ? is this a separte section or integrate into tactics - throughout? how
 Analogue, methods, material practices of engaging texts

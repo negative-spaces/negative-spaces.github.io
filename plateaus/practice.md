@@ -8,7 +8,23 @@ Deep mapping attends to **spatial anthropology,** what Les Roberts (2018b, 30) c
 
 Deep mapping does not render down to a map in the cartesian sense, where action is made legible by the substitution of trace for practice (de Certeau). Indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themselves in the warp and weft of a lived and fundamentally intersubjective spatiality" (Roberts). 
 
-A mode of spatial analysis that accounts for rhythms that exceed measure, as they emerge in tension with time signatures; practical knowledge gleaned through practices of everyday life. layers that form depth of city inseparable - unlike discrete data layers loaded into GISystem for analysis, manipulation     
+A mode of spatial analysis that accounts for rhythms that exceed measure, as they emerge in tension with time signatures; practical knowledge gleaned through practices of everyday life. layers that form depth of city inseparable - unlike discrete data layers loaded into GISystem for analysis, manipulation 
+
+Deep mapping attends to **spatial anthropology,** what Les Roberts (2018b, 30) calls an attempt to name "the processes whereby the fundamental spatiality of being is woven into and from everyday practices, dispositions and experiential knowledge. To proceed on these terms ... is to understand and practice space as an existential ground of everyday being." 
+
+Stewart, Kathleen. 2011. Atmospheric Attunements
+
+Deep mapping does not render down to a map in the cartesian sense, where action is made legible by the substitution of trace for practice (de Certeau). Indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themselves in the warp and weft of a lived and fundamentally intersubjective spatiality" (Roberts). 
+
+>"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art. ...The right to the ciyt manifests itself as a superior form of rights: right to freedom, to individualization in socialization, to habitat and to inhabit. The right to the *oeuvre*, to participation and *appropriation* (clearly distinct from the right to property), are implied in the right to the city. (Lefebvre 1996, 173-174, emphasis in original)
+*connect elswhere: appropriation - tactics, detournement*
+Topopoetics - Banazek, Cresswell, Magrane, de Leeuw, Acker
+
+**Derive** - the Situationist exercise of drifting about the city and allowing oneself to be pulled by urban geography’s affective contours *Vignette: south granville, 2 streets, when you spend so much time you notice things -- sign speaking of bella, warehouse mystery, 15 minute city*
+
+>"to city people the urban center is movement, the unpredictable, the possible and encounters. For then, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
+
+
 ## Process Oriented 
 Process oriented, slow scholarship?: Praxis based research.
 

@@ -1,6 +1,8 @@
 # Tactics of practice
 [more](https://raw.githubusercontent.com/negative-spaces/negative-spaces.github.io/main/mindpalace/tactics.txt)
 
+WHAT IS NEGATIVE SPACE IS CONSTANLTY SHIFTING - SITE OF INTERFERENCE CONSTANTLY SHIFTING AND SO - TACTICS DIFFERENT ALL THE TIME -thats why you cant bet on a place 
+
 ## tactics vs. strategy
 GIS, jon goss --> why deep mapping employs tactics 
 
