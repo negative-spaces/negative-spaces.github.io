@@ -1,12 +1,38 @@
 *Note to readers*    
 Outline of thesis web-field-site pages. The order of each section - [Disorientation](#disorientation), [Thinking through practice](#thinking-through-practice), [Interference](#interference), [Framing a story](#framing-a-story), [Tactics](#tactics-of-deep-mapping), [Rendering](#rendering), [Superposition](#superposition) - is the navigational pathway curated for my research supervisors, though each page will exist separately with hyperlinks to related pages interspersed throughout text and at top and bottom of page. The "what thesis is really all about" story is in the works but not one of the listed pages. Literature I cite but don't engage in deep conversation with has yet to be added to each section, and likely will be folded in as I write out the pages. 
 
-
 ---
-
 # disorientation
-[writing space](disorientation.md)
+TLDR [disorientation](disorientation.md) summarizes my journey to Vancouver and to my thesis project, acknowledging the disorientation inherent to exploration and the navigation of an at first unfamiliar terrain. Whether urban or conceptual, I argue that familiarity develops nonlinearly through connections made while lost and wandering around. Reflecting on my experience developing spatial awareness of a new place while teaching cartography, I trouble delineations of the city as a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, I the city as a physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations. As such, the city and I are figured and refigured in relation, a continuous tranformation that is never quite complete. If this process forms my research interest, where do I locate my fieldsite? And what constitutes my fieldwork? Answering these questions opens an investigation into how the boundaries around what counts as intelligible forms of knowledge production and legible ways of rendering research in academia are drawn as well as transgressed. What is at stake in interfering from within - in s/citing differently? I think through these questions while riding the bus, walking the bridge, presenting my research at a conference and to my department. And, I find answers along the way, often as a result of detours and unexpected encounters. 
+ 
+Approaching the field as interlocutor, I initiate an ongoing, open-ended dialogue through deep mapping, a practice of situated, embodied inhabitation. It is of this practice that I write, developing my theorization of deep mapping as constituted through my practice deep mapping, and articulating interference as 
+praxis.
+the diffractive praxis of deep mapping. 
+diffractive praxis of interference. 
+praxis of interference
+and how interferece is praxis
+interference is a site and tactic of transgression - refiguring boundaries -n 
+interference::praxis::
+deep mapping as praxis::interference::site and tactic of transgression. 
 
+deep mapping, a practice of situated embodied inhabitiation by which I enter into dialogue with my surroundigns. 
+barad - boundary making practice - apparatiuses - potential to refigure topology --> me valorizing negative spaces by focusing - alt ways of xyz and in so doing, expanding the field from within. 
+
+thinking *with* place and *feeling* the city. 
+introduce vignettes, form of empirics. 
+---
+theorizing through disorientation - iterative acts cohereing an idea 
+Where is the  I wonder at notions of the field as a site separate from the office where spatial analyses are run and geography written. 
+A deeper exploration of the "how" - thinking with place feel the city - and what this means and how to convey it - forms the basis of my thesis. 
+-- a practice which assumes begin by assuming the field of my encounter as interlocutor. 
+Initiate dialogue by asking What could it mean to think *with* place, to *feel* the city?
+
+<!-- Sitting in a vacant lot overlooking a house I particularly like for some reason, I write: "what if this were my scope - just sensing feeling
+<img src="../media/process/perspectives-angles-hvc.jpg" style="width: 40%"></img>    
+<img src="../media/process/blue-house-sensing.jpg" style="width: 40%"></img>    
+<img src="../media/process/blue-house-sensing2.jpg" style="width: 40%"></img>    -->
+ Releasing the certain destination in favor of disoriented discovery creates space and time to experiment in unpredictable Research-creation follows desire, and builds spaces and contexts that allow the time and space
+        to experiment in unpredictable directions. " (70
 ## Journey 
 I have come to understand being a geographer as less of an ability to know where you are in space at all times and more **the capacity to learn through disorientation**. Like many colleagues, I began graduate school in a place I’d never been before and where I knew no one. 
 
@@ -29,6 +55,7 @@ The field becomes where fieldwork is done... everywhere I go. Riding the bus, wa
 What could it mean to think *with* place, to *feel* the city?
 ```
 
+
 ## In conversation with/ References
 - Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. https://doi.org/10.3390/h4030476.
 - Kurgan, Laura. Close up at a Distance: Mapping, Technology, and Politics. First hardcover edition. Brooklyn, NY: Zone Books, 2013.
@@ -39,8 +66,14 @@ What could it mean to think *with* place, to *feel* the city?
 
 
 
+
 # Thinking through practice 
 [writing space](practice.md)
+TLDR: Theorize through practic e-- is the next 
+then Tell the story from my perspective of a situated dialogue whose initiating question is: What could it mean to think *with* place, to *feel* the city?
+
+
+
 
 ## Refrain from elsewhere
 *since each page is separate, albeit containing multiple hyperlinked connections to other pages, I'll have a short recap/synthesis of contextual material from other discussions* 
@@ -56,7 +89,7 @@ Deep mapping does not render down to a map in the cartesian sense, where action 
 
 >"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art.... to city people the urban center is movement, the unpredictable, the possible and encounters. For them, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
 
-**Space as practiced**
+**Space as practiced** crouch
 **Affect, balcony imaginaries, stories in garbage, derive**
 "How do we now describe the activity of sensual world-making, and what kind of theory is being built in this way?" (Stewart 2010) Deep mapping as attuning to affective atmospheres... "an atmosphere is not an inert context but a force field in which people find themselves. It is not an effect of other forces but a lived affect a capacity to affect and to be affected that pushes a present into a composition, an expressivity, the sense of potentiality and event. It is an attunement of the senses, of labors, and imaginaries to potential ways of living in or living through things" (Stewart 2010). "Attending to atmospheric attunements and trying to figure their significance incites forms of writing and critique that detour into descriptive eddies and attach to trajectories" (Stewart 2010, 452): Vignettes from practice are interspersed throughout the site. Constituting the empirics from fieldwork, I cite navigations and encounters from practice in the theory I convey here. 
 
@@ -157,6 +190,12 @@ Deep mapping as I enunciate it does not "counter cartography" (cf Mason-Deese 20
 
 # Framing a story
 [writing space](./framing.md)
+
+TLDR framing field-- problematics of when all potential for encoutner
+For me, the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. 
+intelligibility quotes barad 82? 182?
+
+
 <img src="../media/field/chair-frame.jpg">
 
 *Introduce Negative space - avoid the subject. expanding field by valorizing negative space - its all the field. interfering from within by challenging boundaries of legibility/intelligibility. However, framing/frameworks/bounding is necessary sometimes, like to write a thesis. Introduce agental realism, cuts - constitutive exclusions, Situated knowledges - accountability for negative space. its all the _possible_ field. Multiple stories, what stories/theories/frameworks grasp me?*
@@ -230,7 +269,7 @@ could this be the space for gis, godtrick, gaze from above, sts?
 - Engage [Matt's piece “Four Alleys”](https://culanth.org/fieldsights/series/four-alleys)
 - gleaning information all around - collecting signs and symbols for future reference, whenever needed - or, to make connections, patterns
 
-## Practical knowledge** 
+## Practical knowledge
 Appropriate use of tactics depends on practical, experiential knowledge gleaned through everyday navigations of terrains physical, conceptual, and digital 
 James Scott on Mētis, practical knowledge --> all about computational thinking, gleaning, tactics of making do and bricolage
 - experiential learning, learning as/thru doing (Critical concepts for the creative humanities)
@@ -255,7 +294,7 @@ Analogue, methods, material practices of engaging texts
 where i explain/demonstrate eclectic methods; skills, tools, and materials i employ (as appropriate) in my research-creation process
 why analogue at times - when do i employ the digital and for what ends? all part of apparatus
 
-## dm - tactic of/for transgression // interference 
+## dm - tactic of/for transgression // interference  theory as praxis 
 --> why DM is tactic AND site (later)
 *boundary play, limits vanishing points and transgression part*
 
@@ -273,8 +312,7 @@ Negative Space --> Deep mapping as transgression (foucault, creswell, roberts, b
 DM is counter conduct not counter cartography 
 "inventively modify, resist or escape the ways in which we are governed" (http://sro.sussex.ac.uk/id/eprint/59644/1/Counter-conduct%20Special%20Issue%20introduction%20Final-1.pdf)
 
-Bataille: "to revolt is to be there, sovereign and without limits" 
-"forces the limit to face the fact of its imminent disappearance, to find itself in what it excludes" (Foucault). its all the field (Lily & Bellas refrain).
+compare AAG and symposium for sites of interference and tactics (DIFF omg doing what i did was a tactic -) but also CBD - no alley entrance
 
 ## References
 - Arthur, Mathew. “Four Alleys.” Society for Cultural Anthropology, 2020. https://culanth.org/fieldsights/series/four-alleys.
@@ -295,10 +333,12 @@ Bataille: "to revolt is to be there, sovereign and without limits"
 
 # Rendering
 
-## Rending, Rendering Down 
+## Rending, Rendering Down
+ 
 *gaze from above, godtrick and perspective, STS and geographic information science*
 *Projections, distortions, geoid, approximations*
-
+<img src="./media/process/poesis.jpg" id="field-image" style="width: 40%">
+</img>
 >"His elevation transfigures him into a voyeur... It puts him at a distance. It transforms the bewitching world by which one was "posessed" into a text that lies before one's eyes. It allows one to read it, to be a solar Eye, looking down like a god. The exaltation of a scopic and gnostic drive: the fiction of knowledge is related to this lust to be a viewpoint and nothing more....Escaping the imaginary totalizations produced by the eye, the everyday has a certain strangeness that does not surface, or whose surface is only the upper limit, outlining itself against the visible." (de certeau 1984, 92-93)  
 
 >"Indeed, this "representation" is insufficient, precisely because a trajectory is drawn, and time and movement are thus reduced to a line that can be seized as a whole by the eye and read in a single moment, as one projects onto a map the path taken by someone walking through a city. However useful this "flattening out" may be, it transforms the temporal articulation of places into a spatial sequence of points. A graph takes the place of an operation. A reversible sign (one that can be read in both directions, once it is projected onto a map) is substituted for a practice indissociable from particular moments and "opportunities," and thus irreversible (one cannot go backward in time, or have another chance at missed oppor­ tunities). It is thus a mark in place of acts, a relic in place of perfor­ mances: it is only their remainder, the sign of their erasure. Such a projection postulates that it is possible to take the one (the mark) for the other (operations articulated on occasions)" (de certeau 35).
@@ -360,6 +400,7 @@ This means the site which renders my theory of deep mapping as interference with
 
 
 # Superposition
+<img src="./media/process/crux-its-all-the-field.jpg" id="field-image" style="width: 40%">
 >"Research-creation, in important ways, resists the illustrative frameworks in which a thesis or dissertation explains, justifies, or describes an artistic practice (and vice-versa), exploding the inherited binary between the artist-object and the theorist-subject..." (Loveless 2019, 44) Form! Matters!
 >"research-creation suggests a mode of knowledge production that does more than simply contribute to existing realms of interdisciplinary and disciplinary data. Instead, without eschewing the asymmetries of hierarchical disciplinary differences, it tumbles outside of these intellectual frameworks, challenging practice/theory divides as they police what gets to count as a valid object and method, within which disciplinary framework, where, when, and how" (Loveless 2019, 70). 
 
@@ -367,11 +408,13 @@ This means the site which renders my theory of deep mapping as interference with
 
 I am (we are all) both wave and particle. Although routinely apprehended as individuals, fixed, bounded, defined bodies, we are permeable - continuously transfiguring through encounters, experiencing life as a process transforming and transfiguring through intra-action. We emanate waves which interfere and are interfered with by others, human and nonhuman. To practice deep mapping is to embody superposition: (theorypractice, spacetime, waveparticle, subjectobject, thinkingbeing, ontoepistemology, insideoutside,  .... ). Paradox is not a closure but an opening - to possibilities - the existance of multiple states, simultaneous multiplicities, inextricable layers.  
 
-
 AFfect - waves - outwards 
 
 haraway field - nodes
 
+ rendering deep mapping is to perform a diffractive mapping-- its superposition -- see how interferences (genearted as praxis) come to matter. bc its all the field, deep maping can constantly expand to be the broader apparatus of investgation 
+what you can learn from diffractive mapping
+compare AAG and symposium for sites of interference and tactics (DIFF omg doing what i did was a tactic -) but also CBD - no alley entrance
 
 
 ## Its all the field
