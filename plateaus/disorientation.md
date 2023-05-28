@@ -1,5 +1,13 @@
-# disorientation
 
+
+
+
+# disorientation
+<!--
+<img src="../media/process/perspectives-angles-hvc.jpg" style="width: 40%"></img>    
+<img src="../media/process/blue-house-sensing.jpg" style="width: 40%"></img>    
+<img src="../media/process/blue-house-sensing2.jpg" style="width: 40%"></img>    -->
+ <!-- Releasing the certain destination in favor of disoriented discovery creates space and time to experiment in unpredictable Research-creation follows desire, and builds spaces and contexts that allow the time and space to experiment in unpredictable directions. " (70 )-->
 I have come to understand being a geographer as less of an ability to know where you are in space at all times and more **the capacity to learn through disorientation**. Like many colleagues, I began graduate school in a place I’d never been before and where I knew no one. 
 
 I will briefly describe my experience coming from physical geography and geographic information science to human geography - feeling lost and not at all adept... what was it I aimed to achieve in my program? My application statement submitted to UBC in January 2021: I am a renaissance student whose skills in the arts and sciences unite in Geographic Information Science. My research interests lie in GeoVisualization, Critical Cartography, and the Geohumanities. I value both qualitative and quantitative methodologies, and am especially drawn to the ways both practices supplement each other. The research streams Digital Geographies, Geospatial Analysis, GIS and Knowledge, Ideas, Practices are both of interest to me for I seek the technical skills to map transdisciplinary patterns, not just conceptualize them. While my undergraduate background is in the physical sciences, I am fundamentally a creative whose passion lies with critical examinations of people, their interaction with each other, and response to the natural and built environment.
@@ -42,9 +50,9 @@ I realize the city is not a fixed and inherently bounded object which pre-exists
 What could it mean to think *with* place, to *feel* the city?
 ```
 
-## References
+## In conversation with/ References
+- Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. https://doi.org/10.3390/h4030476.
 - Kurgan, Laura. Close up at a Distance: Mapping, Technology, and Politics. First hardcover edition. Brooklyn, NY: Zone Books, 2013.
 - Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
 - Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
 - Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
-

@@ -1,151 +1,24 @@
 *Note to readers*    
-Outline of thesis web-field-site pages. The order of each section - [Disorientation](#disorientation), [Thinking through practice](#thinking-through-practice), [Interference](#interference), [Framing a story](#framing-a-story), [Tactics](#tactics-of-deep-mapping), [Rendering](#rendering), [Superposition](#superposition) - is the navigational pathway curated for my research supervisors, though each page will exist separately with hyperlinks to related pages interspersed throughout text and at top and bottom of page. The "what thesis is really all about" story is in the works but not one of the listed pages. Literature I cite but don't engage in deep conversation with has yet to be added to each section, and likely will be folded in as I write out the pages. 
+Outline of thesis web-field-site pages. The order of each section - [Disorientation](#disorientation), [Thinking through practice](#thinking-through-practice), [Interference](#interference), [Framing a story](#framing-a-story), [Tactics](#tactics-of-deep-mapping), [Rendering](#rendering), [Superposition](#superposition) - is the navigational pathway curated for my research supervisors, though each page will exist separately with hyperlinks to related pages interspersed throughout text and at top and bottom of page. The "what thesis is really all about" story is in the works but not one of the listed pages. Literature I cite but don't engage in deep conversation with has yet to be added to each section, and likely will be folded in as I write out the pages. *since each page is separate, albeit containing multiple hyperlinked connections to other pages, I'll have a short recap/synthesis of contextual material from other discussions* 
+
+
+???say who in convo with in blurbs? immersive cartography, lovelss, de certeau, roberts, mclucas, crouch, crang, morag 
+
 
 ---
 # disorientation
-TLDR [disorientation](disorientation.md) summarizes my journey to Vancouver and to my thesis project, acknowledging the disorientation inherent to exploration and the navigation of an at first unfamiliar terrain. Whether urban or conceptual, I argue that familiarity develops nonlinearly through connections made while lost and wandering around. Reflecting on my experience developing spatial awareness of a new place while teaching cartography, I trouble delineations of the city as a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, I the city as a physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations. As such, the city and I are figured and refigured in relation, a continuous tranformation that is never quite complete. If this process forms my research interest, where do I locate my fieldsite? And what constitutes my fieldwork? Answering these questions opens an investigation into how the boundaries around what counts as intelligible forms of knowledge production and legible ways of rendering research in academia are drawn as well as transgressed. What is at stake in interfering from within - in s/citing differently? I think through these questions while riding the bus, walking the bridge, presenting my research at a conference and to my department. And, I find answers along the way, often as a result of detours and unexpected encounters. 
- 
-Approaching the field as interlocutor, I initiate an ongoing, open-ended dialogue through deep mapping, a practice of situated, embodied inhabitation. It is of this practice that I write, developing my theorization of deep mapping as constituted through my practice deep mapping, and articulating interference as 
-praxis.
-the diffractive praxis of deep mapping. 
-diffractive praxis of interference. 
-praxis of interference
-and how interferece is praxis
-interference is a site and tactic of transgression - refiguring boundaries -n 
-interference::praxis::
-deep mapping as praxis::interference::site and tactic of transgression. 
+TLDR [disorientation](disorientation.md) summarizes my journey to Vancouver and to my thesis project, acknowledging the disorientation inherent to exploration and the navigation of an at first unfamiliar terrain. Whether urban or conceptual, I argue that familiarity develops nonlinearly through connections made while lost and wandering around. Reflecting on my experience developing spatial awareness of a new place while teaching cartography, I trouble delineations of the city as a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, the city is a physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations. As such, the city and I are figured and refigured in relation, a continuous tranformation that is never quite complete. If this process forms my research interest, where do I locate my fieldsite? And what constitutes my fieldwork? Answering these questions opens an investigation into where/how the boundaries around what counts as intelligible forms of knowledge production and legible ways of rendering research in academia are drawn as well as transgressed. What is at stake in interfering from within - in s/citing differently? I think through these questions while riding the bus, walking the bridge, presenting my research at a conference and to my department. I find answers along the way, often as a result of detours and unexpected encounters. Approaching the field as interlocutor, I initiate an ongoing and open-ended dialogue with my surroundings through deep mapping, a practice of situated, embodied inhabitation. My thesis concerns practicing and theorizing deep mapping and how deep mapping, iteratively enacted as a praxis of interference, not only marks where boundaries of intelligibility are drawn but refigure - valorizing ways of being and operating in the world (and academy) relegated to negative space, to that necessarily othered from intelligible forms to uphold their very definition. It is thus a commitment to expanding the field from within, to interfering with systems and structures not through oppositional strategies but tactics of interference. Its all the field for deep mapping. 
 
-deep mapping, a practice of situated embodied inhabitiation by which I enter into dialogue with my surroundigns. 
-barad - boundary making practice - apparatiuses - potential to refigure topology --> me valorizing negative spaces by focusing - alt ways of xyz and in so doing, expanding the field from within. 
-
-thinking *with* place and *feeling* the city. 
-introduce vignettes, form of empirics. 
 ---
-theorizing through disorientation - iterative acts cohereing an idea 
-Where is the  I wonder at notions of the field as a site separate from the office where spatial analyses are run and geography written. 
-A deeper exploration of the "how" - thinking with place feel the city - and what this means and how to convey it - forms the basis of my thesis. 
--- a practice which assumes begin by assuming the field of my encounter as interlocutor. 
-Initiate dialogue by asking What could it mean to think *with* place, to *feel* the city?
-
-<!-- Sitting in a vacant lot overlooking a house I particularly like for some reason, I write: "what if this were my scope - just sensing feeling
-<img src="../media/process/perspectives-angles-hvc.jpg" style="width: 40%"></img>    
-<img src="../media/process/blue-house-sensing.jpg" style="width: 40%"></img>    
-<img src="../media/process/blue-house-sensing2.jpg" style="width: 40%"></img>    -->
- Releasing the certain destination in favor of disoriented discovery creates space and time to experiment in unpredictable Research-creation follows desire, and builds spaces and contexts that allow the time and space
-        to experiment in unpredictable directions. " (70
-## Journey 
-I have come to understand being a geographer as less of an ability to know where you are in space at all times and more **the capacity to learn through disorientation**. Like many colleagues, I began graduate school in a place I’d never been before and where I knew no one. 
-
-*briefly describe my experience coming from physical geography and geographic information science to human geography - feeling lost and not at all adept... what was it I aimed to achieve in my program? Also mention my journey driving across country here without a linear plan, arriving in Vancouver with no prior mental map of the place I was to inhabit. A few sentences on adjusting, walking around, commuting via bike to campus, my sense of the city confined to dunbar, pacific spirit park, and campus.* 
-
-As teaching assistant for a departmental cartography course, I was responsible for introducing and evaluating assignments, as well as demonstrating the use of required software. The first assignment: to **make a map of downtown Vancouver by tracing a screenshot from Google Maps in Adobe Illustrator.** I graded sixty of these maps before I finally ventured to the place they represented. Having now inhabited Vancouver for nearly two years and taught this assignment nine times, I find Google’s map incongruous with my mental map of the city drawn from lived experience. Navigational maps, writes Laura Kurgan, “impos[e] a quiet tyranny of orientation that erases the possibility of disoriented discovery. . .” (2009, 16-17). 
-
-**Spatial awareness** of my surroundings has evolved not by following Google's Map from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways.
-
-```
-Vignette: getting to wise 3 different ways, taking 33 bus
-```
-
-## Navigation makes navigable
-I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. `Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations.` 
-
-The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. My thesis output, this web-field-site, is a collage of bits and pieces written with the field––the bridge, the plaza, the brewery on a notepad, voice recorder, napkin *[elaborate, in Tactics]*. For me, the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking
-
-```
-What could it mean to think *with* place, to *feel* the city?
-```
-
-
-## In conversation with/ References
-- Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. https://doi.org/10.3390/h4030476.
-- Kurgan, Laura. Close up at a Distance: Mapping, Technology, and Politics. First hardcover edition. Brooklyn, NY: Zone Books, 2013.
-- Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
-- Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
-- Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
-
-
-
-
 
 # Thinking through practice 
-[writing space](practice.md)
-TLDR: Theorize through practic e-- is the next 
-then Tell the story from my perspective of a situated dialogue whose initiating question is: What could it mean to think *with* place, to *feel* the city?
-
-
-
-
-## Refrain from elsewhere
-*since each page is separate, albeit containing multiple hyperlinked connections to other pages, I'll have a short recap/synthesis of contextual material from other discussions* 
-I realize the city is not a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. `Rather, the city is physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations.` The field becomes where fieldwork is done... everywhere I go. Riding the bus, walking the bridge, talking geography with a stranger at my favorite brewery. I propose an orientation to geography research where the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. Bringing this orientation to the ground, as praxis, means assuming the field of encounter as **interlocutor.** I invoke **research-creation** to initiate such a dialogue with the world, asking, *What could it mean to think *with* place, to *feel* the city?*
-
-## Mapping Deeply 
-
-I explore and respond to these questions through **deep mapping, a practice of situated, embodied inhabitation by which I enter into dialogue with my surroundings** 
-
-Deep mapping attends to **spatial anthropology,** what Les Roberts (2018b, 30) calls an attempt to name "the processes whereby the fundamental spatiality of being is woven into and from everyday practices, dispositions and experiential knowledge. To proceed on these terms ... is to understand and practice space as an existential ground of everyday being." 
-
-Deep mapping does not render down to a map in the cartesian sense, where action is made legible by the substitution of trace for practice (de Certeau). Indeed, "very little of what deep mappers are doing is in fact oriented towards the production of maps so much as immersing themselves in the warp and weft of a lived and fundamentally intersubjective spatiality" (Roberts). 
-
->"Leaving aside representation, ornamentation and decoration, art can become *praxis* and *poiesis* on a social scale: the art of living in the city as a work of art.... to city people the urban center is movement, the unpredictable, the possible and encounters. For them, it is either 'spontaneous theatre' or nothing." (Lefebvre 1996, 172)
-
-**Space as practiced** crouch
-**Affect, balcony imaginaries, stories in garbage, derive**
-"How do we now describe the activity of sensual world-making, and what kind of theory is being built in this way?" (Stewart 2010) Deep mapping as attuning to affective atmospheres... "an atmosphere is not an inert context but a force field in which people find themselves. It is not an effect of other forces but a lived affect a capacity to affect and to be affected that pushes a present into a composition, an expressivity, the sense of potentiality and event. It is an attunement of the senses, of labors, and imaginaries to potential ways of living in or living through things" (Stewart 2010). "Attending to atmospheric attunements and trying to figure their significance incites forms of writing and critique that detour into descriptive eddies and attach to trajectories" (Stewart 2010, 452): Vignettes from practice are interspersed throughout the site. Constituting the empirics from fieldwork, I cite navigations and encounters from practice in the theory I convey here. 
-
-## Process Oriented
-*Deep mapping is process oriented, praxis-based research-creation. It takes time to get to know a place - to get lost and wander around. Deep mapping enacts slow scholarship as praxis. Deep mapping as not only a spatial practice with urban surroundings but enactment of theory at all sites of interference. Visit [process-commonplace](../commonplace.html) for more* 
-
-Deep mapping is **research-creation** for my exploration is driven by intellectual and spatial topoi which lure me forwards even before I comprehend where they lead (Loveless 2019, 95). Following a concept in multiple directions I find myself making surprising connections. I write "follow" because when I loosen my desire to arrive at a specific place, when I release control of the destination as it were, I make room for latent connections to make themselves (apparent).  
-    
-Exploration, put one way, is ["the action of traveling in or through an unfamiliar area in order to learn about it"](https://bit.ly/3XeFxZw). **Deep mapping is a practice of learning through disorientation.** Though the field (city, discipline) is at first unknown and therefore unfamiliar, the iterative act of navigating, of finding ways around, coheres a framework of reference points which constitute am embodied topology - the field of encounter. 
-    
-```
-My theory of deep mapping is constituted through my practice of deep mapping.
-```
-
-That sentence took nine months of writing and re-writing (iteration). Just that sentence, not my theory. Indeed, I wrote that sentence while my theorization was still taking shape. What I'd finally found were words to state how my theory, the knowledge co-produced, the link between theory and practice and the what of my entire project - all emerge from my iteration through theory and practice. Situated. Embodied. With/In place. 
-
->"...navigation itself produces knowledge that feeds into its course and experience itself." (Tuin and Verhoeff 2022, 137-139). 
-
-Navigation makes navigable the field. To further describe the "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) which form my research (and whose form my research takes), I introduce the lemniscate: ∞ The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) - a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my sense of spatial awareness. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is process oriented: "It is the _act_ of drawing that educates, not the result" (Gebert 1987, 8). **The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught.** My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12).
-
-*Other embodied practices and how they support deep mapping: playing viola (rhythm, dexterity and different hands doing different things together, breathing with orchestra, learning music by ear --> spatial memory) unicycling, teaching and practicing yoga*
-Discuss deep mapping as **slow scholarship**; discuss also slow residency, fidelity to place (in conversation with Modeen and Biggs)
-
-## Theorizing deep mapping
-
-From my iteration through theory and practice by which I weave together the physical and conceptual fields of my encounter, I offer an interpretation of deep mapping that serves for now, for this project:
-
-```
-deep mapping is a praxis of interference with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public.  
-``` 
-
-"How we do, think about, think-with our research practices—be they written, spoken, or danced—matters" (Loveless 2019, 70). **This is what my thesis is about.** Not a map, counter-cartography, or operationalization of practice to method. About conveying knowledge generated through practice and of practice without operationalizing practice itself. *Elaborate and give dedication/what i am dedicated to doing - overarching story that's in the works*
-
-## References 
-- Biggs, Iain. “Deep Mapping as an ‘Essaying’ of Place,” 2010. http://www.iainbiggs.co.uk/text-deep-mapping-as-an-essaying-of-place/.
-- Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. https://doi.org/10.3390/h4030476.
-- Candy, Linda. “Practice Based Research: A Guide,” 2006, 19.
-- Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.
-- “Define Exploration - Google Search.” Accessed May 11, 2023.
-- Gebert, Rosemary. “Form Drawing.” Child and Man 21, no. 1 (1987).
-- Lefebvre, Henri. Writings on Cities. Translated by Eleonore Kofman and Elizabeth Lebas. Cambridge, Mass: Blackwell, 1996.
-- Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.
-- Modeen, Mary, and Iain Biggs. “Deep Mapping and Slow Residency.” In Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies, 50–73. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
-- Mountz, Alison, Anne Bonds, Becky Mansfield, Jenna Loyd, Jennifer Hyndman, Margaret Walton-Roberts, Ranu Basu, et al. “For Slow Scholarship: A Feminist Politics of Resistance through Collective Action in the Neoliberal University.” ACME: An International Journal for Critical Geographies 14, no. 4 (August 18, 2015): 1235–59.
-- Roberts, Les. Spatial Anthropology: Excursions in Liminal Space. Rowman and Littlefield, 2018.
-- ———. “Spatial Bricolage: The Art of Poetically Making Do.” Humanities 7, no. 2 (June 2018): 43. https://doi.org/10.3390/h7020043.
-- Steiner, Rudolf. “A Lecture on Eurythmy.” Archive. Rudolf Steiner Archive, August 26, 1923. https://rsarchive.org/Lectures/19230826p01.html.
-- Stewart, Kathleen. “Atmospheric Attunements.” Environment and Planning D: Society and Space 29, no. 3 (June 1, 2011): 445–53. https://doi.org/10.1068/d9109.
-- Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. https://rowman.com/ISBN/9781538147733/Critical-Concepts-for-the-Creative-Humanities.
-
-
-
+TLDR What might  it mean to think *with* place, to *feel* the city? In [thinking through practice](practice.md) I describe my practice of deep mapping, drawing others' practices into conversation for a sense of its  capaciousness for interpretation. I Deep mapping is research-creation, a practice of exploration driven by intellectual and spatial topoi which lure me forwards even before I comprehend where they lead. Following a concept in multiple directions I find myself making surprising connections. Drifting amidst the city, I attend to the tug and pull of affective contours, vibes really. Walking alleyways, I glean treasures and balcony imaginaries. I track the dispersion and defacement of graffiti tags and sticker signs like below, 15 minute city ready, and a new imperative: FIND THE DRIFT // CROSS // THE FENCE REPORT // ALL SIGNS. I explore commercial dumpsters as sites of implosion and assemblage, attending to ephemeral stories arising from the odor of urban excrement. Mapping deeply is process oriented slow scholarship, an ethic of relating to self and others, human and nonhuman. From my iteration through theory and practice by which I weave together the physical and conceptual fields of my encounter, I offer an interpretation of deep mapping that serves for now, for this project: *deep mapping is a praxis of interference with hegemonic forms of engaging & representing place, producing geographic knowledge, and rendering spatial research public.* Data emerge as inextricable layerings of sensorium, affect, and infrastructure through synesthetic attunement to the entangled viscera of urban bodies, human and nonhuman. Vignettes illuminating insights drawn with navigations and encounters with the field are interspersed throughout my writing constituting empirics from my fieldwork. 
 
 # Interference
 [writing space](./interference.md)
+Deep mapping as not only a spatial practice with urban surroundings but enactment of inter at all sites of interference. 
 
+deep mapping does not render down to a deep map. Neither, however, does it counter cartography. I
 ## Beyond the monochrome 
 <video autoplay muted loop   src="../media/field/thinfilm-interference.mp4"  style="width: 50%;"></video>
     
@@ -190,7 +63,7 @@ Deep mapping as I enunciate it does not "counter cartography" (cf Mason-Deese 20
 
 # Framing a story
 [writing space](./framing.md)
-
+Tell the story from my perspective of a situated dialogue
 TLDR framing field-- problematics of when all potential for encoutner
 For me, the field is not a site separate from where spatial analyses are produced, maps rendered, and urban geography written. 
 intelligibility quotes barad 82? 182?
