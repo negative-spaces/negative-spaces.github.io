@@ -1,5 +1,6 @@
 ---
-permalink: /index.html
+permalink: /encounter.html
 ---
+
 
 
