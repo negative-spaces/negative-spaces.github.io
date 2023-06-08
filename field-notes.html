@@ -2,16 +2,84 @@
 
 <head>
     <link rel="stylesheet" href="./styles/styles.css">
+    <!--CSS for disappearing side menu navigation-->
+    <style>
+        body {
+          font-family: 'Courier New', Courier, monospace;
+        }
+        
+        .sidenav {
+          height: 100%;
+          width: 0;
+          position: fixed;
+          background-color: #f0f0f0;
+          overflow-x: hidden;
+          transition: 0.5s;
+          padding-top: 80px;
+        }
+        
+        .sidenav a {
+          padding: 8px 8px 8px 32px;
+          text-decoration: none;
+          font-size: 13px;
+          color: #2b2b2b;
+          display: block;
+          transition: 0.3s;
+        }
+        
+        .sidenav a:hover {
+          color: #eb4d09;
+        }
+        
+        .sidenav .closebtn {
+          position: absolute;
+          top: 0;
+          right: 20px;
+          font-size: 30px;
+          margin-left: 50px;
+        }
+        
+        #main {
+          transition: margin-left .5s;
+          padding: 5px;
+        }
+        
+        @media screen and (max-height: 450px) {
+          .sidenav {padding-top: 15px;}
+          .sidenav a {font-size: 10px;}
+        }
+        </style>
 </head>
 
 <body>
-    <p class="nav" style="margin-left:.5%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">
-        navigate elsewhere>></br>
-        <a href="./index.html" class="nav">INDEX</a><br>
-        <a href="./field-notes.html" class="nav">FIELD_NOTES</a><br>
-        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/making-space.html"
-            target="_blank" class="nav">code_side</a><br>
-    </p>
+    <!--Navigate Elsewhere-->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/field-notes.html" target="_blank">code_side</a>
+        <a href="#">disorientation</a>
+        <a href="#">practice</a>
+        <a href="#">interference</a>
+        <a href="#">framing</a>
+        <a href="#">tactics</a>
+        <a href="#">rendering</a>
+        <a href="#">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <a href="./commonplace.html">process_commonplace</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
     <h3>
         FIELD NOTES<br>
     </h3>
@@ -33,11 +101,15 @@
                 <a href="#behind-the-city">behind-the-city</a><br>
                 <a href="#abstract-to-concrete">abstract-to-concrete</a><br>
                 <a href="#spring-review">spring-review</a><br>
+                <a href="#rhythmanalysis1">spring-review</a><br>
                 <a href="#plaza-writing1">writing-from-the-plaza</a><br>
                 <a href="#haze">haze</a><br>
                 <a href="#napkin-note">napkin-note</a><br>
                 <a href="#bus33">riding-the-33bus</a><br>
                 <a href="#spin-chair">false-creek-attractions</a><br>
+                <a href="#watermarked-transit">birthday-symposium</a><br>
+                <a name="thesis-writing">thesis-writing</a>
+                
             </p>
         </div>
         <div>
@@ -367,31 +439,17 @@
             <span style="margin-left:60%;">467 days of being here </span>
         </div>
     </div>
-    <br><br><br>
-    <!--Napkin Notes on rhythm and intersecting planes-->
-    <a name="napkin-note" id="napkin-note"></a>
-    <div id="scroll-box" style="height:420px">
-        <img src="./media/process/napkin-note1.jpg" style="width: 100%">
-        </img>
-        <img src="./media/process/napkin-note2.jpg" style="width: 100%">
-        </img>
-        <div id="scroll-text">
-            Notes on rhythm and intersecting planes which came to me while sitting listening to live jazz in an open
-            studio one saturday with my friend.
-            <br>
-            <br>
-            <!--
-            <span style="float: left; margin-left:10%">
-                On rhythms - understanding<br>
-                I played classical and folk repertoire seriously for 11 years. By serious, I mean I kept a consistent
-                practice. A practice is a commitment to practicing.
-                Internalization of rhythm necessary even before music is made/played/actualized. Orchestras breathe together.
-            </span> 
-            -->
-
-        </div>
-    </div>
     <br><br><br><br><br>
+    <!--DEEP MAPPING THOUGHTS ON RHYTHMS-->
+      <a name="rhythmanalysis1" id="rhythmanalysis1"></a>
+      <div id="scroll-box" style="height:fit-content">
+        <iframe width="400" height="400"  src="https://www.youtube.com/embed/1Du5D1sfWP8?autoplay=1&mute=1">
+        </iframe>
+          <div id="scroll-text">
+            Thinking about rhythmanalysis before I'd even heard of the book. 
+          </div>
+      </div>
+    <br><br><br>
     <!--33 Bus-->
     <a name="bus33" id="bus33"></a>
     <img src="./media/field/belcourt-33.jpeg" id="field-image" style="height:680px; width:480px; margin-left:35%">
@@ -447,18 +505,11 @@
             convergences.
         </div>
     </div>
-    <br><br><br><br><br>
-    <!--AAG
-    <img src="./media/process/AAGabstract1.png" id="field-image" style="width:40%"></img>
-    <div id="scroll-box">
-        <div id="scroll-text">
-        </div>
-    </div>-->
     <br><br><br><br>
-    <!--SPIN CHAIR-->
+    <!-- SPIN CHAIR
     <a name="spin-chair" id="spin-chair"></a>
     <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
-        src="https://github.com/lilydemet/lilydemet.github.io/raw/main/FieldNotes/video/spin-chair.mp4"
+        src="/spin-chair.mp4"
         type="video/mp4"></video>
     <div id="scroll-box" style="height:100px">
         <div id="scroll-text">
@@ -474,9 +525,57 @@
         <div id="scroll-text">
             3 nights now I've woken 3 hours after falling asleep, the conceptual debris which all day circled my mind in an undifferentiatable cloud suddenly cohered into orbits such that fully formed sentences carry me from unconscious to consciousness. delta brainwaves.
         </div>
+    </div> -->
+    <!--Napkin Notes on rhythm and intersecting planes-->
+    <a name="napkin-note" id="napkin-note"></a>
+    <div id="scroll-box" style="height:420px">
+        <img src="./media/process/napkin-note1.jpg" style="width: 100%">
+        </img>
+        <img src="./media/process/napkin-note2.jpg" style="width: 100%">
+        </img>
+        <div id="scroll-text">
+            Notes on rhythm and intersecting planes which came to me while sitting listening to live jazz in an open
+            studio one saturday with my friend.
+            <!--
+            <span style="float: left; margin-left:10%">
+                On rhythms - understanding<br>
+                I played classical and folk repertoire seriously for 11 years. By serious, I mean I kept a consistent
+                practice. A practice is a commitment to practicing.
+                Internalization of rhythm necessary even before music is made/played/actualized. Orchestras breathe together.
+            </span> 
+            -->
+        </div>
     </div>
+   <br><br><br><br><br>
+    <!--birthday symposium-->
+    <a name="watermarked-transit" id="watermarked-transit"></a>
+    <img src="./media/field/watermarked-transit.jpg" id="field-image" >
+    </img>
+    <div id="scroll-box">
+        <div id="scroll-text">
+            <br>
+        </div>
+    </div>
+    <a name="thesis-writing" id="thesis-writing"></a>
+    <img src="./media/field/exits.jpeg " id="field-image" >
+    </img>
+    <div id="scroll-box">
+        <div id="scroll-text">
+            <br>
+            Nothing is where I left it. I get up for a walk or eat or rest and when I return the words are there but I've forgotten what they meant. Is my thesis just writing about writing a thesis? Or doing fieldwork? I know I thought it all meant something yesterday. I felt it, at least. I had six ideas before noon and but then I read the last chapter of this book and now I'm not so sure what matters. Is it all very simple and elegantly connected from the start? Or is it a tangled snarl of threads which no amount of good writing can unravel. Topology shifts with something so simple as a bikeride along an unfamilliar route. The city and my framework rearranges ever so slightly, coheres, connects back to something last visited a year ago. My working memory can hold no more than four things at a time which makes writing a thesis where everything is connected and also layered and happening all at once very challenging. I don't think one sentence at a time. I feel ideas and their connections, wake up with words in my mouth, and then iterate through phrasings until I land on an arrangement of words and punctuation that best approximates the feeling. And then I write around this grain until a pearl of something is said. I'm trying to practice writing around nothing (yet) - not waiting for the grains to start writing but just saying whatever's on my mind when I feel stuck and seeing if it goes anywhere. It's all the field - all part of the process of it. 
+    
+        </div>
+    </div>
+<p>I've been noticing the amazon package van backup screams since january. they sound aggressive and entirely different from any other car backup beeping. now i hear them so often i almost dont register except i know, without seeing, exactly what animal is making that noise. ..</p>
     <br><br><br><br><br>
-    <!--moving - cambie? 
+    <!--Navigate Elsewhere-->
+    <p class="nav" style="margin-left:0%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">navigate
+        elsewhere:</br>
+        <a href="./index.html" class="nav">INDEX</a><br>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/d6ce5400fb8894d0f0f5b170e448d5fd26cd13a6/field-notes.html" class="nav" target="_blank">code_view</a><br>
+        <a href="#top">back to the beginning</a><br>
+    </p>
+     <!--moving - cambie? 
     Grid City
     winter  march
     idea of negative space, lost poem
@@ -494,14 +593,9 @@
     -sensorium - where to?
     -pollinator pork mystery
     -s granville pull
+    - aag
+    - warehouse negative space false creek 
     -->
-    <br>
-    <p class="nav" style="margin-left:0%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">navigate
-        elsewhere:</br>
-        <a href="./index.html" class="nav">INDEX</a><br>
-        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/d6ce5400fb8894d0f0f5b170e448d5fd26cd13a6/field-notes.html" class="nav" target="_blank">code_view</a><br>
-        <a href="#top">back to the beginning</a><br>
-    </p>
 </body>
 
 </html>
