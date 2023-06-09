@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        .row {
+          display: flex;
+        }
+        
+        .column-side {
+            flex: 30%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 11pt;
+            font-weight: lighter;
+            line-height: 1.6;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            /* margin-left: 2%; */
+            /* border: 1px solid #f5f5f5; */
+        }
+        
+        .column-main {
+            flex: 55%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 12pt;
+            font-weight: lighter;
+            line-height: 1.85;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            margin-right: 14%;
+            /* margin-left: 3% */
+        }
+        </style>
+</head>
+
+<body>
+       <!--Navigate Elsewhere-->
+       <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/disorientation.html" target="_blank">code_side</a>
+        <a href="#">practice</a>
+        <a href="#">interference</a>
+        <a href="#">framing</a>
+        <a href="#">tactics</a>
+        <a href="#">rendering</a>
+        <a href="#">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <a href="./commonplace.html">process_commonplace</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
+
+    <!--TWO COLUMN LAYOUT-->
+    <div class="row">
+        <!--SIDE NOTES-->
+        <div class="column-side" >
+        </div>
+        <!--MAIN TEXT-->
+        <div class="column-main" >
+        <b>disorientation</b><br><br>
+        This <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/plateaus/disorientation.md" target="_blank">page</a> will summarize my journey to Vancouver and to my thesis project, acknowledging the disorientation inherent to exploration and the navigation of an at first unfamiliar terrain. Whether urban or conceptual, I argue that familiarity develops nonlinearly through connections made while lost and wandering around. Reflecting on my experience developing spatial awareness of a new place while teaching cartography, I trouble delineations of the city as a fixed and inherently bounded object which pre-exists my encounter and which I, the geographer-researcher, may separate myself from in order to map from a distanced, exterior position. Rather, the city is a physical-conceptual field whose emergent topology is performatively constituted through my everyday navigations. As such, the city and I are figured and refigured in relation, a continuous tranformation that is never quite complete. If this process forms my research interest, where do I locate my fieldsite? And what constitutes my fieldwork? Answering these questions opens an investigation into where/how the boundaries around what counts as intelligible forms of knowledge production and legible ways of rendering research in academia are drawn as well as transgressed. What is at stake in interfering from within - in s/citing differently? I think through these questions while riding the bus, walking the bridge, presenting my research at a conference and to my department. I find answers along the way, often by way of serendipitous encounters arising from spontaneous detours. My thesis is thus a research-creation project for I am driven by intellectual and spatial topoi which lure me forwards even before I comprehend where they lead. Following  a concept in multiple directions I find myself making surprising connections. The affective tug and pull of urban contours are my data. Approaching the field as interlocutor, I initiate an ongoing and open-ended dialogue with my surroundings through deep mapping, a practice of situated, embodied inhabitation. My thesis concerns practicing deep mapping, theorizing deep mapping through practice, and enacting theory as praxis. Iteratively enacted as a praxis of interference, I articulate how deep mapping not only marks where the boundaries of intelligibility are drawn but refigures them, valorizing ways of being and operating in the world (and academy) which are systemically relegated to negative space - to that whose complementarity to the intelligible subject predicates the definition of a boundary.  (or, to the complement of the intelligible form whose othered state predicates the very definition of a boundary? My words are not all there yet but I'm iterating closer to an idea. Also predicate enacts meaning to the subject in a sentence.) The site for deep mapping is ever shifting and no one method will suffice. The eclectic toolkit of a bricoleur is needed to expand the field from within, interfering with systems and structures which delimit intelligibility not through oppositional strategies but with tactics appropriate to the situation at hand. What is rendered here visible as a research output marks a story of my interferences and how patterns of similarity and difference came to matter in the process of my thesis. 
+        </div>
+    </div>
+
+    <br><br>
+</body>
+
+</html>
