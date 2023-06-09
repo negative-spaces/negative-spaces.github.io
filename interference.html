@@ -2,30 +2,99 @@
 
 <head>
     <link rel="stylesheet" href="./styles/styles.css">
+    <title>disorientation</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        .row {
+          display: flex;
+        }
+        
+        .column-side {
+            flex: 30%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 11pt;
+            font-weight: lighter;
+            line-height: 1.6;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            /* margin-left: 2%; */
+            /* border: 1px solid #f5f5f5; */
+        }
+        
+        .column-main {
+            flex: 55%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 12pt;
+            font-weight: lighter;
+            line-height: 1.85;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            margin-right: 14%;
+            /* margin-left: 3% */
+        }
+        </style>
 </head>
 
 <body>
-    <!--directory--> 
-    <div>
-        <p class="nav" style="margin-left:.5%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">
-            navigate elsewhere>></br>
-            <a href="./index.html" class="nav">INDEX</a><br>
-            <a href="./making-space.html">MAKING_SPACE</a><br>
-            <a href="./field-notes.html" class="nav">FIELD_NOTES</a><br>
-            <a href="./commonplace.html" class="nav">PROCESS_COMMONPLACE</a><br>
-            <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/interference.html"
-                target="_blank" class="nav">code_side</a><br>
-        </p>
-    </div>
-   <h3>INTERFERENCE</h3>
-   <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
-   src="./media/field/thinfilm-interference.mp4"></video>
-   <p>
-    "Place impels me; it is the actor. Place unfurls around me; it becomes the subject." Maleea Acker in Lyric Geography (2019, 132)
-    <br><br>
-    Some grey day my first winter here I walked the stretch of shoreline that wraps around the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nations. I am here because from where the sand turns dry begins the land occupied by the University of British Columbia. With the Salish sea on one side and a forest of evergreens and sword ferns to the other, the university at which I am a graduate student is geographically and administratively separated from the city of Vancouver. The beach is the only spot on campus I can breathe easily, where I can think. A five minute walk from the Geography Department takes me to a zig-zag staircase at the bottom of which awaits a place where clothing is optional. My shoes and socks are the first to come off. The sand is cold and firm, yet porous. It holds the impression of my soles and reshapes in my hands. I contain it for a moment - appreciating the texture worn from time and force - then release it. How freeing to exist in a landscape with nothing (on) but the body. 
-    <br><br>
-    Sunshine was a precious thing my first winter settled in Vancouver when it rained for four months straight. The cloud cover was so dense that a dimple of white was the only indication our star remained. Monochrome days used to really kill my vibe. There’s a dullness to a landscape lit ambiently, a non-differentiation that makes it difficult to articulate thoughts. That day I paused at ocean’s edge where barnacles encrust the rocks and molluscs cling together in crunchy bundles. In and out rolled the waves, and I breathed with them. On each exhale I noticed how foam gathered around the rocks at my feet, forming bubbles on whose surface spun psychedelic spirals. This happens due to thin film interference, where light waves reflecting off the surface of a bubble are interfered with by waves which have been transmitted through the film, reflected back, and refracted at the surface at the angle of incidence. When refracted waves are shifted so as to be in-synch with those reflected, they interfere constructively to make visible an abundance of colors. 
-   </p>
+       <!--Navigate Elsewhere-->
+       <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/interference.html" target="_blank">code_side</a>
+        <a href="./disorientation.html">disorientation</a>
+        <a href="./practice.html">practice</a>
+        <a href="./framing">framing</a>
+        <a href="./tactics">tactics</a>
+        <a href="./rendering">rendering</a>
+        <a href="./superposition">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <a href="./commonplace.html">process_commonplace</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
 
+    <!--TWO COLUMN LAYOUT-->
+    <div class="row">
+        <!--SIDE NOTES-->
+        <div class="column-side" >
+        </div>
+        <!--MAIN TEXT-->
+        <div class="column-main" >
+        <b>INTERFERENCE</b><br><br>
+        <img src="./media/field/subvert.jpg" style="width:100%;" ><br>
+        In this section I explicate how, in my theorization, deep mapping is not defined by opposition so much as marked by (iterative acts of) interference. Drawing from an encounter at the beach and a year later, with Barad (2007), I argue that deep mapping is a diffractive apparatus for generating interferences and studying how the effects of these interferences come to matter. Deep mapping is process oriented.  My thesis is an account of process, how research practices matter. 
+        <br><br>
+        The field is not a site separate from the researcher but rather produced through intra-actions (giving research presentation, for example, or leaning against a bridge) that reveal similarities and differences - ripples of affect eliciting visceral responses like sweaty palms, heavy breathing, rapid heart beat. I locate myself neither above nor outside the field, but rather within and as part of the world, my site of interference shifting so as to be always the line drawn at the limit of legibility - the boundary of the intelligible form.  Yet the limit is exposed as the limit in the moment of its interference, when its complementary state - that which it has relegated to negative space, is hailed as intelligible. Interference at once reveals where the line [limit of intelligibility] is drawn, and refigures it by valorizing what it has othered. 
+        <br><br>
+        <span class="quote">Transgression carries the limit right to the limit of its being; transgression forces the limit to face the fact of its imminent disappearance,  <i>to find itself in what it excludes</i>" (Foucault 1977, 34, emphasis mine)</span>
+       
+        </div>
+    </div>
+    <br><br>
+    <!-- <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
+    src="./media/field/thinfilm-interference.mp4"></video> -->
 </body>
+
+</html>
+
+
+
+
