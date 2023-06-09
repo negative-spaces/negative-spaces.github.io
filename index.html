@@ -5,25 +5,39 @@
 </head>
 
 <body>
+           <!--Navigate Elsewhere-->
+           <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="./disorientation.html">disorientation</a>
+            <a href="./practice.html">practice</a>
+            <a href="./interference.html">interference</a>
+            <a href="./framing">framing</a>
+            <a href="./tactics">tactics</a>
+            <a href="./rendering">rendering</a>
+            <a href="./superposition">superposition</a>
+            <a href="./field-notes.html">field_notes</a>
+            <a href="./commonplace.html">process_commonplace</a>
+            <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+            <a href="./making-space.html">AAG Conference Presentation</a>
+            <a href="#">UBC Masters Symposium Presentation</a>
+          </div>
+          <div id="main">
+            <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+          </div>
+          <script>
+          function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+          }
+          function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("main").style.marginLeft= "0";
+          }
+          </script>
+    
+    <br>
     <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
-   src="./media/field/thinfilm-interference.mp4"></video>
-<br>
-<br>
-        <a href="./field-notes.html" class="nav" style="margin-left:42%;  font-size: 10pt;">FIELD_NOTES</a><br>
-    </p>
-    <br><br>
-    <a href="./commonplace.html" class="nav" style="margin-left:42%;  font-size: 10pt;">PROCESS_COMMONPLACE</a><br>
+    src="./media/field/thinfilm-interference.mp4"></video>
     <br>
-    <p>
-        <a href="./making-space.html" class="nav" style="margin: auto;  font-size: 10pt;">MAKING SPACE FOR DEEP MAPPING: THEORY AS PRAXIS</a><br>
-    <br><br>
-    <p>
-        <a href="https://github.com/negative-spaces/negative-spaces.github.io" class="nav" style="margin-left:42%;  font-size: 10pt;" target="_blank">project_repository</a><br>
-    </p>
-    <br>
-    <a href="./interference.html" class="nav" style="margin-left:42%;  font-size: 10pt;">Interference</a><br>
-    <br>
-    <a href="./orientation.html" class="nav" style="margin-left:42%;  font-size: 10pt;">Orientation</a><br>
-    <br><br><br>
 </body>
 </html>
