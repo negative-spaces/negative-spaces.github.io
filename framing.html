@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>framing</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        .row {
+          display: flex;
+        }
+        
+        .column-side {
+            flex: 30%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 11pt;
+            font-weight: lighter;
+            line-height: 1.6;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            /* margin-left: 2%; */
+            /* border: 1px solid #f5f5f5; */
+        }
+        
+        .column-main {
+            flex: 55%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 12pt;
+            font-weight: lighter;
+            line-height: 1.85;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            margin-right: 14%;
+            /* margin-left: 3% */
+        }
+        </style>
+</head>
+
+<body>
+       <!--Navigate Elsewhere-->
+       <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/framing.html" target="_blank">code_side</a>
+        <a href="./disorientation.html">disorientation</a>
+        <a href="./practice.html">practice</a>
+        <a href="./interference.html">interference</a>
+        <br>
+        <a href="./tactics.html">tactics</a>
+        <a href="./rendering.html">rendering</a>
+        <a href="./superposition.html">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <a href="./commonplace.html">process_commonplace</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
+  <img src="./media/field/chair-frame.jpg" style="width:100%;" ><br><br>
+    <!--TWO COLUMN LAYOUT-->
+    <div class="row">
+        <!--SIDE NOTES-->
+        <div class="column-side" >
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <i>"Feminist accountability requires a knowledged tuned to reasonance [sic], not to dichotomy" (Haraway 1988, 588).</i>
+        </div>
+        <!--MAIN TEXT-->
+        <div class="column-main" >
+        <b>FRAMING A STORY</b><br><br>
+        <img src="../media/process/diffractive-reading.jpg" style="width:100%;"><br><br>
+        <b>overlaying frameworks, intertextuality, diffractive reading</b><br>
+        <br>
+        My field cannot be instantaneously apprehended as the nominal City, nor can it be captured by the frame of a single map. Neither is one existing disciplinary framework or methodology sufficient: each time I leave home I bring along the people/stories/theories I wish to think with for the day. I put texts into conversation first amongst themselves. Heavy in my bag, their pages interlap, folding together like a pair of hands. Opening one, I open myself: README.md; Transform me. My field is the emergent web of connections drawing together (with) physical and conceptual topoi––a topology continuously transforming through intra-action. It is this relational entanglement that is at stake in rendering thinking through practice. <br><br>
+        <img src="./media/field/jericho-beach.png" style="width:100%;" ><br><br>
+        <b>many stories, situated knowledges, framings and agential cuts, exclusions and accountability </b><br><br>
+        Deep mapping is a praxis of situated, embodied, inhabitation which assumes field of encounter as interlocutor. A partial perspective, rendering thinking through practice must necessarily account for negative space drawn by a chosen framing. Many stories exist in the landscape. I convey a situated, partial perspective of an ongoing dialogue with my surroundings. 
+        <br><br>
+        </div>
+    </div>
+    <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
+        src="/spin-chair.mp4"
+        type="video/mp4"></video>
+    <br><br>
+
+</body>
+
+</html>
+
+
+
+
