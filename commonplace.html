@@ -5,15 +5,34 @@
 </head>
 
 <body>
-    <!--allowing for independent, non-linear navigation-->
-    <p class="nav" style="margin-left:0%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">navigate
-        elsewhere:</br>
-        <a href="./field-notes.html" class="nav">FIELD_NOTES</a><br>
-        <a href="./making-space.html" class="nav">MAKING_SPACE</a><br>
-        <a href="./index.html" class="nav">index</a><br>
-        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/commonplace.html"
-            target="_blank" class="nav">code_side</a><br>
-    </p>
+       <!--Navigate Elsewhere-->
+       <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/commonplace.html" target="_blank">code_side</a>
+        <a href="./disorientation.html">disorientation</a>
+        <a href="./practice.html">practice</a>
+        <a href="./interference.html">interference</a>
+        <a href="./framing.html">framing</a>
+        <a href="./tactics.html">tactics</a>
+        <a href="./rendering.html">rendering</a>
+        <a href="./superposition.html">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <br>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
     <h3>
         PROCESS: a commonplace<br>
         <span style="margin: auto; font-family: 'Courier New', Courier, monospace; font-size: 10pt;">
