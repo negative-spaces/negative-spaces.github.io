@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>rendering</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        .row {
+          display: flex;
+        }
+        
+        .column-side {
+            flex: 30%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 11pt;
+            font-weight: lighter;
+            line-height: 1.6;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            /* margin-left: 2%; */
+            /* border: 1px solid #f5f5f5; */
+        }
+        
+        .column-main {
+            flex: 55%;
+            padding: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 12pt;
+            font-weight: lighter;
+            line-height: 1.85;
+            text-align: justify;
+            letter-spacing: .16mm;
+            text-justify: inter-word; 
+            margin-right: 14%;
+            /* margin-left: 3% */
+        }
+        </style>
+</head>
+
+<body>
+       <!--Navigate Elsewhere-->
+       <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/rendering.html" target="_blank">code_side</a>
+        <a href="./disorientation.html">disorientation</a>
+        <a href="./practice.html">practice</a>
+        <a href="./interference.html">interference</a>
+        <a href="./framing.html">framing</a>
+        <a href="./tactics.html">tactics</a>
+        <br>
+        <a href="./superposition.html">superposition</a>
+        <a href="./field-notes.html">field_notes</a>
+        <a href="./commonplace.html">process_commonplace</a>
+        <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+      </div>
+      <div id="main">
+        <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+      </div>
+      <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
+
+    <!--TWO COLUMN LAYOUT-->
+    <div class="row">
+        <!--SIDE NOTES-->
+        <div class="column-side" >
+        </div>
+        <!--MAIN TEXT-->
+        <div class="column-main" >
+        <b>RENDERING</b><br>
+        <b>rending, rendering down</b><br>
+        <i>Continuing conversation from tactics, discuss gaze from above and how (cartesian) maps render place by *reducing* the "fleshy," textural, and experiential to a flattened representation. Reiterate thoughts from disorientation. draw from <a href="./making-space.html">aag presentation</a> in setup but focus more on STS and GIS. Contextualize output contribution by bringing full circle reserach-creation. end section by emphasizing theory as praxis. in all ways. setup for superposition page next (if following one suggested navigation). bring back form drawing and iteration. </i>
+        <br><br><br>
+        <b>negative-spaces.github.io - making space </b><br>
+        <i>"Research-creation follows desire, and builds spaces and contexts that allow the time and space to experiment in unpredictable directions. " (Loveless 2019, 70)</i><br><br>
+        How might geographic knowledge generated through everyday spatial practices be rendered without being flattened, georeferenced, or vectorized?  I will now address the website <a href="negative-spaces.github.io">(negative-spaces.github.io)</a> and constitutive code repository <a href="github.com/negative-spaces/negative-spaces.github.io">(github.com/negative-spaces/negative-spaces.github.io)</a> which you are engaging here and which form the output of my research-creation masters thesis. Taken together, this web-field-site  convey what I have learned thinking with the city in a rhizomatic form akin to the interconnectedness of physical and conceptual topoi (places) which lure me to disoriented discovery. In what follows of this page, I articulate how my theorization of deep mapping––constituted through my practice of deep mapping––is enacted in both the form and formation of my thesis output.
+        <br><br>
+        <i>form (site)</i><br>
+        negative-spaces.github.io is itself a webbed field for deep mapping, a space for nonlinear exploration following ideas that grasp and pull the visitor. Until now, I have used this address to invoke the entire site. However, pasting this link into a web browser will bring you to an initial entry point only. My argument will unfold across multiple pages, each page connecting to a multiplicity of others via hyperlinks. Multimedia, rather than being relegated to an appendix, are integrated directly with text. Indeed, Cliffard McLucas (2000) said that renderings from deep mapping “will be genuinely multimedia, not as an aesthetic gesture or affectation, but as a practical necessity." <br><br>
+        Digital form allows me to build for a variety of creative syncretisms such as parataxis (placing things side by side; a flat ontology where nothing is subordinated), montage (juxtaposition of disparate elements; connections implied by spatial contiguity), and commonplacing (an arrangement of resonant quotes; a literary topos) (Cresswell 2019, 1-20). My use of Github as a host platform was inspired by <a href="sultanazana.github.io">sultanazana.github.io</a>, whose “network of webpages will grow more tangled with time.” Conventionally used for managing code development, I chose Github as a host platform because the code repository renders visible the iterative process of my site’s formation as well as the content which constitutes its rendered form. 
+        <br><br><br>
+        <i>formation (tactics)</i><br>
+        I know how to make web maps, wield GIS, and construct cartesian cartographies. What I didn’t know a year ago was how I would render a geography in process and of process without tracing out my practice in a linear text.pdf. Tactics are methods whose validity is measured by their applicability to the situation at hand (de Certeau 1984). Appropriate use of tactics therefore depends on practical, experiential knowledge gleaned through everyday navigations of terrains physical, conceptual, and digital. In both field-research and site-creation I employ tactics of bricolage––the poetics of making do with what tools, skills, and materials are already around (Roberts 2018a). For example, instead of learning everything about coding and styling webpages before building my web-site, I teach myself what I need as I go, often gleaning (copypasting) snippets of open source code (as is custom) that are relevant to what I am attempting in the moment. Moreover, I picked up knowledge of git and Github through my job in GIS at the university library. Mapping deeply cultivates an awareness of what is around, gleaning information that may become useful later on.
+        <br><br><br>
+        <b>rendering spatial research public</b><br>
+        I recently connected with my university’s public scholarship coordinator because as it stands, MA theses must be formatted as linear PDFs in order to be submitted to cIRcle,  the platform contracted to publish graduate research. As a result of our conversation, I will work toge ther with the logistics team as they re-code the system to make space to upload and archive my web-field-site. This means the site which renders my theory of deep mapping as interference with systemic norms of research intelligibility and legibility will serve also as a tactic for interference within and as part of the system. In ways that continue to surprise me, making space for deep mapping enacts deep mapping as praxis.
+        
+        
+        </div>
+    </div>
+
+    <br><br>
+</body>
+
+</html>
