@@ -1,6 +1,10 @@
 ---
 permalink: /index.html
 ---
-test
+# Deep Mapping Theory As Praxis
 
-
+This thesis is a partial account of an ongoing and open-ended dialogue with the world initiated by my question: what could it mean to think with place? to feel the city? I investigate these provocations through deep mapping, a capacious practice that for me means a situated, embodied inhabitation which assumes the physical-conceptual field of encounter as interlocutor. Deep mapping does not render down to a flat map in the Cartesian sense, where action is made legible by the substitution of trace for practice (de Certeau 1984, 97); though neither does it ‘counter cartography.’ Deep mapping is not defined by opposition so much as marked by iterative acts of interference with hegemonic forms of engaging & rendering place, producing geographic knowledge, and rendering spatial research public. 
+    
+negative-spaces.github.io and its constitutive code repository (per)form the output of my master's thesis in geography. Taken together, this web-field-site marks a praxis of interference while being itself the articulation of interference as praxis. The pages of negative-spaces.github.io 1. introduce my practice 2. render my theorization as generated through practice, and 3. trace how iterative acts of rendering my research-creation public commit theory as praxis. Sometimes a site of interference sometimes a tactic, deep mapping (as I'll argue) is a Baradian diffractive apparatus for exploring the entangled states of limit and transgression. 
+    
+My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey  navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude.  After all, iteration of a form reveals beginning and end to be merely places of turning and return.
