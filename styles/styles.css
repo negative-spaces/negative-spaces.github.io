@@ -232,6 +232,7 @@ body {
 .popup {
   position: relative;
   display: inline-block;
+  color: #6e6a69;
   cursor: help;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -242,10 +243,12 @@ body {
 /* text*/
 .popup .popuptext {
   visibility: hidden;
-  width: 200px;
+  width: 300px;
+  height:80px;
+  overflow: scroll;
   background-color: #fafafa;
   color: #363657;
-  text-align: auto;
+  text-align: center;
   border-radius: 3px;
   border-style: solid;
   border-width: 1px;
@@ -253,25 +256,13 @@ body {
   font-family: "Courier New", Courier, monospace;
   font-size: 10pt;
   font-weight: lighter;
+  line-height:1.3;
   padding: 8px 0;
   position: absolute;
   z-index: 1;
   bottom: 125%;
   left: 50%;
   margin-left: -80px;
-}
-
-/* carrot */
-
-.popup .popuptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #363657 transparent transparent transparent;
 }
 
 .popup .show {
