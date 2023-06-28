@@ -175,6 +175,7 @@ body {
   margin-left: 2%;
 }
 
+
 /* static div text */
 #static-box {
   width: 55%;
@@ -225,7 +226,13 @@ body {
   line-height: 1.7;
   overflow: scroll;
 }
-
+/* scrolling image in vignette*/
+#scroll-box1 {
+  width: auto;
+  height: 250px;
+  overflow: scroll;
+  
+}
 /* TEXT POP UP - adapted from W3schools tutorial */
 
 /*pop up container*/
