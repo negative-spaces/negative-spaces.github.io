@@ -1,23 +1,20 @@
-DEEP MAPPING as INTERFERENCE with ACCEPTED WAYS OF RENDERING RESEARCH 
-    
-Thoughts on rendering after talking to Q this morning: 
+### Thoughts on rendering 
+(cartesian) maps render place by *reducing* the "fleshy," textural, and experiential to a flattened representation. 
 
-    (cartesian) maps render place by *reducing* the "fleshy," textural, and experiential to a flattened representation 
-    
-    to say such maps rend the material from the world in order to render (symbolize) it, however, perpetuates the notion that the symbolic and material are separable (can be separated, are intrinsically separate)
+to say such maps rend the material from the world in order to render (symbolize) it, however, perpetuates the notion that the symbolic and material are separable.
 
     how then might spatial praxes be rendered without being flattened, georeferenced, or vectorized? >>in other words, how do I render my practice based geography as a thesis "product" for evaluation (and institutional degree conferral) without submitting a linear PDF and a separate, creative work? 
     
     By working with git/GitHub and building an evolving space to contain & visualize my writing as well as mind maps, field notes, audio, visuals etc., I commit (get it) to process oriented research which resists privileging outcome over process. I integrate the two. 
         (The web-space will itself be a realm for the disoriented discovery of the gleanings from my practice of deep mapping. As mentioned in ./orientation.txt, From my iteration through theory and practice and by thinking with the (conceptual, geographical, institutional) fields of my encounter, I evolve my own interpretation of deep mapping that serves for now, for this project:    
-            Deep mapping is a praxis of iterative intervention with the basemap, established forms of knowledge production, and accepted ways of rendering research public.) 
+            Deep mapping is marked by iterative acts of interference with hegemonic forms (norms) of engaging place, producing geographic knowledge, and rendering spatial research public.
     This is how not only in content but *in form* my thesis responds to the charge for praxis to extend beyond study and actually enact knowledge production differently (Narayan and Rosenman 2022). 
 
     Yet enacting otherwise as a graduate student reveals a conflict in departmental messaging. On the UBC Geography website the "about" page declares:
         
-         "We take an interdisciplinary approach to the study of the natural environment, and are committed to addressing the ongoing climate crisis through our teaching, research and practice. Our goal is cutting-edge research that matters and makes a difference, intellectually and practically." (geog.ubc.ca/about)
+         "We take an interdisciplinary approach to the study of the natural environment... Our goal is cutting-edge research that matters and makes a difference, intellectually and practically." (geog.ubc.ca/about)
 
-    As a discipline which awards degrees in both arts and science, geography is an inherently interdisciplinary field of study. But what does that actually look like within a department and amongst geographers? Its "common knowledge" amongst UBC geography graduates that physical (grad) geographers and human (grad) geographers on the whole seldom interact socially (let alone engage collaboratively). Indeed, our offices are on separate floors. What does interdisciplinary mean in practice for geographers (graduate students and faculty alike)? Though my research draws from many disciplines, I argue is not simply interdisciplinary, but transdisciplinary. Polydisciplinamory even.
+    As a discipline which awards degrees in both arts and science, geography is an inherently interdisciplinary field of study. But what does that actually look like within a department and amongst geographers? Its "common knowledge" amongst UBC geography graduates that physical (grad) geographers and human (grad) geographers on the whole seldom interact socially (let alone engage collaboratively). Indeed, our offices are on separate floors. What does interdisciplinary mean in practice for geographers (graduate students and faculty alike)? Though my research draws from many disciplines, I argue is not simply interdisciplinary, but transdisciplinary. A polydisciplinamorous orientation, even.
         
         "Traditional interdisciplinary, with its intertheory thrust, could be said to be about _who_ (which disciplines) one commits to, while research-creation, as a _polydisciplinamorous_ orientation, becomes about _how_ one commits to producing new kinship ties not only in terms of _content_ (the "who") but in terms of _form_ (the "how"). Natalie Loveless in her Manifesto for Research Creation (2019, 63)
 
@@ -35,3 +32,4 @@ Thoughts on rendering after talking to Q this morning:
 
 ----------------
 >> research-creation.txt
+>> negative-space
