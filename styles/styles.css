@@ -279,3 +279,32 @@ body {
 }
 
 
+
+.collapsible {
+  background-color: #f3f0f531;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  margin-left:24%;
+  width:55%;
+  border: none;
+  text-align: auto;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #f0eef1;
+}
+
+.content {
+  padding: 0 4px;
+  display: none;
+  overflow: scroll;
+  background-color: #fcfafa;
+  margin-left:24%;
+  width:55%;
+  
+}
+
+
