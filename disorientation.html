@@ -44,7 +44,9 @@
 </head>
 
 <body>
-       <!--Navigate Elsewhere-->
+ 
+<!--Navigate Elsewhere-->
+<div>
        <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/disorientation.html" target="_blank">code_side</a>
@@ -73,14 +75,25 @@
         document.getElementById("main").style.marginLeft= "0";
       }
       </script>
- <img src="./media/field/exits.jpeg" style="width:100%">
- DISORIENTATION
+    </div>
+
+<!--banner image-->
+<img src="./media/field/exits.jpeg" style="width:100%">
+DISORIENTATION
+
+
+<!--fieldnote anchor points-->
+<div>
  <p class="nav" style="margin-left:0%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">
-  <!--fieldnote anchor points-->
   Page Sections<br>
 <a href="#learning-through-disorientation">learning-through-disorientation</a><br>
 <a href="#tracing-place">tracing-place</a><br>
+<a href="#the-city">the-city</a><br>
+<a href="#journey">journey</a><br>
+<a href="#disorientation-bibliography">disorientation-bibliography</a><br>
  </p>
+</div>
+
  <br>
     <div class="row">
         <div class="column-side" >
@@ -127,8 +140,12 @@
           Detours - map of city hall intersections. 
           </div>
       <br>       
+      THE CITY
+      <br><br>
+      <a name="the-city" id="the-city"></a>
       The city is not a fixed and bounded site which pre-exists my encounter as geographer-researcher and which I may separate myself from in order to map from a distanced, exterior position. Rather, “the city” is performatively constituted as a physical-conceptual field of encounter whose emergent topology is drawn through everyday navigations. As such, the city and I - field and researcher - are entangled, continuously figured and reconfiguring in dynamic relation. 
-
+      <br>      
+      <br>
       <br>
       <div class="quote">
         <img src="./media/commonplace/deCerteau1984_97.jpg" style="width: 100%">
@@ -137,16 +154,55 @@
         de Certeau, Michel. <i>The Practice of Everyday Life.</i> Translated by Steven Rendall. Berkeley: University of California Press, 1984. 
         <br>
       </div>
-      
 
     <br><br>
-    <a name="tracing-place" id="tracing-place"></a>
-  
 
+    <a name="journey" id="journey"></a>
     
+
         </div>
     </div>
-    <br>
+    <a name="disorientation-bibliography" id="disorientation-bibliography"></a>
+    <!--bibliography-->
+  <div>
+<button type="button" class="collapsible" style="font-family: Inconsolata;
+font-size: 13pt;font-weight:700;">BIBLIOGRAPHY</button>
+<div class="content">
+    <div class="row">
+        <span style="font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+        font-size: 12pt;
+        font-weight: lighter;
+        line-height: 1.8;
+        text-align: justify;
+        letter-spacing: 0.16mm;
+        text-justify: inter-word; padding:10px;">
+          Bissell, Laura, and David Overend. “Regular Routes: Deep Mapping a Performative Counterpractice for the Daily Commute 1.” Humanities 4, no. 3 (September 2015): 476–99. <br>
+          Certeau, Michel de. The Practice of Everyday Life. Translated by Steven Rendall. Berkeley: University of California Press, 1984.<br>
+          Google Search. “Exploration.” Accessed August 10, 2023. <br>
+          Kurgan, Laura. Close up at a Distance: Mapping, Technology, and Politics. First hardcover edition. Brooklyn, NY: Zone Books, 2013.<br>
+          Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.<br>
+          Tuin, Iris van der, and Nanna Verhoeff. Critical Concepts for the Creative Humanities. Rowman & Littlefield, 2022. <br>
+    </span>
+      </div>
+    </div>
+    <script>
+      var coll = document.getElementsByClassName("collapsible");
+      var i;
+      
+      for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var content = this.nextElementSibling;
+          if (content.style.display === "block") {
+            content.style.display = "none";
+          } else {
+            content.style.display = "block";
+          }
+        });
+      }
+      </script>
+ </div>
+
 </body>
 
 </html>
