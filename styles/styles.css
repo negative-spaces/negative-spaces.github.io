@@ -23,7 +23,7 @@ h3 {
 }
 
 /* Default Paragraph */
-p {
+/* p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 12pt;
   font-weight: lighter;
@@ -33,7 +33,22 @@ p {
   text-justify: inter-word;
   margin-right: 25%;
   margin-left: 25%;
+} */
+
+p {
+  flex: 55%;
+  padding: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 12pt;
+  font-weight: lighter;
+  line-height: 1.85;
+  text-align: justify;
+  letter-spacing: .16mm;
+  text-justify: inter-word; 
+  margin-right: 23%;
+  margin-left: 23%
 }
+
 
 /* Paragraph title */
 .title {
