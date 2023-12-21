@@ -11,7 +11,7 @@ h1 {
   font-family: "Courier New", Courier, monospace;
   font-size: 16pt;
   font-weight: normal;
-  text-align: center;
+  /* text-align: center; */
 }
 
 h3 {
