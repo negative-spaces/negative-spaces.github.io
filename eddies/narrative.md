@@ -1,10 +1,14 @@
 compare AAG and symposium for sites of interference and tactics (DIFF omg doing what i did was a tactic -) but also CBD - no alley entrance
+-- 3-- 
 
 Presentation - rendering spatial research public - becomes a tactic site of interference 
 WOW the presentation of the research was part of the reasearch practice ---- make interference with research (diffraction) then study interferences made and patterns of simmilarity and diffrernece across them (diffractive apparatus revealing diffractive pattens) this is how deep mapping is diffraction
 -- negative space - site constantly changing shifting boundary of intelligibile form limit of intelligibility 
 
 when i say i think iwth place i mean to situated myself within the boundary making practice of my investigation that produces the concepts I theorize with,  configures and reconfigures the topology of the city as a performative process of navigation (citation?), and differntially defines bodies 
+
+
+<!--While academic geographers and urban planners may theorize and design city places, urban space is performatively constituted through the everyday spatial practices of inhabitants whose navigations both cultivate and deploy practical, experiential knowledge. ← thinking WITH place - feeling city is rhythmic. Thinking with place is spatial awareness --> 
 
 to explain superposition - diffraction - do a diffractive mapping of aag and symposium presentations. this applys y theoretical analytic (interated into coherence and never quite finished) to sites of praxis 
 
