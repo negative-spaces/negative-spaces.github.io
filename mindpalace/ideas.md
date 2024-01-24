@@ -186,9 +186,10 @@ gleaning alleys
 stories in signs in garbage
 
 
-CRUXXXXX
+# CRUXXXXX
 
-compare AAG and symposium for sites of interference and tactics (DIFF omg doing what i did was a tactic -) but also CBD - no alley enterece
+compare AAG and symposium for sites of interference and tactics (DIFF omg doing what i did was a tactic -) but also CBD - no alley entrance
+
 WOW the presentation of the research was part of the reasearch practice ---- make interference with research (diffraction) then study interferences made and patterns of simmilarity and diffrernece across them (diffractive apparatus revealing diffractive pattens) this is how deep mapping is diffraction
 -- negative space - site constantly changing shifting boundary of intelligibile form limit of intelligibility 
 
@@ -197,3 +198,26 @@ Explain Barad's **Diffractive Apparatus**
 For them, Apparatus serves at times as instrument of investigation and at other times, object. but never both at once - complementary events. *Later on I argue my DM praxis is a diffractive apparatus and both a site and tactic of interference. the open question is, however, is it both at once? (superposition) and, most radically, apprehended as both at once? Theory and practice -- foucault says theory is practice. I would agree, and argue I put the theory I have so far into practice in instances of interference where the site is suddenly opened, and only later theorize deeper. but that doesn't discount the praxis (theory as practice) i was enacting in the moment.*
 
 its all the field--- haraway nodes barad possibilities - situated knowledge - about framing. 
+
+
+ADD WORKFLOWS LIKE SPATIALITY OF GIT AND TERMINAL - IN CONVERSATION WITH COMPUTER - DEVICE 
+
+-- 
+returning to a place is returning to a way of thinkng 
+leaving tourist 
+
+affect of place -- navigate 
+phd affect 15 minutes city sts gis
+local process
+where is the city imaginatry -- the city sees this that -- messaging in govt pragpaganda stores etc. buss - but also in ppls minds, convos, between ppl 
+-qualities  defined in comparison 
+
+
+readers guide to page -- take quotes out 
+ask questions - 
+
+ journey  - that which cannot be fixed a line connecting two dots. --- THEN THAT LINE IS THE FALSE NAMING 
+
+ ---
+
+ at end of every page include - questions  ideas things to follow frther and learn more about in next project
