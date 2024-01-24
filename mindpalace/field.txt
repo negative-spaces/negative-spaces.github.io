@@ -1,10 +1,33 @@
-The Field
-        Situating self --> point of orign (0,0) 
+The Field 
+From where I stand 
 
-        Expanded Field (Ian Cook)
-         "..writing your 'self' through the 'expanded field' in your work can be justified 'academically' as a way of writing relexive, multi-locale ethnography. 
+landscape picture
 
-        Expanded Field (Rosalind Krauss): 42
+Lindner, Christoph, and Miriam Meissner. “Urban Imaginaries in Theory and Practice.” In The Routledge Companion to Urban Imaginaries. Routledge, 2018
+De Certeau 
+
+expanding the field of cartography, or what that term means --> cartography is the art and science of map making --> but when used in sense of practice generally conceived of as the making of a 2D map
+
+The field is everywhere I look. As far as I can see. Wherever I go.  
+Creative Humanities, Geohumanities, Cartography, Geography, Digital Geography 
+
+Situating self --> point of orign (0,0) -- 
+        field emerges through interaction of geographer-researcher and place - field is all that i think with, conceptually, friends and colleagues, geophysical place too 
+        ^^^ was just reading about this Agential Realism
+                "Practices of knowing and being are not isolable; they are mutually implicated. We don't obtain knowledge by standing outside the world; we know because we are of the world. We are part of the world in its differential becoming. The separation of epistemology from ontology is a reverberation of a metaphysics that assumes an inherent difference between human and nonhuman, subject and object, mind and body, matter and discourse." (Barad, 2007, p. 185)
+
+                maybe bring in that here
+                phenomenon; 
+                assemblage thinking
+
+                here, ND
+
+>>field is space of my experience<< 
+        {Sensorium is the initial mechanism by which I receive data from my surroundings. I walk the shoreline to feel something visceral. "Deep mapping... presupposed the embodied presence of the researcher 'within' the space under investigation." (Roberts 2018, 11). 
+        s/c/iting the body as reference. This may be good to include in field under discussion of point of origin 0,0.}
+ 
+
+    Expanded Field (Rosalind Krauss): 42
             https://monoskop.org/images/b/bf/Krauss_Rosalind_1979_Sculpture_in_the_Expanded_Field.pdf
             "The expanded field which characterizes this domain of postmodernism possesses two features that are already implicit in the above description. One of these concerns the practice of individual artists; the other has to do with the question of medium. At both these points the bounded conditions of modernism have suffered a logically determined rupture.
             
@@ -28,7 +51,7 @@ The Field
                 >Urban efficiency equated to time. But in practice the diagonal is not always the most efficient way to cross an intersection though the crosswalk is drawn so. As GT said: "inefficiency as praxis". Question "efficiency" --> who benefits from shortening time?
 
                 ... certeau continues on to "analyze the microbe-like, singular and plural practices which an urbanistic system was supposed to administer or supress, but which have outlived its decay; ....far from being regulated or eliminated by panoptic administration, have reinforced themselves in a proliferating illegitimacy... unreadable but stable tactics to the point of constituting everyday regulations and surreptitious creativities..."
-         The site is not separate from where research is written up → challenging method of travelling a great distance to the field and then returning to institution to write up knowledge from field notes
+         The field is not a site separate from where research is written up → challenging method of travelling a great distance to the field and then returning to institution to write up knowledge from field notes
 
          being moved/transformed by field (Certeau, Loveless, Acker)
             "Place impels me; it is the actor. Place unfurls around me; it becomes the subject." 132 Lyric Geography by Maleea Acker
@@ -43,13 +66,60 @@ The Field
 What is my field? What is my fieldwork?
     Fieldwork (speculative) 
      My practice takes place in the city of Vancouver and UBC campus, my writing in and around the city - sometimes inside often outside when the sun shines. 
-    - Modeen, Mary, and Iain Biggs. Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
+    Modeen, Mary, and Iain Biggs. Creative Engagements with Ecologies of Place: Geopoetics, Deep Mapping and Slow Residencies. London: Routledge, 2020. https://doi.org/10.4324/9781003089773.
 
 Situate within disciplinary field --> transdisciplinary? polydisciplinary (loveless)
         Creative Humanities, Geohumanities, Cartography, Geography, Digital Geography - 
+
+         "Traditional interdisciplinary, with its intertheory thrust, could be said to be about _who_ (which disciplines) one commits to, while research-creation, as a _polydisciplinamorous_ orientation, becomes about _how_ one commits to producing new kinship ties not only in terms of _content_ (the "who") but in terms of _form_ (the "how"). Natalie Loveless in her Manifesto for Research Creation (2019, 63)
+
+?
+
+
+"It removes the traces of belonging to a network-traces
+that always compromise the author's rights. It camouflages the conditions of the production of discourse and its object. For this negated genealogy is substituted a drama combining the simulacrum of an object
+with the simulacrum of an author. A discourse can maintain a certain
+scientific character, however, by making explicit the rules and conditions
+of its production, and first of all the relations out of which it arises. " (de Certeau 44)
+
+
+“GeoHumanities…do not just require us to move beyond disciplinary silos; they also unsettle relations among theory, praxis, scholarship, practice, and application and undo the privilege of academic expertise. 
+
+     … what might GeoHumanities do, and what might it mean to do the GeoHumanities? …radical because what is developed in the course of such work is not just new knowledge, but a set of reflections that take aim at the practices and processes of knowledge production themselves” (Hawkins et al)
+
+    "Looking across the contributions we see publics as collaborators, as knowledge producers, and as constituencies who incite the production of knowledge." (Hawkins et al)
+    ^^^ so what if publics wasnt only human ??!!! 
+
+
 
 Examples of thinking with the field:
     Detour on the bus --> idea about navigations/connections/emergence of framework (mental map)
     Abstract --> Concrete
         Drawing with chalk on sidewalk as bricolage, transoforming the pedestrian 
     Constructive interference --> expanding the monochrome
+
+
+
+Symposium presentation:
+
+I had trouble coming here today. It wasn’t the Broadway construction or my chronic inability to adhere to linear time. I simply wasn't excited. And for me, a neurodivergent, when I’m not interested in a task it becomes physically, mentally, and emotionally impossible to do it. Last night I decided with a lot of guilt that I wasn’t going to show up because I didn't have the capacity to stand before you and mask how I was feeling in order to give a presentation just for the sake of talking the talk. 
+
+Being adhd, or having what I prefer to name as a kinetic cognitive style, shapes how I am in the world and how I think. Most days, my power to intuit meaning––to dissolve into fascination and draw frankly clairvoyant connections––is a source of joy and contributes constructively to my research. This morning, however, I realized attending to neurodivergence in academia goes beyond valorizing a methodology. It requires facing, investigating, and validating internal resistances that arise in the process of doing scholarship within a system that expects/rewards certain modes of being and thinking. First conceived by Nick Walker in 2008, neuroqueer is a “practice of queering (subverting, defying, disrupting, liberating oneself from) neuronormativity and heteronormativity simultaneously.” I love the idea of neuroqueer because it defies opposition in favor of interference. Whats more, it challenges categorizations that feed orientations defined by identity politics. Being able to separate myself from my research would have made today perhaps easier. But what got me here in the end was recognizing I don’t need to do this in order to say something meaningful. 
+
+I want to think together about the field. Where is your field? How do you determine what counts as fieldwork? 
+
+
+Framed otherwise, where is not your field? 
+
+In visual art, negative space is that which surrounds the subject but is not the intended focus of attention. Indeed, the intelligible form is defined by what it others––what it excludes, what it is not. 
+
+
+field - this is part - 
+
+My interest is in the layered multiplicities not the single story. 
+Less about reframing but widening the frame thinking about what is outside the frame, what is inside, the shape of the frame and why. 
+Bella and I have this refrain: Its all the field. 
+
+WHEN ITS ALL THE FIELD EVERYWHERE BECOMES A SITE FOR PRAXIS 
+
+Praxis denotes the inseparability of theory and practice. 
