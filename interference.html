@@ -165,15 +165,14 @@
   <a name="tracing-as-placing" id="tracing-as-placing"></a>
   <p>
     <span style="font-weight:700">TRACING AS PLACING</span><br>
-    Thinking with the situated objectivity formulated above... about points, cartesian cartography, cartesian space. coordinates. google maps. location. intra-action. <br>
-    Recently wrote a brief description for workshop I developed on georeferencing historical maps: 
+    Thinking back to the course directive "your source is Google Maps", I wonder what specifically is being attributed to Google Maps? Note that the assignment required students to include a symbol representing BC Stadium as well as a couple other points of interest. Therefore, Google Maps was not only referenced to trace land and water, streets and their names, but location as well. If we understand the objectivity of empirical formations to be contingent on accounting for the apparatuses by which they are constituted, then an account of the apparatuses by which position is made determinate by Google Maps is warranted. and the phenomenon within which position is a determinate property. Google Maps is an example of the visualizing technologies which perform "the god trick of seeing everything from nowhere" (Haraway 1988, 581). The cartographer need never leave their desk. (Remember, I marked 60 maps of downtown Vancouver before I ventured to downtown Vancouver.) Google Maps provides the mapper interactive access to a 2-dimensional Cartesian representation of the earth's entire surface, every point upon which occupies a determinate and distinct position. The property of position is made intelligible within the Cartesian framework by a coordinate pair, where every point on earth is marked by a distinct measurement of latitude and longitude. However, the location of a coordinate (measured value of position) is determined by the coordinate reference system used. Let me clarify with a brief description for workshop I recently developed on georeferencing historical maps (Demet 2024):
     </p>
 
     <!--datums and projections sitation-->
     <div>
     <p class="quote">
       <span style="font-weight:500">Coordinate Reference Systems (CRS)</span><br>
-      Making Cartesian maps requires some method for flattening out the earth so we can represent portions of it on our 2-dimensional computer screens. A Coordinate Reference System (CRS) defines this transformation. A CRS contains two components: a datum and a coordinate system.
+      Making Cartesian maps requires some method for flattening out the earth so we can represent it on our 2-dimensional computer screens. A Coordinate Reference System (CRS) defines this transformation. A CRS contains two components: a datum and a coordinate system.
       <br><br>
       <span style="font-weight:500">Datums</span><br>
       Earth is not a perfect sphere but rather a spheroid as it is flattened slightly at the poles. Ellipsoid, referencing a 3-dimensional ellipse, describes the same shape. From Esri’s (2021) description: “While a spheroid approximates the shape of the earth, a datum defines the position of the spheroid relative to the center of the earth. A datum provides a frame of reference for measuring locations on the surface of the earth. It defines the origin and orientation of latitude and longitude lines.” A geocentric datum positions the center of the spheroid, aka ellipsoid, at the earth’s center of mass. A local datum “aligns its spheroid to closely fit the earth’s surface in a particular area.”
@@ -191,8 +190,7 @@
   </div>
 
   <p>
-    locative technology - marks on bodies as in location - position <br>  
-  tim hortons example<br>
+    To visually illustrate an example, I have put together a video below in which I demonstrate how the location of the Tim Hortons is contingent on the coordinate reference system used. First, I copy the Cartesian coordinates in latitude longitude from Google Maps. The Latitude is 49.26384702 decimal degrees and the longitude is -123.140715 decimal degrees. I then paste this coordinate pair into an excel spreadsheet. Finally, I open QGIS, an open source geographic information system (GIS). Explains the QGIS user guide: "Just as we use a word processor to write documents and deal with words on a computer, we can use a <span style="font-weight:400">GIS application</span> to deal with <span style="font-weight:400">spatial information</span> on a computer" (“A Gentle Introduction to GIS” 2024, emphasis in original). GIS is an environment in which I can analyze, modify, and visualize spatial data. First, I add Google Maps as a basemap. Then I load my data point for Tim Hortons. As you will see, it is located directly on the Tim Hortons marker identified by Google Maps. This is because I am essentially matching the point located on Google Maps' web map to that loaded in the QGIS environment. Both Google Maps have the same projection, so a point located on one will map to the same position on the other. However, what happens if I change the coordinate reference system (CRS) of my Tim Hortons data point while leaving my Google Maps basemap in its original one? Take a moment to watch and listen to the video below.  
   </p>
 
   <!--screenshare sitation-->
@@ -201,6 +199,9 @@
   <!-- append this to source link to mute when played   ?autoplay=1&mute=1 -->
   </div>
 
+  <p>
+    The position of a particular Tim Hortons near my home is first made determinate through my intra-action with Google Maps. The cartesian coordinates by which Google Maps locates a Tim Hortons near my home are determined to be 49.26384702 degrees latitude and -123.140715  degrees longitude. So long as the point shares the coordinate reference system of Google Maps, it will be superimposed upon Tim Hortons as rendered by Google Maps in QGIS. However, when I change the coordinate reference system of the point (49.26384702, -123.140715), it no longer is located on a Tim Hortons. Although the measured value remains the same, its position on the Cartesian plane representing Earth's surface changes. Contingency… Therefore, the construction of situated objectivity in Cartesian cartography requires reference to the coordinate reference system used. 
+  </p>
   <p>
     Questions emerging as I continued to teach and practice cartography while deep mapping included: How is downtown produced as a place through the act of tracing a 'top-down' Cartesian representation of the city? How is place produced as such through the act of tracing? What is the relationship between a place as rendered by a tracing and that which is experienced and/or constituted by the everyday spatial practices of urban inhabitants? In future research, I will attend more thoroughly to the corpus of writing by geographers differentiating space and place. Throughout this project, however, my thinking on the matter has been most influenced by Michel de Certeau (1984). And so, I bracket a literature review in favor of exploring how de Certeau's figuration of space and place might nuance the above questions (fix - make sentences not pretentious and bad lol). 
   </p>
