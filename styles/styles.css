@@ -22,26 +22,14 @@ h3 {
   text-transform: uppercase;
 }
 
-/* Default Paragraph */
-/* p {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 12pt;
-  font-weight: lighter;
-  line-height: 1.8;
-  text-align: justify;
-  letter-spacing: 0.16mm;
-  text-justify: inter-word;
-  margin-right: 25%;
-  margin-left: 25%;
-} */
 
 p {
   flex: 55%;
   padding: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 12pt;
+  font-size: 12.3pt;
   font-weight: lighter;
-  line-height: 2.1;
+  line-height: 2.2;
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
@@ -50,15 +38,6 @@ p {
 }
 
 
-/* Paragraph title */
-.title {
-  font-family: "Inconsolata";
-  font-size: 11pt;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: justify;
-  letter-spacing: 0.2mm;
-}
 
 /* Class Fonts */
 .Grantha {
@@ -136,7 +115,6 @@ body {
 }
 
 /* MENUS AND BUTTONS */
-
 /* Directory Items */
 .nav {
   font-family: "Courier New", Courier, monospace;
@@ -251,6 +229,7 @@ body {
   overflow: scroll;
   
 }
+
 /* TEXT POP UP - adapted from W3schools tutorial */
 
 /*pop up container*/
@@ -332,3 +311,4 @@ body {
 .row {
   display: flex;
 }
+
