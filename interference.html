@@ -8,13 +8,64 @@
         box-sizing: border-box;
       }
       
-      .row {
-      display: flex;
+        /*testing*/
+        .column9 {
+        -ms-flex: 15%; 
+        flex: 15%;
+        max-width: 15%;
+        padding: 0 1px;
+      }
+
+      .column10 {
+        -ms-flex: 85%; 
+        flex: 85%;
+        max-width: 85%;
+        padding: 0 2px;
+      }
+
+      div.sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      /* background-color: rgba(0, 255, 251, 0.15);  */
+      padding: 1px;
+  
+}
+
+.row {
+        display: -ms-flexbox; 
+        display: flex;
+        -ms-flex-wrap: wrap; 
+        flex-wrap: wrap;
+        padding: 0 3px;
     }
 
-   .column { 
-    flex: 60%;
-    }
+p {
+  flex: 55%;
+  padding: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 12.3pt;
+  font-weight: lighter;
+  line-height: 2.2;
+  text-align: justify;
+  letter-spacing: .16mm;
+  text-justify: inter-word; 
+  margin-left: 11%;
+  margin-right: 23%
+}
+
+.vignette {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  background: rgb(243, 243, 248);
+  line-height: 1.7;
+  width:63%; 
+  margin-left:13%;
+}
+
 
       </style>
       
@@ -62,25 +113,42 @@
  <img src="./media/field/lowtide-ribs.jpg" style="width:100%">
  
   <!--anchor points-->
-  <div>
+  <!-- <div>
   <b>INTERFERENCE</b>
  <p class="nav" style="margin-left:.5%; font-family: 'Courier New', Courier, monospace; font-size: 10pt;">
   <a href="#waves">> waves</a><br>
  <a href="#diffraction">> diffraction</a><br>
  <a href="#tracing-as-placing">> tracing as placing</a><br>
- <a href="#intra-active-knowledge-production">> knowledge production</a><br>
  <a href="#diffractive-reading">> diffractive reading</a><br>
  <a href="#mapping-interference">> mapping interference</a><br>
  <a href="#distributed-knowing">> thinking w/ place, feeling the city</a><br>
  <a href="#interference-bibliography">> page bibliography</a><br>
  </p>
-</div>
+</div> -->
 
-<!--Waves-->
-<div>
-  <a name="waves" id="waves"></a>
+<!--DIFFRACTION-->
+<div class="row">
+    <div class="column9">
+      <hr>
+      <div class="sticky">
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+        <a href="#diffraction">>Diffraction</a><br>
+        </span>
+        <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;;">
+        <a href="#tracing-as-placing">Tracing as placing</a><br>
+        <a href="#diffractive-reading">Diffractive Reading</a><br>
+        <a href="#mapping-interference">Mapping Interference</a><br>
+        <a href="#distributed-knowing">Distributed Thinking & Feeling</a><br><br>
+        <a href="#top">&#9650 return to top</a><br>
+        <a href="#interference-bibliography">&#9660 page-bibliography</a><br>
+      </span>
+      </div>
+      </div>
+  <!--main: diffraction-->
+  <div class="column10">
+  <a name="diffraction" id="diffraction"></a>
   <p>
-    <span style="font-weight:700">WAVES</span><br>
+    <span style="font-weight:700">DIFFRACTION</span><br>
     Waves are all around in the form of water, sound vibrations, and electromagnetic radiation. Water and sound waves require a medium to move through, such as liquid or air. Electromagnetic waves, on the other hand, do not. The sun emits electromagnetic waves that radiate through the vacuum of space. Visible light, responsible for the colors humans can see, comprises only a portion of electromagnetic radiation on the electromagnetic (EM) spectrum.  Radiation on the EM spectrum, ranging from longest wavelength to shortest, proceeds as follows: radio waves, microwave, infrared, visible, ultraviolet, X-ray, Gamma ray. A microwave appliance heats your food in minutes or less by radiating microwaves––whose wavelength is 100,000 times shorter than a radio waves, yet still 20,000 times greater than visible-to-humans light––into the food, exciting its molecules whose vibration results in heat. The spectrum of visible-to-human light ranges from red, whose wavelength is the longest, to violet, whose wavelength is the shortest. Though bees cannot see red, they can see ultraviolet light (Shipman 2011) which is just beyond the violet perceptible to humans. Infrared radiation, whose wavelength is just longer than visible red, may be felt as heat. Infrared sensors are used for thermal imaging, night-vision apparatuses, and studying cloud structure among other things (National Aeronautics and Space Administration, Science Mission Directorate 2010a, 2010b). A portion of the sun's incoming solar radiation is reflected by the earth as infrared. Remote sensors on satellites collect data on reflected near-infrared waves which, as I once did in a remote sensing course, can be processed by specific software to assess vegetation cover and crop health (National Aeronautics and Space Administration, Science Mission Directorate 2010b). In highschool, I had a wonderful environmental science teacher who explained how scientists can tell whether a star is moving towards us or away from us by the color of light it appears to be emitting. Similar to the Doppler effect characteristic of siren wails, when a star is moving towards us/Earth/the instrument of investigation, the electromagnetic radiation it is emitting becomes "scrunched up" in front of it, decreasing the wavelengths so that the visible light being emitted appears blue to the human eye. This is known as blueshift. On the other hand, when a star is moving away from us/Earth/the instrument of investigation, the electromagnetic radiation behind it becomes more and more "stretched out" and so what visible light is being emitted appears red to the human eye. This is known as redshift. In biology the following year I learned that plant leaves look green because in the process of photosynthesis, where sunlight, water, and carbon dioxide are transformed into sugar and oxygen within plant cells, the wavelengths responsible for the visible colors red and blue are absorbed whilst those for green and yellow-green are reflected. This is all to say waves are ambient, effecting what you see, feel, and hear in encounter sensing/sensory apparatuses.
     </p>
 
@@ -103,7 +171,7 @@
       </p>
       
       <!--double slit diffraction experiment vignette-->
-      <div class="vignette" style="width:50%; margin:auto">
+      <div class="vignette">
         [ to add: diagram of setup, images, and sketch of waves ] 
 
     </div>
@@ -111,23 +179,19 @@
       <p>
         <br>
         Passing through the tinfoil, the laster beam is bifurcated by the double slit and spreads out as it emanates from both openings. What is rendered visible on the wall beyond is a diffraction pattern marking the effects of the interference of these two beams of light. The bright stripes on the wall mark where constructive interference occurred, constituting a new wave whose heightened amplitudes effect a brighter light. The dark stripes mark the effect of destructive interference, where superpositioned waves were out of phase, effectively canceling each other out. The observation of bright and dark stripes - kindly captured in my recreation by an interlocutor - was worth the postage required to ship DIY (do it yourself) kits across the country to quarantined undergraduate students because it illuminated light behaving as a wave. Why is this so noteworthy? Did I not begin this page talking about lightwaves? Well, light can <i>also</i> behave as a (subatomic) particle. A photon is a discreet physical quantity, or quantum, of the electromagnetic field; a photon is a quantum of light (Barad 2015, 395). However, while light may behave as both wave and particle, it cannot be apprehended as both at once. That is to say, wave and particle are <i>entangled states</i>. Now this entanglement isn't only characteristic of light. Experiments have shown that matter, for instance the negatively-charged subatomic particle called electrons, will produce a diffraction pattern under certain circumstances (Barad 2007, 83). The first double-slit diffraction experiment was conducted by Thomas Young in 1801, and the investigative setup has since been employed to explore such quantum entanglements as the wave-particle duality of matter. With this page, I introduce diffraction as a way to figure what is rendered of an interference practice such as deep mapping. I offer my first iteration at a theory of deep mapping, and situate my subsequent and current theorizations within the frameworks my thinking and practice have been iteratively diffracted through. Because I have limited space and time - constrained as I am by the length and requirements of this degree project - this page serves as an account of initial patternings of interest: the entanglements of trace, practice, space, and place; the differentiation between human|nonhuman and field|researcher; dialogue figured as interaction and dialogue as intra-action; and the implications of posthuman performativity for thinking <i>with</i> place and <i>feeling</i> the city. All these and more I intend to pursue more thoroughly over the next four years of my PhD.
-    <br><br>
-  </div>
-
-<!--diffraction-->
-  <div>
-  <a name="diffraction" id="diffraction"></a>
-  <p>
-    <span style="font-weight:700">DIFFRACTION</span><br>
-    Deep mapping disorients representationalist dualisms by assuming the field of encounter as interlocutor. In both deep mapping (practice) and making space for deep mapping (rendering), I aim to produce ‘situated knowledges’ wherein the object of knowledge is engaged as actor and agent (Haraway 1988, 592). Yet objects are not preexisting entities but “boundary projects” whose “boundaries are drawn by mapping practices” (Haraway 1988, 595). Recall the cartography assignment introduced in <a href="./disorientation.html">disorientation.html</a>. Not only did tracing a map stand <i>in place</i> of spatial practice, the traced map stood in place of the map making practices which constituted it. The course assignment recommended a source statement of “Google Maps”, effectively erasing the illustration software with which the map was created, the computers on which the software ran, the internet connection and browsers which rendered Google Maps visible to screenshot, the lab instructions, my own directives and acquired technical expertise as course TA… in short, the entire material arrangement of the map’s production. Thus, the assignment irresponsibly reproduced a “gaze from nowhere” (Haraway 1988, 581) whereby the producers of geographic knowledge (in this case, the mappers) remained unimplicated in, and therefore unaccountable to, the boundary drawing practices entailed in rendering an object of knowledge (in this case, a place or was it the map?). Boundary drawing practices in this example are those involved physically tracing a map of downtown, choosing which streets to include and exclude, how to crop the frame, which names to uses as labels and which (land) acknowledgements to leave out. Additionally, boundary making practices in the construction of this assignment included those that differentiated the mapper as the thinking subject from (Google's map of) downtown Vancouver, figured as the inert object to be mapped, as well as the citation which rendered the 'map author' as actor and agent to the exclusion of every skill, tool, and software with which the map was produced.  I am partially responsible for the lack of situated knowledge, for I provided instruction during the lab sessions. While I did not write the lab assignments, in my 2nd and 3rd semester TAing the course I wrote rubrics where none had existed before. 
+        <br>
+      </p>
+      
+      <p> 
+        Deep mapping disorients representationalist dualisms by assuming the field of encounter as interlocutor. In both deep mapping (practice) and making space for deep mapping (rendering), I aim to produce ‘situated knowledges’ wherein the object of knowledge is engaged as actor and agent (Haraway 1988, 592). Yet objects are not preexisting entities but “boundary projects” whose “boundaries are drawn by mapping practices” (Haraway 1988, 595). Recall the cartography assignment introduced in <a href="./disorientation.html">disorientation.html</a>. Not only did tracing a map stand <i>in place</i> of spatial practice, the traced map stood in place of the map making practices which constituted it. The course assignment recommended a source statement of “Google Maps”, effectively erasing the illustration software with which the map was created, the computers on which the software ran, the internet connection and browsers which rendered Google Maps visible to screenshot, the lab instructions, my own directives and acquired technical expertise as course TA… in short, the entire material arrangement of the map’s production. Thus, the assignment irresponsibly reproduced a “gaze from nowhere” (Haraway 1988, 581) whereby the producers of geographic knowledge (in this case, the mappers) remained unimplicated in, and therefore unaccountable to, the boundary drawing practices entailed in rendering an object of knowledge (in this case, a place or was it the map?). Boundary drawing practices in this example are those involved physically tracing a map of downtown, choosing which streets to include and exclude, how to crop the frame, which names to uses as labels and which (land) acknowledgements to leave out. Additionally, boundary making practices in the construction of this assignment included those that differentiated the mapper as the thinking subject from (Google's map of) downtown Vancouver, figured as the inert object to be mapped, as well as the citation which rendered the 'map author' as actor and agent to the exclusion of every skill, tool, and software with which the map was produced.  I am partially responsible for the lack of situated knowledge, for I provided instruction during the lab sessions. While I did not write the lab assignments, in my 2nd and 3rd semester TAing the course I wrote rubrics where none had existed before. 
     <br><br>
     In a shift away from geometric optics' visual metaphors that privilege a “fixed position”, Donna Haraway (1991, 70) suggests diffraction. She writes, “diffraction is a mapping of interference, not of replica­tion, reflection, or reproduction. A diffraction pattern does not map where differences appear, but rather maps where the <i>effects</i> of difference appear” (Haraway 1991, 70, emphasis in original). Encountering the effects of interference actually led to my first iteration at a theory of deep mapping. The following is from January 2022, my first winter in Vancouver.
    </p>
 
-    <!--bubble vignette-->
-    <div class="vignette" style="width:50%; margin:auto">
+    <!--site 4: bubble vignette-->
+    <div class="vignette" >
     <a name="monochrome" id="monochrome"></a>
-      Some grey day I walked the stretch of shoreline that wraps around the University of British Columbia. With the Salish Sea on one side and a forest of evergreens and sword ferns to the other, campus is geographically and administratively separated from the City of Vancouver. It also occupies the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. A five minute walk from the Geography Department takes me to a zig-zag staircase at the bottom of which awaits a place where clothing is optional. My shoes and socks are the first to come off. The sand is cold and firm, yet porous. It holds the impression of my soles and reshapes in my hands. I contain it for a moment, appreciating its texture, then let it go. 
+      <b>Site 4</b> Some grey day I walked the stretch of shoreline that wraps around the University of British Columbia. With the Salish Sea on one side and a forest of evergreens and sword ferns to the other, campus is geographically and administratively separated from the City of Vancouver. It also occupies the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. A five minute walk from the Geography Department takes me to a zig-zag staircase at the bottom of which awaits a place where clothing is optional. My shoes and socks are the first to come off. The sand is cold and firm, yet porous. It holds the impression of my soles and reshapes in my hands. I contain it for a moment, appreciating its texture, then let it go. 
       <br><br>
       Sunshine was a precious thing my first winter in Vancouver when it rained for four months straight. The cloud cover was so dense that a dimple of white was the only indication our star remained. Monochrome days used to really kill my vibe. There is a dullness to a landscape lit ambiently, a non-differentiation that makes it difficult to articulate thoughts. That day I paused at ocean’s edge where barnacles encrust the rocks and molluscs cling together in crunchy bundles. In and out rolled the waves, and I breathed with them. On each exhale I noticed how foam gathered around the rocks at my feet, forming bubbles on whose surface spun psychedelic spirals. 
       <br><br>
@@ -166,9 +230,32 @@
     <br>
 </div>
 
+</div>
 
-<!--tracing as placing-->
-<div>
+
+<!--TRACING AS PLACING-->
+<div class="row">
+
+    <div class="column9">
+      <hr>
+      <div class="sticky">
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+        <a href="#diffraction">Diffraction</a><br>
+        </span>
+        <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+          <a href="#tracing-as-placing">>Tracing as placing</a><br>
+        </span>
+        <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+        <a href="#diffractive-reading">Diffractive Reading</a><br>
+        <a href="#mapping-interference">Mapping Interference</a><br>
+        <a href="#distributed-knowing">Distributed Thinking & Feeling</a><br><br>
+        <a href="#top">&#9650 return to top</a><br>
+        <a href="#interference-bibliography">&#9660 page-bibliography</a><br>
+      </span>
+      </div>
+      </div>
+  <!--main: tracing as placing-->
+  <div class="column10">
   <a name="tracing-as-placing" id="tracing-as-placing"></a>
   <p>
     <span style="font-weight:700">TRACING AS PLACING</span><br>
@@ -204,7 +291,7 @@
   </p>
 
   <!--screenshare sitation-->
-  <div style="margin-left:31%">
+  <div style="width:60%; margin:auto;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MYcrhL3_JaA?si=MXC3KNE1qU67U3ff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <!-- append this to source link to mute when played   ?autoplay=1&mute=1 -->
   </div>
@@ -258,12 +345,32 @@
     We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, "disoriented discovery" (Kurgan 2013) begins with a choice to not reference Google Maps, to turn location off and allow position to remain indeterminate. Reading Barad (2007) and de Certeau (1984) through one another, I believe place and space to be phenomenal expressions of the world differentially articulated through trace and practice. I am particularly interested in how pedestrian tracings of Google Maps––a locative technology which renders the city down from above as a place––inform everyday navigations and thus the production of urban space. How does Google Maps define intra-actions between humans and urban infrastructure, becoming part of dialogue with the urban surround it both enables and constrains? How are categories like human|nonhuman or field|researcher performatively constituted through embodied methodologies and sensory, more-than-human, and imaginative (Elliott and Culhane 2017) ethnographies? I wonder how posthuman embodiment might inform mapping practices in ways that reconfigure delimitations presumed by Google Maps. It is to these last two questions I now turn my attention.
   </p>
   
+    </div>
 </div>
 
-<br>
+<!--DIFFRACTIVE READING-->
+<div class="row">
 
-<!--diffractive reading-->
-<div>
+  <div class="column9">
+    <hr>
+    <div class="sticky">
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      <a href="#diffraction">Diffraction</a><br>
+      <a href="#tracing-as-placing">Tracing as placing</a><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+        <a href="#diffractive-reading">>Diffractive Reading</a><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      <a href="#mapping-interference">Mapping Interference</a><br>
+      <a href="#distributed-knowing">Distributed Thinking & Feeling</a><br><br>
+      <a href="#top">&#9650 return to top</a><br>
+      <a href="#interference-bibliography">&#9660 page-bibliography</a><br>
+    </span>
+    </div>
+    </div>
+<!--main: diffractive reading-->
+  <div class="column10">
   <a name="diffractive-reading" id="diffractive-reading"></a>
   <p>
     <span style="font-weight:700">DIFFRACTIVE READING</span>
@@ -272,8 +379,8 @@
   </p>
   <br>
     <!--diffractive reading vignette-->
-    <div class="vignette" style="width:50%; margin:auto">
-      <img src="../media/process/diffractive-reading.jpg" style="width:90%"><br>
+    <div class="vignette">
+      <img src="./media/process/diffractive-reading.jpg" style="width:100%"><br>
      <b>site x</b> overlaying frameworks, intertextuality, diffractive reading
       </div>
 
@@ -357,12 +464,31 @@
   <p>
     What I meant by 'deep mapping eludes operationalization', and where I am resonant with Modeen and Biggs' (2020) scholarly and creative approach, is that practice of deep mapping cannot be reduced to a sequence of ordered steps. To do so would be to  foreclose the "poetics of paradox and ambiguity essential to open deep mapping" (Modeen and Biggs 2020, 53). If anything, contrasting views illuminate how deep mapping cannot be captured by any single strategy, even as self-proclaimed cognoscenti cl/aim to define one. 
   </p>
+    </div>
 </div>
- 
-<br>
 
-<!--mapping interference-->
-<div>
+<!--MAPPING INTERFERENCE-->
+<div class="row">
+<div class="column9">
+  <hr>
+  <div class="sticky">
+  <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+    <a href="#diffraction">Diffraction</a><br>
+    <a href="#tracing-as-placing">Tracing as placing</a><br>
+      <a href="#diffractive-reading">Diffractive Reading</a><br>
+    </span>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+      <a href="#mapping-interference">>Mapping Interference</a><br>
+    </span>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+    <a href="#distributed-knowing">Distributed Thinking & Feeling</a><br><br>
+    <a href="#top">&#9650 return to top</a><br>
+    <a href="#interference-bibliography">&#9660 page-bibliography</a><br>
+  </span>
+  </div>
+  </div>
+<!--main: mapping interference-->
+  <div class="column10">
   <a name="mapping-interference" id="mapping-interference"></a> 
 <p>
  <span style="font-weight:700">MAPPING INTERFERENCE </span><br>
@@ -378,7 +504,7 @@
 </p>
 
 <!--maplewood flats sitation-->
-  <div class="vignette" style="width:50%; margin:auto; height:420px; overflow:scroll;"> 
+  <div class="vignette" style="height:420px; overflow:scroll;"> 
     <img src="./media/field/drafting-infrastructures-data2.jpg" style="width: 100%; ">
     </img>
     <img src="./media/field/drafting-infrastructures-data3.jpg" style="width: 100%; ">
@@ -393,7 +519,7 @@
 </p>
 
 <!--dreams data-->
-<div class="vignette" style="width:50%; margin:auto">
+<div class="vignette" >
   3 nights now I've woken 3 hours after falling asleep, the conceptual debris which all day circled my mind in an undifferentiated cloud suddenly cohered into orbits such that fully formed sentences carry me from unconscious to consciousness. delta brainwaves.
   </div>
 
@@ -423,10 +549,33 @@
   I resonate with St. Pierre (2018), drawing from Richardson (1994), that "...writing is also an empirical field of inquiry" (605). As I write this section, the section above is loosely mapped out but uncertain. With a ballpoint pen I write in the margin of the St. Pierre piece: "Is a diffractive reading the most generative way to engage 'incommensurable' methodologies?" Are technoscientific and affective orientations to engaging place, producing geographic knowledge, and rendering spatial research public incommensurable precisely because they have mutually exclusive onto-epistemologies, i.e. "descriptions of human being, language, discourse, power, agency, resistance, freedom, and so on" (St. Pierre 2018, 603)? The above mentioned panel on infrastructures and affective orientations of data invited "interventions at the intersection of space and data, exploring critical geographies and the city to offer critique, alternatives, and grounds for resistance to top-down practices for imagining and managing today's cities" ("177. Infrastructures and Affective Orientations of Data" 2023). Thinking with my ongoing work in Cartesian cartography, GIS, and deep mapping, I have grown critical of academic framings that render so-called 'top-down' and 'bottom-up' mapping practices in opposition to one another. Both are boundary making practices for configuring worlds. What matters is the effect of their differential articulations of what gets to count––what is included in the frame of an empirical formation. 'Top down' and 'bottom up' mapping practices simply perform different agential cuts, the effects of which do not oppose one another but overlap in the everyday, their interference constituting the entangled viscera of urban bodies as they are rendered differentially intelligible. A perhaps more generative way of relating incommensurable orientations could be to read them through one another. This means recognizing the entanglement of technoscientific and affective orientations to engaging place, producing geographic knowledge, and rendering spatial research public. The wave-particle duality of matter reveals entanglements to be the "poetics of paradox and ambiguity essential to open deep mapping" (Modeen and Biggs 2020, 53). Cacophony is a diffraction pattern marking the interference of  incommensurable intelligibilities. Entanglement is touching is "a cacophony of always already reiteratively intra-acting stories" (Barad 2012, 206-7). Mapping interference is ongoing and open-ended practice of reading/listening/sensing for the effects of difference. 
 </p>
 
+    </div>
 </div>
 
-<!--thinking with place feeling the city -->
-<div>
+<!--THINKING WITH PLACE-->
+<div class="row">
+  <div class="column9">
+    <hr>
+    <div class="sticky">
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      <a href="#diffraction">Diffraction</a><br>
+      <a href="#tracing-as-placing">Tracing as placing</a><br>
+        <a href="#diffractive-reading">Diffractive Reading</a><br>
+        <a href="#mapping-interference">Mapping Interference</a><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+        <a href="#distributed-knowing">>Distributed Thinking & Feeling</a><br><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      
+      <a href="#top">&#9650 return to top</a><br>
+      <a href="#interference-bibliography">&#9660 page-bibliography</a><br>
+    </span>
+    </div>
+    </div>
+  
+<!--main thinking with place feeling the city -->
+<div class="column10">
   <a name="distributed-knowing" id="distributed-knowing"></a> 
 <p>
  <span style="font-weight:700">THINKING <I>WITH</I> PLACE, <I>FEELING</I> THE CITY</span><br>
@@ -434,25 +583,21 @@
  </p>
 
  </div>
+</div>
 
 
 <br><br><br><br>
 <br><br><br><br>
 
-<!--jericho beach-->
-<div>
-  <p>
-    The banner photograph for this page is that of a beach at low tide. Specifically, it is one beach I used to come to when I lived in Dunbar, riding my bike down a steep hill to sit in silence in the evening. I also took many an after zoom-class walk here with an interlocutor who used to live nearby and whose home I would tune in from.  
-  </p>
+<hr>
+
+ 
   <!--jericho-->
-  <div class="vignette" style="width:53%; margin:auto;">
-    <div class="row">
-      <div class="column">
-    <img src="./media/field/fieldnote1.jpeg" style="width: 100%">
-  </div>
-  <div class="column" style="margin-left:2%;">
+  <div class="vignette">
+    <img src="./media/field/fieldnote1.jpeg" style="width: 40%">
     <br>
-    I went down to spanish banks<br>
+    The banner photograph for this page is that of a beach at low tide. Specifically, it is one beach I used to come to when I lived in Dunbar, riding my bike down a steep hill to sit in silence in the evening. I also took many an after zoom-class walk here with an interlocutor who used to live nearby and whose home I would tune in from.  
+    <!-- I went down to spanish banks<br>
     at low tide and found the sand<br>
     exposed like infinite ribs.<br><br>
     I gathered myself beside<br>
@@ -464,13 +609,12 @@
     I watched them consume<br>
     each other feeling warmed<br>
     by the kindness of people<br>
-    I'd never know.<br><br> 
+    I'd never know.<br><br>  -->
   </div>
-  </div>
-  </div>
+
   <br><br>
     <img src="./media/field/spanis-banks-view.jpg" style="width: 100%;">
-</div>
+
 
 <br><br><br><br>
     <!--bibliography-->
