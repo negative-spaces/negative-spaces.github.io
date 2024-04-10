@@ -96,24 +96,36 @@ p {
         document.getElementById("mySidenav").style.width = "0";
         document.getElementById("main").style.marginLeft= "0";
       }
+
+      window.onscroll = function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+
   </script>
+
 <script>
-  var prevScrollpos = window.pageYOffset;
-window.onscroll = function() {
-  var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-    document.getElementById("mySidenav").style.top = "0";
-       } else {
-    document.getElementById("mySidenav").style.top = "-700px";
-          }
-  prevScrollpos = currentScrollPos;
-    }
-    </script>
+//   var prevScrollpos = window.pageYOffset;
+// window.onscroll = function() {
+//   var currentScrollPos = window.pageYOffset;
+//     if (prevScrollpos > currentScrollPos) {
+//     document.getElementById("mySidenav").style.top = "0";
+//        } else {
+//     document.getElementById("mySidenav").style.top = "-700px";
+//           }
+//   prevScrollpos = currentScrollPos;
+//     }
+//     </script>
       </div>
 
 <!--banner image-->
 <!-- <img src="./media/process/process-performance.jpg" style="width:100%"><br> -->
+
 <img src="./media/process/git-commit-rendering.png" style="width:100%;">
+
+
+
+
 
 
  <!--roberts sitation - rhizomatic assemblage -->
