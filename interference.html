@@ -48,20 +48,14 @@
         document.getElementById("mySidenav").style.width = "0";
         document.getElementById("main").style.marginLeft= "0";
       }
+
+      window.onscroll = function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
       </script>
 
-      <script>
-        var prevScrollpos = window.pageYOffset;
-        window.onscroll = function() {
-          var currentScrollPos = window.pageYOffset;
-          if (prevScrollpos > currentScrollPos) {
-            document.getElementById("mySidenav").style.top = "0";
-              } else {
-            document.getElementById("mySidenav").style.top = "-800px";
-              }
-            prevScrollpos = currentScrollPos;
-          }
-          </script>
+ 
  </div>
 
  <!--landing image-->
