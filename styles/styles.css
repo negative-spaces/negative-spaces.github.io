@@ -61,13 +61,22 @@ p {
   line-height: 1.4;
 }
 
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  /* background-color: rgba(0, 255, 251, 0.15);  */
+  padding: 1px;
+  
+}
+
 /* CSS for disappearing side menu navigation */
 body {
   font-family: "Courier New", Courier, monospace;
 }
 
 .sidenav {
-  height: 700px;
+  height: 800px;
   width: 0;
   font-family: "Courier New", Courier, monospace;
   position: fixed;
