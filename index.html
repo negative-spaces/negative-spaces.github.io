@@ -44,7 +44,7 @@
      <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
    </div>
    <div id="main">
-     <span style="font-size:13px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+     <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
    </div>
    <script>
    function openNav() {
@@ -55,6 +55,10 @@
      document.getElementById("mySidenav").style.width = "0";
      document.getElementById("main").style.marginLeft= "0";
    }
+   window.onscroll = function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
    </script>
 </div>
     <br>
