@@ -32,10 +32,10 @@
       }
 
       .column10 {
-        -ms-flex: 83%; 
+        -ms-flex: 85%; 
         flex: 85%;
-        max-width: 83%;
-        padding: 0 5px;
+        max-width: 85%;
+        padding: 0 2px;
       }
 
       div.sticky {
@@ -48,7 +48,7 @@
 }
 
 p {
-  flex: 57%;
+  flex: 55%;
   padding: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 12.3pt;
@@ -57,8 +57,8 @@ p {
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-left: 9%;
-  margin-right: 22%
+  margin-left: 11%;
+  margin-right: 23%
 }
 
 
@@ -85,6 +85,7 @@ p {
       <div id="main">
         <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
       </div>
+        
       <script>
       function openNav() {
         document.getElementById("mySidenav").style.width = "250px";
@@ -94,7 +95,19 @@ p {
         document.getElementById("mySidenav").style.width = "0";
         document.getElementById("main").style.marginLeft= "0";
       }
-      </script>
+  </script>
+<script>
+  var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+    document.getElementById("mySidenav").style.top = "0";
+       } else {
+    document.getElementById("mySidenav").style.top = "-700px";
+          }
+  prevScrollpos = currentScrollPos;
+    }
+    </script>
       </div>
 
 <!--banner image-->
@@ -141,8 +154,9 @@ p {
   <div class="column9">
     <hr>
     <div class="sticky">
-    <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; ">
-      <a href="#formalities"><b> > Institutional Formalities</b> </a><br>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; font-weight:bold;">
+      <a href="#formalities"> > Institutional Formalities </a></span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; opacity:.6">
       <a href="#negative-spaces"> Negative Spaces</a><br>
       <a href="#reconfigurations"> Formal Re/configurations</a><br>
       <a href="#sitation">Sitation</a><br>
@@ -181,8 +195,8 @@ p {
     <br>
 </p>
 
-<!--circle guidlines update-->
-<div class="vignette" style="width:54%; margin:auto">
+<!--site 1: circle guidlines update-->
+<div class="vignette" style="width:56%; margin:auto">
 <img src="./media/field/formal-interference.png" style="width:100%">
 <span style="font-size: 14px"><b>Site 2</b> Screenshot of the revisions to “Library:Circle/Uploading Electronic Theses and Dissertations made as of 18:20, 13 July 2023. A few of the additions, which can be viewed publicly by navigating to the history of the UBC Wiki page, are as follows: Your first file must contain your title page and preliminary pages, so this will always be a pdf file: ubc_gradyear_gradmonth_lastname_firstname_file1.pdf. When uploading multi-file theses, the PDF file containing your title page and preliminary pages must be the first-listed file in your submission. Subsequent file should then be submitted in order of importance as determined by your Committee. Read the full history log <a href="https://wiki.ubc.ca/index.php?title=Library:Circle/Uploading_Electronic_Theses_and_Dissertations&diff=760286&oldid=760285" target="_blank">here</a>.</span>
 <br><br>
@@ -193,8 +207,8 @@ p {
   <br>
   </p>
 
-  <!--rendering post it and digital space output-->
-<div class="vignette" style="width:50%; margin:auto">
+  <!--site 2: rendering post it and digital space output-->
+<div class="vignette" style="width:56%; margin:auto">
   <div class="row">
     <div class="column3">
       <img src="./media/process/postit-rendering.jpg" style="width:80%"><br>
@@ -204,6 +218,7 @@ p {
       <img src="./media/process/digital-space-output.jpg" style="width:120%">
       September 2022
     </div>
+    <b>Site 2</b>
   </div>
 </div>
 
@@ -211,13 +226,14 @@ p {
   Even the following spring when I first reached out to the Public Scholarship Coordinator, I didn't know how I would archive my emerging website. Indeed, that was my motive for reaching out. Well, my pragmatic impulse. My other aim in initiating a dialogue with the Faculty of Graduate and Postdoctoral Studies was to get a sense of how the institution conceived legibility, and where its limit lay. In a voice recording taken while driving the Coquihalla Highway back to Vancouver days before the meeting I said: "It's less about the specific output form of my website and more about the process of interfering with the cIRcle system from within by proposing this." This is not to say my chosen form doesn't matter, but rather, in a Baradian vein, how it comes to matter is the effect of boundary making practices. My aim in initiating dialogue was to illuminate the boundary making practices through which the sociotechnical system of institutional graduate publishing makes determinate the form of an intelligible (read "acceptable") thesis. The form in which I submit my MA thesis has come to matter as the effect of the July 13th conversation, as well as many in-depth conversations with my thesis co-supervisor, Dr. Luke Bergmann. I will submit as my master's thesis in geography the file ubc_2024_may_crandalloral_lilydemet_negative-spaces.zip, along with a brief PDF with metadata, the last page of which provides instructions on how to download and unzip the compressed file, negative-spaces, and navigate the webbed site it contains. These instructions are also included in a README.txt file within negative-spaces.
 </p>
 
-<!--voice recording -->
-<div class="vignette" style="width:50%; margin:auto">
+<!--site 3: voice recording -->
+<div class="vignette" style="width:56%; margin:auto">
 <audio controls style="margin-left:23%;">
   <source src="./media/audio/circle-interference.mp3" type="audio/mpeg" >
 </audio><br>
-<span style="font-size: 13px">Full audio recording taken on ride back before meeting, July 2023</span>
+<span style="font-size: 13px"><b>Site 3</b> Full audio recording taken on ride back before meeting, July 2023</span>
 </div>
+<br>
 <br>
 </div>
 </div>
@@ -228,15 +244,18 @@ p {
   <div class="column9">
     <hr>
     <div class="sticky">
-    <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; ">
-      <a href="#formalities">Institutional Formalities </a><br>
-      <a href="#negative-spaces"><b> > Negative Spaces</b></a><br>
-      <a href="#reconfigurations"> Formal Re/configurations</a><br>
-      <a href="#sitation">Sitation</a><br>
-      <a href="#theory-as-praxis">Rendering theory as praxis</a><br><br>
-      <a href="#rendering-bibliography">page-bibliography</a><br>
-      <a href="#top">^return to top</a><br>
-    </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; opacity:.6">
+        <a href="#formalities">  Institutional Formalities </a></span>
+        <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; font-weight:bold;">
+        <a href="#negative-spaces"> >Negative Spaces</a><br>
+        </span>
+        <span style="font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;   line-height: 1.4; opacity:.6">
+        <a href="#reconfigurations"> Formal Re/configurations</a><br>
+        <a href="#sitation">Sitation</a><br>
+        <a href="#theory-as-praxis">Rendering theory as praxis</a><br><br>
+        <a href="#rendering-bibliography">page-bibliography</a><br>
+        <a href="#top">^return to top</a><br>
+      </span>
   </div>
   </div>
 
@@ -251,11 +270,10 @@ p {
   <br><br>
   </p>
 
-  <!--lamppost negative space-->
-  <div  style="width:44%;  margin:auto">
+  <!--site 4: lamppost negative space-->
+  <div class="vignette" style="width:54%; margin:auto">
     <img src="./media/field/avoid-the-subject.png" style="width:80%; ">
-    <span style="font-size: 13px;"><br><b>Site x</b> Screenshot of the revisions to 
-    Site 2. Sticker on lamppost somewhere downtown Vancouver reading AVOID THE SUBJECT. </span>
+    <span style="font-size: 13px;"><br><b>Site 4</b> Sticker on lamppost somewhere downtown Vancouver reading AVOID THE SUBJECT. </span>
   </div>
   
   <p>
