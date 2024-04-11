@@ -4,46 +4,84 @@
     <link rel="stylesheet" href="./styles/styles.css">
     <title>disorientation</title>
     <style>
-   
-        * {
+   * {
         box-sizing: border-box;
       }
-      
-      .row {
-      display: flex;
+
+      .column3 {
+        -ms-flex: 50%; 
+        flex: 50%;
+        max-width: 50%;
+        padding: 0 1px;
+      }
+
+    
+        .column9 {
+        -ms-flex: 15%; 
+        flex: 15%;
+        max-width: 15%;
+        padding: 0 1px;
+      }
+
+      .column10 {
+        -ms-flex: 85%; 
+        flex: 85%;
+        max-width: 85%;
+        padding: 0 2px;
+      }
+
+      div.sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      /* background-color: rgba(0, 255, 251, 0.15);  */
+      padding: 1px;
+  
+}
+
+.row {
+        display: -ms-flexbox; 
+        display: flex;
+        -ms-flex-wrap: wrap; 
+        flex-wrap: wrap;
+        padding: 0 2px;
     }
 
-   .column { 
-    flex: 50%;
-    }
-
-  .row2 {
+ .row2 {
   display: -ms-flexbox; 
   display: flex;
   -ms-flex-wrap: wrap; 
   flex-wrap: wrap;
   padding: 0 3px;
   }
-  .column2 {
-  -ms-flex: 30%; /* IE10 */
-  flex: 30%;
-  max-width: 30%;
-  padding: 0 4px;
-  }
 
-  .column3 {
-  -ms-flex: 33%; /* IE10 */
-  flex: 33%;
-  max-width: 33%;
-  padding: 0 2px;
-  }
+p {
+  flex: 55%;
+  padding: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 12.3pt;
+  font-weight: lighter;
+  line-height: 2.2;
+  text-align: justify;
+  letter-spacing: .16mm;
+  text-justify: inter-word; 
+  margin-left: 11%;
+  margin-right: 23%
+}
 
-  .column4 {
-  -ms-flex: 50%; 
-  flex: 50%;
-  max-width: 50%;
-  padding: 0 4px;
-  }
+.vignette {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  background: rgb(243, 243, 248);
+  line-height: 1.7;
+  width:63%; 
+  margin-left:13%;
+}
+
+
     </style>    
 </head>
 
@@ -66,6 +104,7 @@
       <div id="main">
         <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
       </div>
+      <!--script-->
       <script>
       function openNav() {
         document.getElementById("mySidenav").style.width = "250px";
@@ -85,20 +124,27 @@
 
 <!--banner image-->
 <img src="./media/field/exits.jpeg" style="width:100%">
-<b>DISORIENTATION</b>
-
-<!--anchor points-->
-<div>
- <p class="nav" style="margin-left:0%; font-family: 'Courier New', Courier, monospace; font-size: 9.5pt;">
-  <a href="#disorientation">> disorientation</a><br>
-  <a href="#thinking-feeling">> thinking; feeling</a><br>
-<a href="#learning-through-disorientation">> learning through disorientation</a><br>
-<a href="#disorientation-bibliography">> page-bibliography</a><br>
- </p>
-</div>
 
  <!--DISORIENTATION-->
- <div>
+ <div class="row">
+  <div class="column9">
+    <hr>
+    <div class="sticky">
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+      <a href="#disorientation">>Disorientation</a><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+        <a href="#thinking-feeling">Thinking; Feeling</a><br>
+        <a href="#learning-through-disorientation">Learning Through Disorientation</a><br><br>
+        <a href="#top">&#9650 return to top</a><br>
+        <a href="#disorientation-bibliography">&#9660 page-bibliography</a>
+        </span>
+
+    </div>
+  </div>
+
+ <!--main: disorientation-->
+  <div class="column10">
   <a name="disorientation" id="disorientation"></a>
         <p>
           <span style="font-weight:700">DISORIENTATION</span><br>
@@ -112,7 +158,7 @@
       </p>
       <br><br>
       <!--vignette: first trip downtown-->
-      <div class="vignette" style="width:50%; margin:auto">
+      <div class="vignette" >
         My first excursion downtown was in December of 2021, six months after I'd arrived in Vancouver. I took the 7 from Dunbar all the way to the waterfront. This took about an hour - one reason downtown seemed so distant and therefore inaccessible from the rest of the city. I was stuck on a term paper and figured disorientation might help fight stasis. I rode the bus for about an hour, through the skyscrapers of downtown down to Waterfront Station where we turned right, following the harbor's edge. I waited a few stops before stepping off. Still walking in the same direction as I'd been traveling, I came upon a bridge - an infrastructure which has supported my intertwined intellectual and pedestrian practices ever since. Thinking with this navigation and encounter, I wrote the following which became the Prologue to that term paper:
         <br><br>
         <span class="quote" style="line-height:1.5; height:330px; overflow:scroll">Where Main Street ends, at the boundary between Gastown and the Downtown Eastside, there is a bridge. Well it’s more of a ramp really that curls around so the road never ends but continues by a different name in a new direction. I found myself there the other morning, standing alone just gazing towards the North Shore Mountains. It was clear and cold and snow had settled over their jagged peaks in a perfect gradient. Before the mountains and directly below me spread a panoply of infrastructure––Vancouver’s Centennial Terminals. Tower cranes, gantry cranes, straddle carriers, forklifts, trucks, trains, train tracks, shipping containers, and pipes of iron and steel. Every dimension was in motion. Machinery moved slowly and methodically while humans moved in erratic zig-zags around the pavement. Some were operating the machinery while some machinery were operating themselves. As a train drew in below me I peered down to see the conductor watching the switchboard, prepared to take action in the event of system failure. But what happens when the train is your argument and it fails to budge along the tracks you’ve set out for it to follow? In my case, I laid down too many tracks. I got so swept up in constructing the possible paths this essay could take that when I geared up to leave the station – to write it all out – I was paralyzed by the tangle before me. Although a lifelong creative, my undergraduate background is predominantly in the physical sciences and so thinking and writing academically within the context of humanities and social science scholarship is new. The infrastructure of a bridge holds sound because it is built not from one side over to the other but from both sides at once. I want to act as a bridge between the arts and sciences and so, while keeping one foot grounded in geospatial information and technology, I have stepped towards a new shore (and country) to learn from another perspective. Since arrival, I have been all around disoriented and not at all adept. My ideas are sprawling and interconnected like Centerm shipyard. There is so much this city this class and these books have led me to unpack and explore. For now, however, I am taking one final title, turning in one final direction, and following a single train of thought to an end with the idea of infrastructure in mind.
@@ -147,7 +193,7 @@
       </p>
       <br><br>
       <!-- 33 bus vignette-->
-        <div class="vignette" style="width:50%; margin:auto">
+        <div class="vignette" >
           I take the 33 bus to campus on a whim. I'm running late to teach and I don't want to deal with the hassle of Broadway construction. <i>Why have I never taken the 33?</i> I wonder as a 5 minute walk brings me to a deserted stop. I sit on a bench in the sun to catch my breath. The 33 is one of the smaller buses. Its seats have that soft fabric patterned like a roller rink carpet. Riding the 33 is outside my routine. Its route takes me through places I've been before but have never connected by this navigation. I write these thoughts in the white space of a book I brought with me - <i>A History of My Brief Body</i> by Billy-Ray Belcourt.
           <br><br>
           <div id="scroll-box1" style="height:200px;  margin:auto;">
@@ -183,10 +229,32 @@
           What could it mean to think <i>with</i> place? To <i>feel</i> the city? 
         </p>
         <br>
-    </div>
+      </div>
+  </div>
+
 
 <!--THINKING; FEELING-->
-  <div>
+<div class="row">
+
+  <div class="column9">
+    <hr>
+    <div class="sticky">
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+        <a href="#disorientation">Disorientation</a><br>
+      </span>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+      <a href="#thinking-feeling">>Thinking; Feeling</a><br>
+      </span>
+      <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+        <a href="#learning-through-disorientation">Learning Through Disorientation</a><br><br>
+        <a href="#top">&#9650 return to top</a><br>
+        <a href="#disorientation-bibliography">&#9660 page-bibliography</a>
+      </span>
+    </div>
+    </div>
+
+<!--main: thinking, feeling-->
+  <div class="column10">
     <a name="thinking-feeling" id="thinking-feeling"></a>
     <p><span style="font-weight:700">WHAT COULD IT MEAN TO THINK <I>WITH</I> PLACE? TO <I>FEEL</I> THE CITY? </span>
       <br>
@@ -198,22 +266,40 @@
       Negative-spaces is a webbed site itself a space for deep mapping, for nonlinear exploration following ideas that grasp and pull the visitor. For evaluating supervisors and those desiring a guided tour, I have ordered the left-hand menu (Navigate Elsewhere>>) by my recommended navigation. My argument unfolds across six pages as follows: negative-spaces/disorientation.html introduces my research questions, aims, and the importance of learning through disorientation; negative-spaces/practice.html thinks through practice towards the formulation of a theory of deep mapping; negative-spaces/interference.html further elaborates on my theorization by situating it within a theoretical and methodological framework of diffraction; negative-spaces/tactics.html describes my tactics of practice and how they interfere with hegemonic economies of knowledge production in ways that matter; negative-spaces/rendering.html argues that making space for deep mapping renders theory as praxis; negative-spaces/superposition.html acknowledges that many stories exist in the landscape, this being but one whose determinacy necessarily excludes all other possible configurations. Negative-spaces/rhythmanalysis.html, the seventh page, is a collection of rhythms and patternings that exceed measure. On each page, you will notice the first menu item is 'code_side'. Clicking this link will lead you to view the .html document constitutive of the page. This view is hosted by Github, and therefore not technically part of my submitted thesis. If you have a source code editor (like <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>) installed on your personal computer you can open any .html document within negative-spaces with this software and view the code in this manner. For now I will say: what is rendered here is not a substitute for practice. Rather, this digital space - a webbed site constituted through visitors' engagement with ubc_2024_november_crandalloral_lilydemet_negative-spaces.zip - marks the effects of my continued interference practice. Negative-spaces is therefore a partial account of an ongoing and open-ended conversation. 
     </p>
   </div>
-<br>
+</div>
 
-  <!--learning through disorientation-->
-  <div>
+<!--LEARNING THROUGH DISORIENTATION-->
+<div class="row">
+<div class="column9">
+  <hr>
+  <div class="sticky">
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      <a href="#disorientation">Disorientation</a><br>
+      <a href="#thinking-feeling">Thinking; Feeling</a><br>
+    </span>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; font-weight:bold;">
+      <a href="#learning-through-disorientation">>Learning Through Disorientation</a><br><br>
+    </span>
+    <span style="font-family: 'Courier New', Courier, monospace; font-size: 10pt;   line-height: 1.4; opacity: 0.6;">
+      <a href="#top">&#9650 return to top</a><br>
+      <a href="#disorientation-bibliography">&#9660 page-bibliography</a>
+    </span>
+  </div>
+  </div>
+  <!--main:learning through disorientation-->
+  <div class="column10">
     <a name="learning-through-disorientation" id="learning-through-disorientation"></a>
     <p><span style="font-weight:700">LEARNING THROUGH DISORIENTATION</span><br>
       We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, 'disoriented discovery' (Kurgan 2013) begins with a choice to <i>not</i> reference Google Maps, to turn location off and allow position to remain indeterminate. 
       </p>  
       <br>
       <!--lighthouse park vignette-->
-      <div class="vignette" style="width:50%; margin:auto">
+      <div class="vignette">
         <div class="row" >
-         <div class="column">
+         <div class="column3">
          <img src="./media/field/north-shore-path.jpg" style="width: 96%;">
        </div>
-       <div class="column">
+       <div class="column3">
         One day I biked to Lighthouse Park, 30 kilometers each way. I decided not to use a navigational map and just find my way there. I biked through downtown and took the water taxi across Burrard Inlet to Lonsdale Quay, from where I leisurely made my way over many hills to Lighthouse Park in West Vancouver. On my way there I took my time biking around neighborhoods, getting a sense of the area. In one cluster of houses it seemed I'd entered a cul-de-sac and was caught in a loop, meaning I'd have to backtrack to continue on. But I had a feeling there would be a pathway somewhere. Sure enough, between two houses was the slimmest trail which opened onto a path that ran a great distance between two clusters of houses. 
        </div>
        </div>
@@ -243,7 +329,7 @@
         </p>
 
         <!--writing thesis vignette - maybe make scroll-->
-        <div class="vignette" style="width:50%; margin:auto">
+        <div class="vignette" >
           I begin writing for my thesis in a place I come to often - usually late in the morning with a couple hours uninterrupted thinking behind me. From where I stand now I see at once the hazy outline of mountains above downtown's quiet skyscrapers, the subway construction at Broadway & Cambie that exposes the guts of the city while slowing traffic and reconfiguring pedestrian flows, and, directly below me, people walking rolling and riding about their day.
           <br><br>
           I like places that offer me perspective, like this spot, or the rooftop parkade of the supermarket two blocks from here or Granville Bridge. Places above ground level offer an alternate framing of what goes on in the city - the field in which I practice deep mapping. The sensorium is less overwhelming up here. Less abrasive. Bodily distanced, I feel less. Vertically distanced, I see more. The places I have Been fall into some geospatial context. (The surest method of developing spatial awareness, however, is getting lost on the ground.) From such a vantage, the city and my thesis are more easily theorized.<br><br>
@@ -262,7 +348,7 @@
       </p>
 
       <!--ancient city vignette-->
-      <div class="vignette" style="width:50%; margin:auto">
+      <div class="vignette">
         My planning became fanatical: schedules and destinations made me confident. However, once, on our way back from the Süleymaniye Mosque, I forgot my map and we got lost. Night began to fall and we found ourselves threading through back streets, unable to find the main road by which we came. I panicked, my palms sweaty as I frantically, desperately, searched for something familiar. The alleys twisted crookedly back upon each other in the darkness causing all sense of direction to be lost. While it seemed like forever, barely half an hour elapsed before we found the busy sidewalks bordering a well lit street. My fear abating I thought, <i>here I am again, wanting only to explore places I have already been, for fear of the unknown.</i>
         <br><br>
         <span style="margin-left:62%;">
@@ -279,7 +365,7 @@
       </p>
 
       <!--nothing is where i left it writing vignette-->
-      <div class="vignette" style="width:50%; margin:auto">
+      <div class="vignette">
         Nothing is where I left it. I get up for a walk or eat or rest and when I return the words are there but I've forgotten what they meant. Is my thesis just writing about writing a thesis? Or doing fieldwork? I know I thought it all meant something yesterday. I felt it, at least. I had six ideas before noon and but then I read the last chapter of this book and now I'm not so sure what matters. Is it all quite simple and elegantly connected from the start? Or is it a tangled snarl of threads which no amount of 'good' writing can unravel. Topology shifts with something so mundane as a bikeride along an unfamiliar route. The city and my framework rearranges ever so slightly, coheres, connects back to something last visited a year ago. My working memory can hold no more than four things at a time which makes writing a thesis where everything is connected and also layered and happening all at once very challenging. I don't think one sentence at a time. I feel ideas and their connections, wake up with wor[l]ds in my mouth, then iterate through phrasings until I land on an arrangement of words and punctuation that best approximates the feeling. And then I write around this grain until something is said. Oftentimes, I accidentally write something I never thought of before but which makes total sense. I'm trying to practice writing around nothing (yet) - not waiting for the grain between my teeth to start writing but just saying whatever's on my mind when I feel stuck and seeing if it goes anywhere. It's all possibility before you begin - every feeling a language in the process of becoming.
         <br><br>
         <span style="margin-left:62%;">Early summer, 2023
@@ -291,18 +377,23 @@
       </p>
 
       <!--where i am fieldnote-->
-      <div class="vignette" style="width:50%; margin:auto;">
-            <img src="./media/process/where-i-am.jpg" style="width:60%; margin-left:20%">
-          <br>
-          <span style="font-size:12px">
-          Fieldnote from spring 2022: I am exactly where I wanted to be/ I am having all the space to figure out what it is that "turns my crank" and having all the revelations and growing experiences here. let go of attachment to place. look forward and ride.</span>
+      <div class="vignette">
+        <div class="row">
+          <div class="column3">
+            <img src="./media/process/where-i-am.jpg" style="width:97%;">
+            </div>
+            <div class="column3">
+              Fieldnote from spring 2022: I am exactly where I wanted to be/ I am having all the space to figure out what it is that "turns my crank" and having all the revelations and growing experiences here. let go of attachment to place. look forward and ride.
+          </div>
+      </div>
       </div>
 
       <p>
         My thesis is therefore process rather than destination oriented. It emerges from navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude. "Every exit is an entry somewhere else" says an unsigned mural nearby my favorite brewery. As illuminated in the next page, the iteration of a form reveals beginning and end as merely places of turning and return. 
       </p>
+    
   </div>
-  
+</div>
 
  
     <!--abstract to concrete-->
@@ -361,80 +452,15 @@ font-size: 13pt;font-weight:700;">BIBLIOGRAPHY</button>
     }
     </script>
 </div>
+</div>
+
 <br><br><br>
 <br>
 <a href="#top">return to top</a><br>
 <br><br>
 
 
-      <!--practice disoriented discovery -->
-      <!-- <div class="vignette" style="width:50%; margin:auto;">
-        Destination-oriented navigation must not needs be direct(ed) movement from one location to another. 
-        <br><br>
-        Choose a destination you can navigate to without the use of Google Maps. Begin from a familiar location. Try navigating there by taking a detour or making up an alternative route. How far out of your way can you go? Practice the exercise again but beginning from an unfamiliar location. What changes? 
-        <br><br><br>
-      Choose a destination you have been to before but which you must pass through an unfamiliar to reach. Perhaps you’ve navigated there in the past, but used Google Maps to guide your use of public transport. Or it was late and dark and you couldn’t quite make out the landmarks blurred by the rain. Beginning from a familiar location––your home for example––navigate towards your destination without the use of Google Maps. Reflect on what senses/memories/stimuli you used to guide you. Did you encounter anything surprising or before unknown in the process? 
-      <br><br>
-      Or go on a drift alone or with a friend - turning towards unfamiliarity as far as you can go. Get on a bus and get off on impulse.
-      <br><br>
-    </div> -->
-
-      <!--moretti on detours-->
-      <!-- <div style="height:260px; width:44%; margin:auto">
-        <img src="./media/commonplace/Moretti2017_94.jpg" style="width: 100%">
-        </img>
-        <img src="./media/commonplace/Moretti2017_95.jpg" style="width: 110%">
-        </img><br>
-        <span style="font-size: 11.5px"> Moretti, Christina. “Walking.” In <i>A Different Kind of Ethnography: Imaginative Practices and Creative Methodologies</i>, edited by Denielle Elliott and Dara Culhane, 45–67. North York, Ontario, Canada ; Tonawanda, New York, USA: University of Toronto Press, 2017.</span>
-        <br>
-        </div> -->
-
-  <!--research creation sitation -->
-  <!-- <div  style="height:210px; width:42%; overflow:scroll; margin:auto">
-    <img src="./media/commonplace/Loveless2019_70-71.jpg" style="width: 100%">
-    <img src="./media/commonplace/Loveless2019_95.jpg" style="width: 100%">
-    <img src="./media/commonplace/Loveless2019_96.jpg" style="width: 100%">
-    <img src="./media/commonplace/Loveless2019_107.jpg" style="width: 100%">
-    <br>
-    Loveless, Natalie. <i>How to Make Art at the End of the World: A Manifesto for Research-Creation.</i> Duke University Press, 2019.
-    <br>
-    </div> -->
-
-        <!--relationship anarchy notes-->
-        <!-- <div>
-          <p>In output oriented research, an aim signals a clear destination. However, aims can be refigured as lures. Embracing serendipity, my relationship to Vancouver and to my research-creation thesis has been guided from the start by The short instructional manifesto for relationship anarchy (Nordgren 2006).
-          </p>
-            <br><br>
-        <div class="vignette" style="width:50%; margin:auto">
-          <div id="scroll-box1" style="height:400px;  margin:auto;">
-            <img src="./media/process/relationship-anarchy.jpg" style="width:100%;">
-          </div>
-      <br>
-      Quotes I wrote down from <a href="https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy#toc1" target="_blank">Andie Nordgren's <i>The short instructional manifesto for relationship anarchy </i></a> in my fieldnotes book, January 2022. 
-      <br>
-        </div>
-
-        <p>
-          Two tenets that especially pertain are “Build for the lovely unexpected” and “Design your own commitments.” After I decided on my thesis topic in May of 2022, I organized all the relevant literature I had in-hand around my kitchen table along with every major concept, idea, person, or scrap of information I could think of scrawled on yellow sticky notes. Returning to the site of my initial enthusiastic chaos, my Values and Aims stand out.
-        <br><br>
-      </p>
-        <div class="row2" style="margin-left: 23%; margin-right:23%;"> 
-            <div class="column3">
-              <img src="./media/process/postit-thesismay2022.jpg" style="width:100%">
-            </div>
-              <div class="column3">
-                  <img src="./media/process/postit-values.jpg" style="width:100%">
-              </div>
-              <div class="column3">
-                  <img src="./media/process/postit-aims.jpg" style="width:100%">
-              </div>
-          </div>
-
-<p>
-  A year and a half later, I assemble this page with a clearer idea of what my project is about. My best ideas, however, remain written on sticky notes. 
-  <br><br>
-</div> -->
-
+   
 </body>
 
 </html>
