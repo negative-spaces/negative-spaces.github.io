@@ -6,6 +6,21 @@
   src: url(./Inconsolata/static/Inconsolata/Inconsolata-Light.ttf);
 }
 
+/* Class Fonts */
+.Grantha {
+  font-family: "Grantha";
+}
+
+.Inconsolata {
+  font-family: "Inconsolata";
+  letter-spacing: 0.1mm;
+}
+
+.Courier {
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.08mm;
+}
+
 /* Headings */
 h1 {
   font-family: "Courier New", Courier, monospace;
@@ -22,7 +37,7 @@ h3 {
   text-transform: uppercase;
 }
 
-
+/* text */
 p {
   flex: 55%;
   padding: 5px;
@@ -33,25 +48,21 @@ p {
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-right: 23%;
-  margin-left: 23%
+  margin-left: 12%;
+  margin-right: 24%
 }
 
-
-
-/* Class Fonts */
-.Grantha {
-  font-family: "Grantha";
-}
-
-.Inconsolata {
-  font-family: "Inconsolata";
-  letter-spacing: 0.1mm;
-}
-
-.Courier {
+/* vignette */
+.vignette {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
   font-family: "Courier New", Courier, monospace;
-  letter-spacing: 0.08mm;
+  font-size: 15px;
+  background: rgb(243, 243, 248);
+  line-height: 1.7;
+  width:62%; 
+  margin-left:13%;
 }
 
 /* block quote */
@@ -61,6 +72,23 @@ p {
   line-height: 1.4;
 }
 
+
+
+/*PAGE ARCHITECTURE*/
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+
+
+
+
+/*running side menus*/
 div.sticky {
   position: -webkit-sticky;
   position: sticky;
@@ -70,7 +98,9 @@ div.sticky {
   
 }
 
-/* CSS for disappearing side menu navigation */
+
+/*main menu */
+/* CSS for disappearing menu navigation */
 body {
   font-family: "Courier New", Courier, monospace;
 }
@@ -130,13 +160,12 @@ body {
   font-size: 9.5pt;
 }
 
-/* Link Hover */
+/* links and hover */
 a:link {
   align-items: center;
   color: slategray;
   text-decoration: none;
 }
-
 a:link,
 a:visited,
 a:active {
@@ -144,22 +173,12 @@ a:active {
   color: rgb(109, 110, 110);
   text-decoration: none;
 }
-
 a:hover {
   align-items: center;
   color: rgb(230, 65, 0);
   text-decoration: none;
 }
 
-/*SCROLLING COLUMN*/
-
-#content,
-html,
-body {
-  box-sizing: border-box;
-  height: 250px;
-  width: 100%;
-}
 
 /* one scrolling column*/
 #scroll-box {
@@ -168,7 +187,6 @@ body {
   overflow: scroll;
   margin-left: 25%;
 }
-
 /*scrolling text*/
 #scroll-text {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -181,24 +199,7 @@ body {
 }
 
 
-/* static div text */
-#static-box {
-  width: 55%;
-  margin-left: 23.5%;
-}
-
-#static-text {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 11pt;
-  font-weight: lighter;
-  line-height: 1.5;
-  text-align: justify;
-  letter-spacing: 0.2mm;
-  margin-right: 0%;
-  margin-left: 0%;
-}
-
-/*PARATAXIS*/
+/*commonplace parataxis */
 /* two independent columns*/
 #left {
   float: left;
@@ -214,30 +215,9 @@ body {
   /* overflow: scroll; */
 }
 
-#field-image {
-  margin-left: 23.5%;
-  margin-right: auto;
-  width: 55%;
-}
 
-/*vignette block*/
-.vignette {
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-top: 20px;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 14px;
-  background: rgb(243, 243, 248);
-  line-height: 1.7;
-  overflow: scroll;
-}
-/* scrolling image in vignette*/
-#scroll-box1 {
-  width: auto;
-  height: 250px;
-  overflow: scroll;
-  
-}
+
+
 
 /* TEXT POP UP - adapted from W3schools tutorial */
 
@@ -284,8 +264,6 @@ body {
   animation: fadeIn 1s;
 }
 
-
-
 .collapsible {
   background-color: #f3f0f531;
   color: black;
@@ -313,11 +291,6 @@ body {
   
 }
 
-* {
-  box-sizing: border-box;
-}
 
-.row {
-  display: flex;
-}
+
 
