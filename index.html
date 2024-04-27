@@ -8,38 +8,14 @@
        * {
         box-sizing: border-box;
       }
-       .row2 {
-        display: -ms-flexbox; 
-        display: flex;
-        -ms-flex-wrap: wrap; 
-        flex-wrap: wrap;
-        padding: 0 3px;
-      }
-      .column2 {
-        -ms-flex: 30%; /* IE10 */
-        flex: 30%;
-        max-width: 30%;
-        padding: 0 4px;
-      }
-      .column2 img {
-        margin-top: 8px;
-        vertical-align: middle;
-        width: 100%;
-      }
-      @media screen and (max-width: 700px) {
-        .column2 {
-          -ms-flex: 50%;
-          flex: 50%;
-          max-width: 50%;
-        }
-      }
+  
 
-      .column3 {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-        padding: 0 4px;
-      }
+      @media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .p{
+    margin-left:2%;
+  }
+}
 
   .tab {
   overflow: hidden;
@@ -73,11 +49,11 @@ font-weight: lighter;
   display: none;
   padding: 6px 12px;
 }
-        </style>
+</style>
 </head>
 
 <body>
-  <!--nav elswhere-->
+  <!--navigate elswhere-->
   <div>
     <div id="mySidenav" class="sidenav">
      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -92,7 +68,7 @@ font-weight: lighter;
      <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
    </div>
    <div id="main">
-     <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+     <span style="font-size:16px;cursor:alias" onclick="openNav()">&#9776; Navigate Elsewhere>></span>
    </div>
    <script>
    function openNav() {
@@ -110,14 +86,90 @@ font-weight: lighter;
    </script>
 </div>
     <br>
-    <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
-    src="./media/field/thinfilm-interference.mp4"></video>
+    <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;" src="./media/field/thinfilm-interference.mp4"></video>
+    <br><br>
+
+<!--METADATA-->
+<div class="tab" style="margin-left:18%">
+  <button class="tablinks" onclick="openMetadata(event, 'title-page')">Title Page</button>
+  <button class="tablinks" onclick="openMetadata(event, 'committee-page')">Committee Page</button>
+  <button class="tablinks" onclick="openMetadata(event, 'abstract')">Abstract</button>
+  <button class="tablinks" onclick="openMetadata(event, 'lay-summary')">Lay Summary</button>
+  <button class="tablinks" onclick="openMetadata(event, 'preface')">Preface</button>
+  <button class="tablinks" onclick="openMetadata(event, 'table-of-contents')">Table of Contents</button>
+  <button class="tablinks" onclick="openMetadata(event, 'acknowledgements')">Acknowledgements</button>
+  <button class="tablinks" onclick="openMetadata(event, 'dedication')">Dedication</button>
+</div>
+
+<!--LANDING INTRO-->
+<div>
+  <p style="margin-left:18%; margin-right:20%; line-height:1.6;"> What could it mean to think <i>with</i> place? To <i>feel</i> the city? How might practical knowledge gained through everyday spatial practices be employed to interfere with epistemological hegemonies from within? I explore and respond to these questions through deep mapping, or situated, embodied inhabitation as a practice of ongoing and open-ended dialogue with the world. Deep mapping is not defined by opposition so much as articulated through iterative acts of interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public. My master's research-creation amounts to cultivating a practice of deep mapping, theorizing my interpretation of this capacious practice <i>through</i> practice, and enacting my theory as praxis. What is rendered here is not a substitution for practice. Rather, negative-spaces sites a partial account of an ongoing interference practice. </p>
+</div>
+
+
+<!--required metadata components -->
+<!-- title-page -->
+<div id="title-page" class="tabcontent">
+<p>asdfasdf</p>
+</div>
+
+<!-- committee-page -->
+<div id="committee-page" class="tabcontent">
+  asdfasdfasdf
+</div>
+
+<!-- abstract -->
+<div id="abstract" class="tabcontent">
+asdfasdf
+</div>
+
+<!-- lay summary -->
+<div id="lay-summary" class="tabcontent">
+asdfasdf
+</div>
+
+<!-- preface -->
+<div id="preface" class="tabcontent">
+ <p>
+  I have come to understand being a geographer as less of an ability to know where you are in space at all times and more the capacity to learn through disorientation.
+  etc. <br><br>
+  My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude. After all, the iteration of a form reveals beginning and end to be merely places of turning and return.
+ </p>
+  </div>
+
+<!-- table of contents -->
+  <div id="table-of-contents" class="tabcontent">
+    See Side menu Navigate Elsewhere - blurb from disorientation 
+
+    </div>
+
+    <!-- acknowledgements -->
+    <div id="acknowledgements" class="tabcontent">
+      asdfasdf
+      </div>
+
+
+      <!-- dedication -->
+      <div id="dedication" class="tabcontent">
+        a;lsdkf
+        </div>
 
 
 
-
-  <p style="margin-left:24%; line-height:1.7;"> What could it mean to think <i>with</i> place? To <i>feel</i> the city? How might practical knowledge gained through everyday spatial practices be employed to interfere with epistemological hegemonies from within? I explore and respond to these questions through deep mapping, or situated, embodied inhabitation as a practice of ongoing and open-ended dialogue with the world. Deep mapping is not defined by opposition so much as articulated through iterative acts of interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public. My master's research-creation amounts to cultivating a practice of deep mapping, theorizing my interpretation of this capacious practice <i>through</i> practice, and enacting my theory as praxis. What is rendered here is not a substitution for practice. Rather, negative-spaces sites a partial account of an ongoing interference practice. </p>
-
-
+<script>
+  function openMetadata(evt, metadataName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(metadataName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
 </body>
 </html>
