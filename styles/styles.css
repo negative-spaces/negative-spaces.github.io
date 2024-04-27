@@ -1,21 +1,5 @@
 /* TEXT */
 
-/* Custom Font Families */
-@font-face {
-  font-family: "Inconsolata";
-  src: url(./Inconsolata/static/Inconsolata/Inconsolata-Light.ttf);
-}
-
-/* Class Fonts */
-.Grantha {
-  font-family: "Grantha";
-}
-
-.Inconsolata {
-  font-family: "Inconsolata";
-  letter-spacing: 0.1mm;
-}
-
 .Courier {
   font-family: "Courier New", Courier, monospace;
   letter-spacing: 0.08mm;
@@ -29,13 +13,7 @@ h1 {
   /* text-align: center; */
 }
 
-h3 {
-  font-family: "Inconsolata";
-  font-size: 13pt;
-  font-weight: lighter;
-  text-align: center;
-  text-transform: uppercase;
-}
+
 
 /* text */
 p {
