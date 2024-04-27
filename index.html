@@ -2,29 +2,77 @@
 
 <head>
     <link rel="stylesheet" href="./styles/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <style>
-        * {
-          box-sizing: border-box;
+       
+       * {
+        box-sizing: border-box;
+      }
+       .row2 {
+        display: -ms-flexbox; 
+        display: flex;
+        -ms-flex-wrap: wrap; 
+        flex-wrap: wrap;
+        padding: 0 3px;
+      }
+      .column2 {
+        -ms-flex: 30%; /* IE10 */
+        flex: 30%;
+        max-width: 30%;
+        padding: 0 4px;
+      }
+      .column2 img {
+        margin-top: 8px;
+        vertical-align: middle;
+        width: 100%;
+      }
+      @media screen and (max-width: 700px) {
+        .column2 {
+          -ms-flex: 50%;
+          flex: 50%;
+          max-width: 50%;
         }
-        
-        .row {
-          display: flex;
-        }
-        
-        .column-main {
-            flex: 45%;
-            padding: 5px;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            font-size: 12pt;
-            font-weight: lighter;
-            line-height: 1.85;
-            text-align: justify;
-            letter-spacing: .16mm;
-            text-justify: inter-word; 
-            margin-right: 24%;
-            margin-left: 24%
-        }
+      }
 
+      .column3 {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+        padding: 0 4px;
+      }
+
+  .tab {
+  overflow: hidden;
+  margin-left:5%;
+ /* border: 1px solid #ccc;*/
+   /* background-color: #f7f5fc;*/
+}
+
+.tab button {
+  background-color: inherit;
+  float: auto;
+ border: 1px solid #ccc;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 12px;
+  transition: 0s;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+font-weight: lighter;
+}
+
+.tab button:hover {
+  background-color: #dcdae3;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+}
         </style>
 </head>
 
@@ -64,14 +112,12 @@
     <br>
     <video autoplay muted loop style="margin-left: 30%; margin-right: auto; width: 40%;"
     src="./media/field/thinfilm-interference.mp4"></video>
-    <!-- <img src="./media/process/poesis_edited.png"> -->
-    <br><br><br>
-    <div class="row">
-      <!--SIDE NOTES-->
-      
-        <div class="column-main" >
-          What could it mean to think with place? To feel the city? How might the tactics of practical knowledge be employed to interfere with epistemological hegemonies from within? My master’s research is an exploration and response to these questions through deep mapping, a practice of situated, embodied inhabitation by which I enter into dialogue with my surroundings. My thesis project amounts to cultivating my practice of deep mapping, theorizing my interpretation of this capacious practice through practice, and enacting my theory as praxis. Deep mapping does not ‘counter cartography;’ yet neither does it render down to a flat map in the Cartesian sense. As I theorize it, deep mapping is not defined in opposition so much as marked by iterative acts of interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public. What is rendered here is not a substitution for practice but the effects of continued practice, a partial account of an ongoing and open-ended dialogue with the world. Sometimes a site of interference sometimes a tactic, deep mapping has proved a means for exploring the entangled states of limit and transgression. My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey  navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude.  After all, the iteration of a form reveals beginning and end to be merely places of turning and return. 
-          <br><br>
-  </div>
+
+
+
+
+  <p style="margin-left:24%; line-height:1.7;"> What could it mean to think <i>with</i> place? To <i>feel</i> the city? How might practical knowledge gained through everyday spatial practices be employed to interfere with epistemological hegemonies from within? I explore and respond to these questions through deep mapping, or situated, embodied inhabitation as a practice of ongoing and open-ended dialogue with the world. Deep mapping is not defined by opposition so much as articulated through iterative acts of interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public. My master's research-creation amounts to cultivating a practice of deep mapping, theorizing my interpretation of this capacious practice <i>through</i> practice, and enacting my theory as praxis. What is rendered here is not a substitution for practice. Rather, negative-spaces sites a partial account of an ongoing interference practice. </p>
+
+
 </body>
 </html>
