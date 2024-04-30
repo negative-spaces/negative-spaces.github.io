@@ -10,48 +10,76 @@
       }
 
 
-  .tab {
-  overflow: hidden;
-  margin-left:5%;
+        .tab {
+        overflow: hidden;
+        text-align:center;
 
+      }
+
+      .tab button {
+        background-color: inherit;
+        float: auto;
+      border: 1px solid #ccc;
+        outline: none;
+        cursor: pointer;
+        padding: 10px 12px;
+        transition: 0s;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15px;
+      font-weight: lighter;
+      }
+
+      .tab button:hover {
+        background-color: #ccc;
+      }
+
+      .tab button.active {
+        background-color: #ccc;
+      }
+
+      .tabcontent {
+        display: none;
+      }
+
+      /*for responsive layout*/
+      div.index {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        letter-spacing: .16mm;
 }
 
-.tab button {
-  background-color: inherit;
-  float: auto;
- border: 1px solid #ccc;
-  outline: none;
-  cursor: pointer;
-  padding: 10px 12px;
-  transition: 0s;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 15px;
-font-weight: lighter;
+/*for wider screen displays*/
+@media screen and (min-width: 701px) {
+  div.index {
+    margin-left: 24%;
+    margin-right: 24%;
+    font-size: 12.3pt;
+    font-weight: lighter;
+     line-height: 1.8;
+     text-align:justify;
+  }
 }
 
-.tab button:hover {
-  background-color: #ccc;
+/*for smaller screen displays like phone*/
+@media screen and (max-width: 700px) {
+  div.index {
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 11pt;
+    font-weight: 300;
+     line-height: 1.5;
+     text-align: left;
+  }
 }
-
-.tab button.active {
-  background-color: #ccc;
-}
-
-.tabcontent {
-  display: none;
-}
-
-
 
 </style>
 </head>
 
 <body>
-  <!--navigate elswhere-->
+  <!--navigate elswhere - table of contents-->
   <div>
     <div id="mySidenav" class="sidenav">
      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-     <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/tactics.html" target="_blank">code_side</a>
+     <a style=" font-size: 14px; color: #242424; font-family: Courier New, Courier, monospace; text-decoration:underline">thesis pages</a>
      <a href="./disorientation.html">disorientation</a>
      <a href="./practice.html">practice</a>
      <a href="./interference.html">interference</a>
@@ -59,10 +87,9 @@ font-weight: lighter;
      <a href="./rendering.html">rendering</a>
      <a href="./superposition.html">superposition</a>
      <a href="./rhythmanalysis.html">rhythmanalysis</a>
-     <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
    </div>
    <div id="main">
-     <span style="font-size:16px;cursor:alias" onclick="openNav()">&#9776; Navigate Elsewhere>></span>
+     <span style="font-size:16px;cursor:alias" onclick="openNav()">&#9776; Table of Contents>></span>
    </div>
    <script>
    function openNav() {
@@ -77,20 +104,22 @@ font-weight: lighter;
         document.getElementById("mySidenav").style.width = "0";
         document.getElementById("main").style.marginLeft= "0";
       }
+
+
    </script>
 </div>
     <br>
-    <video autoplay muted loop style="margin-left: 28%;  width: 40%;" src="./media/field/thinfilm-interference.mp4"></video>
+    <video autoplay muted loop style="width: 40%; margin-left:29%" src="./media/field/thinfilm-interference.mp4"></video>
     <br><br>
 
 <!--METADATA-->
-<div class="tab" style="margin-left:18%">
+<div class="tab">
   <button class="tablinks" onclick="openMetadata(event, 'title-page')">Title Page</button>
   <button class="tablinks" onclick="openMetadata(event, 'committee-page')">Committee Page</button>
   <button class="tablinks" onclick="openMetadata(event, 'abstract')">Abstract</button>
   <button class="tablinks" onclick="openMetadata(event, 'lay-summary')">Lay Summary</button>
   <button class="tablinks" onclick="openMetadata(event, 'preface')">Preface</button>
-  <button class="tablinks" onclick="openMetadata(event, 'table-of-contents')">Table of Contents</button>
+  <!-- <button class="tablinks" onclick="openMetadata(event, 'table-of-contents')">Table of Contents</button> -->
   <button class="tablinks" onclick="openMetadata(event, 'acknowledgements')">Acknowledgements</button>
   <button class="tablinks" onclick="openMetadata(event, 'dedication')">Dedication</button>
 </div>
@@ -98,64 +127,119 @@ font-weight: lighter;
 
 <!--required metadata components -->
 
-<!-- title-page -->
+<!--TITLE PAGE -->
 <div id="title-page" class="tabcontent">
- title
-</div>
-
-<!-- committee-page -->
-<div id="committee-page" class="tabcontent">
-  committee page things
-</div>
-
-<!-- abstract -->
-<div id="abstract" class="tabcontent">
-asdfasdf
-</div>
-
-<!-- lay summary -->
-<div id="lay-summary" class="tabcontent">
-<p style=" font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-margin-left:20%;
-font-size: 12.3pt;
-font-weight: lighter;
-line-height: 1.6;
-text-align: justify;
-letter-spacing: .16mm;
-text-justify: inter-word;"> What could it mean to think <i>with</i> place? To <i>feel</i> the city? How might everyday spatial practices be employed to interfere with hegemonies of knowledge production from within? This project emerged as an exploration and respond to these questions through deep mapping, or situated, embodied inhabitation as a practice of ongoing and open-ended dialogue with the world. My master's research-creation amounts to cultivating a practice of deep mapping, theorizing my interpretation of this capacious practice <i>through</i> practice, and enacting my theory as praxis. My thesis is the first MA thesis be submitted in the form of a website at the University of British Columbia. To engage my work, please download and unzip the compressed file ubc_2024_may_crandalloral_lilydemet_negative-spaces.zip. Then, enter the folder negative-spaces and open index.html with your web browser by double clicking it. </p>
-    
-</div>
-
-<!-- preface -->
-<div id="preface" class="tabcontent">
   
-  <p style=" font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 12.3pt;
-  font-weight: lighter;
-  line-height: 1.6;
-  text-align: justify;
-  letter-spacing: .16mm;
-  text-justify: inter-word;">
-    We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, 'disoriented discovery' (Kurgan 2013) begins with a choice to <i>not</i> reference Google Maps, to turn location off and allow position to remain indeterminate. Spatial awareness of my surroundings has evolved not by following Google Maps from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways. I realize the city is not a site with fixed boundaries and determinate properties which preexist encounter and which I, as inhabitant-geographer-cartographer, may irresponsibly separate myself from in order to map from a distanced, exterior position. Rather, the city is performatively constituted as a physical-conceptual field whose emergent topology is iteratively drawn through everyday navigations and encounters. As such, the city of my inhabitation and I are entangled, figured and continuously reconfiguring in dynamic relation. My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude. 
-  </p>
+<div class="index" style="text-align:center">
+  <br><br>
+
+<span style=" font-weight:500">
+  TITLE OF MY THESIS: SECOND CLAUSE
+  </span>
+<br>
+<br>
+ by
+<br>
+<br>
+
+ LILY DEMET CRANDALL-ORAL
+
+<br>
+  B.Sc. Honors (Geography), The University of Massachusetts Amherst, 2021
+<br>
+<br>
+<br>
+A THESIS SUBMITTED IN PARTIAL FULFILLMENT OF<br>
+THE REQUIREMENTS FOR THE DEGREE OF
+<br><br>
+MASTER OF ARTS 
+<br>
+<br>
+in
+<br>
+<br>
+THE FACULTY OF GRADUATE AND POSTDOCTORAL STUDIES
+<br>
+<br>
+(Geography)
+<br>
+<br>
+THE UNIVERSITY OF BRITISH COLUMBIA
+<br>
+(Vancouver)
+<br>
+<br>
+Month 2024
+<br>
+<br>
+&#169 Lily Demet Crandall-Oral 2024
+
+
+
+</div>
+
+</div>
+
+<!-- COMMITTEE PAGE -->
+<div id="committee-page" class="tabcontent">
+ <div class="index">
+  <img src="./media/field/committee_page-masters_template_v2.png" style="width:100%; ">
+ </div>
+</div>
+
+<!-- ABSTRACT -->
+<div id="abstract" class="tabcontent">
+<div class="index">
+  <br>
+  asdfasdf
+</div>
+</div>
+
+<!-- LAY SUMMARY -->
+<div id="lay-summary" class="tabcontent" >
+  <div class="index">
+    <br>
+    What could it mean to think <i>with</i> place? To <i>feel</i> the city? How might everyday spatial practices be employed to interfere with hegemonies of knowledge production from within? This project emerged as an exploration and respond to these questions through deep mapping, or situated, embodied inhabitation as a practice of ongoing and open-ended dialogue with the world. My master's research-creation amounts to cultivating a practice of deep mapping, theorizing my interpretation of this capacious practice <i>through</i> practice, and enacting my theory as praxis. My thesis is the first MA thesis be submitted in the form of a website at the University of British Columbia. To engage my work, please download and unzip the compressed file ubc_2024_may_crandalloral_lilydemet_negative-spaces.zip. Then, enter the folder negative-spaces and open index.html with your web browser by double clicking it. 
+  </div>
+</div>
+
+<!-- PREFACE -->
+<div id="preface" class="tabcontent">
+    <div class="index">
+      <br>
+      We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, 'disoriented discovery' (Kurgan 2013) begins with a choice to <i>not</i> reference Google Maps, to turn location off and allow position to remain indeterminate. Spatial awareness of my surroundings has evolved not by following Google Maps from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways. I realize the city is not a site with fixed boundaries and determinate properties which preexist encounter and which I, as inhabitant-geographer-cartographer, may irresponsibly separate myself from in order to map from a distanced, exterior position. Rather, the city is performatively constituted as a physical-conceptual field whose emergent topology is iteratively drawn through everyday navigations and encounters. As such, the city of my inhabitation and I are entangled, figured and continuously reconfiguring in dynamic relation. My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude. 
+  <br><br>
+  mention    <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
+    </div>
 
   </div>
 
-<!-- table of contents -->
-  <div id="table-of-contents" class="tabcontent">
-    See Side menu Navigate Elsewhere - blurb from disorientation 
+<!-- TABLE OF CONTENTS -->
+  <!-- <div id="table-of-contents" class="tabcontent">
+    <p>
+      The table of contents and suggested navigation for supervisors is contained by the side menu in the top left , 'Navigate Elsewhere'mared by th thesis Please see side menu 'Table of Contents'Navigate Elsewhere' as table of contents. See Side menu Navigate Elsewhere 
+      <br>
+      blurb from disorientation 
+    </p>
+  </div> -->
+  
 
-    </div>
 
-    <!-- acknowledgements -->
+    <!-- ACKNOWLEDGEMENTS -->
     <div id="acknowledgements" class="tabcontent">
-      asdfasdf
+    <div class="index">
+      <br>
+      to be completed
+    </div>
       </div>
 
 
-      <!-- dedication -->
+      <!-- DEDICATION -->
       <div id="dedication" class="tabcontent">
-        a;lsdkf
+        <div class="index">
+          <br>
+          to be completed
+        </div>
         </div>
 
 
@@ -175,5 +259,6 @@ text-justify: inter-word;"> What could it mean to think <i>with</i> place? To <i
     evt.currentTarget.className += " active";
   }
 </script>
+
 </body>
 </html>
