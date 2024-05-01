@@ -1,20 +1,20 @@
 /* TEXT */
 
-/* Custom Font Families
+/* Custom Font Families */
 @font-face {
   font-family: "Inconsolata";
   src: url(./Inconsolata/static/Inconsolata/Inconsolata-Light.ttf);
-} */
+}
 
 /* Class Fonts */
 .Grantha {
   font-family: "Grantha";
 }
 
-/* .Inconsolata {
+.Inconsolata {
   font-family: "Inconsolata";
   letter-spacing: 0.1mm;
-} */
+}
 
 .Courier {
   font-family: "Courier New", Courier, monospace;
