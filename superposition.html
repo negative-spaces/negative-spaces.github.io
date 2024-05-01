@@ -1,31 +1,42 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="stylesheet" href="./styles/styles.css">
     <title>superposition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/styles.css">
     <style>
-        * {
-          box-sizing: border-box;
-        }
-        
-       .row {
-          display: flex;
-        }
-        
-        /* text */
-        p { 
-  flex: 55%;
+     
+    p {
+  flex: 100%;
   padding: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 12.3pt;
+
+}
+
+/*text styling for wide  screen*/
+@media screen and (min-width: 701px) {
+  p {
+    max-width: 52%;
+    font-size: 12.3pt;
   font-weight: lighter;
   line-height: 2.2;
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-left: 23%;
-  margin-right: 23%
-        }
+  margin-left:24%;
+
+  }
+}
+
+/*text styling for NARROW phone screen*/
+@media screen and (max-width: 700px) {
+  p {
+    font-size: 11pt;
+    font-weight: 300;
+     line-height: 1.5;
+     text-align: left;
+  }
+}
         </style>
 </head>
 

@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="stylesheet" href="./styles/styles.css">
+    
     <title>practice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/styles.css">
     <style>
 
       * {
         box-sizing: border-box;
       }
       
-      .row {
+      .row1 {
       display: flex;
     }
 
@@ -43,19 +45,36 @@
 
     
     p {
-  flex: 55%;
+  flex: 100%;
   padding: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 12.3pt;
+
+}
+
+/*text styling for wide  screen*/
+@media screen and (min-width: 701px) {
+  p {
+    max-width: 52%;
+    font-size: 12.3pt;
   font-weight: lighter;
   line-height: 2.2;
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-left: 12%;
-  margin-right: 24%
+  margin-left:24%;
+
+  }
 }
-    
+
+/*text styling for NARROW phone screen*/
+@media screen and (max-width: 700px) {
+  p {
+    font-size: 11pt;
+    font-weight: 300;
+     line-height: 1.5;
+     text-align: left;
+  }
+}
 /*for two images side by side */
  .image-row {
   display: flex;
@@ -65,6 +84,8 @@
   flex: 50%;
   padding: 5px;
 }
+
+
       </style>
 </head>
 
@@ -113,7 +134,7 @@
 
     <!--intro-->
   <div>
-      <p style="margin-left:23%">
+      <p>
         What could it mean to think with place? To feel the city? How might the tactics of practical knowledge be employed to interfere with epistemological hegemonies from within? My master’s research is an exploration and response to these questions through deep mapping. The concept of 'deep maps' and 'deep mapping' was first conceived by Pearson and Shanks (2001, 162) through a multimedia performed lecture. For Pearson and Shanks (2001), <br><br>
         <span class="quote">
           the deep map attempts to record and represent the grain and patina of place through juxtapositions and interpenetrations of the historical and the contemporary, the political and the poetic, the factual and the fictional, the discursive and the sensual; the conflation of oral testimony, anthology, memoir, biography, natural history and everything you might ever want to say about a place. (65) 
@@ -134,7 +155,7 @@
   <!-- COMMONPLACE -->
   <div>
     <!--title-->
-    <div class="row">
+    <div class="row1">
       <div class="column-left">
         <b>THINKING THROUGH PRACTICE</b><br>
       </div>
@@ -145,7 +166,7 @@
     <br><br>
     <br><br>
      <!-- ongoing and open-ended dialogue with the world -->
-    <div class="row">
+    <div class="row1">
       <div class="column-left">
         <img src="./media/commonplace/Loveless2019_95.jpg" style="width:100%">
         <br>
@@ -161,7 +182,7 @@
     </div>
     
     <!-- situated, embodied inhabitation -->
-    <div class="row">
+    <div class="row1">
       <div class="column-left">
       <br><br>
         <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
@@ -181,7 +202,7 @@
 
 
     <!-- practical knowledge gleaned through everyday spatial navigations -->
-    <div class="row">
+    <div class="row11">
       <div class="column-left">
         
 
@@ -197,7 +218,7 @@
   
 
      <!-- attunement to affect -->
-     <div class="row">
+     <div class="row1">
       <div class="column-left">
         <br><br> 
         <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
@@ -223,7 +244,7 @@
 
 
     <!-- a rhythmanalysis that precedes and exceeds measure -->
-    <div class="row">
+    <div class="row1">
     <div class="column-left">
       <div style="width:fit-content; height:400px;  overflow:scroll; text-align:left;">
         <img src="./media/process/napkin-note1.jpg" style="width: 100%">
@@ -247,7 +268,7 @@
       <br><br>   <br><br>
 
       <!-- iterative   -->
-       <div class="row">
+       <div class="row1">
         <div class="column-left">
           
           <img src="./media/process/process-performance.jpg" style="width:100%">
@@ -265,7 +286,7 @@
 
 
       <!--sitational -->
-      <div class="row">
+      <div class="row1">
   <div class="column-left">
     <div style="width:100%; ">
     <img src="./media/process/spatial-sitation.jpg" style="width:70%;">
@@ -294,7 +315,7 @@
 
 
 <!--  immersive-->
-<div class="row">
+<div class="row1">
   <div class="column-left">
     <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
     <img src="./media/commonplace/Roberts2018_51.jpg" style="width:100%;">
@@ -325,7 +346,7 @@
 
 
 <!-- THEORIZATION-->
-<div class="row">
+<div class="row1">
   <div class="column-left">
     
 

@@ -6,11 +6,6 @@
   src: url(./Inconsolata/static/Inconsolata/Inconsolata-Light.ttf);
 }
 
-/* Class Fonts */
-.Grantha {
-  font-family: "Grantha";
-}
-
 .Inconsolata {
   font-family: "Inconsolata";
   letter-spacing: 0.1mm;
@@ -21,17 +16,8 @@
   letter-spacing: 0.08mm;
 }
 
-/* Headings */
-h1 {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 14pt;
-  font-weight: normal;
-  /* text-align: center; */
-}
 
-
-
-/* text */
+/* paragraph text */
 p {
   flex: 55%;
   padding: 5px;
@@ -42,8 +28,17 @@ p {
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-left: 12%;
-  margin-right: 24%
+}
+
+/*text styling for NARROW phone screen*/
+@media screen and (max-width: 500px) {
+  p {
+    font-size: 11pt;
+    font-weight: 300;
+     line-height: 1.5;
+     text-align: left;
+        
+  }
 }
 
 /* vignette */
@@ -55,8 +50,17 @@ p {
   font-size: 15px;
   background: rgb(243, 243, 248);
   line-height: 1.7;
-  width:62%; 
-  margin-left:13%;
+}
+
+/*vignette text  NARROW screen */
+@media screen and (max-width: 500px) {
+  div.vignette {
+    font-size: 17px;
+  line-height: 1.2;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  }
 }
 
 /* block quote */
@@ -67,33 +71,77 @@ p {
 }
 
 
-
-/*PAGE ARCHITECTURE*/
-
+/*RESPONSIVE PAGE ARCHITECTURE*/
 * {
   box-sizing: border-box;
 }
 
 .row {
+  display: -ms-flexbox; 
   display: flex;
+  -ms-flex-wrap: wrap; 
+  flex-wrap: wrap;
+  padding: 0 2px;
+}
+
+div.column9 {
+  -ms-flex: 15%; 
+  flex: 15%;
+  max-width: 15%;
+  padding: 0 1px;
+}
+
+div.column10 {
+  -ms-flex: 85%; 
+  flex: 85%;
+  max-width: 85%;
+  padding: 0 2px;
+}
+
+/*page contents menu disappears for NARROW screen  display*/
+@media screen and (max-width: 700px) {
+  div.column9 {
+   visibility:hidden;
+   -ms-flex: 15%; 
+        flex: 15%;
+        max-width: 0%;
+        padding: 0 0px;
+  }
+}
+
+/*main column takes full page width for NARROW display*/
+@media screen and (max-width: 700px) {
+  div.column10 {
+    -ms-flex: 100%; 
+        flex: 100%;
+        max-width: 100%;
+        padding: 0 2px;
+  }
+}
+
+/*text blocks paragraph margins on computer WIDE screen*/
+/*changed max-width to adjust page margins; using page margin properties in div column object broke sticky contents side nav*/
+@media screen and (min-width: 701px) {
+  div.column10 {
+    -ms-flex: 100%; 
+        flex: 100%;
+        max-width: 54%;
+        padding: 0 0px;
+        margin-left: 10.5%;
+  }
 }
 
 
-
-
-
-/*running side menus*/
 div.sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  /* background-color: rgba(0, 255, 251, 0.15);  */
   padding: 1px;
-  
 }
 
 
-/*main menu */
+
+/*navigate elsewhere table of contents menu */
 /* CSS for disappearing menu navigation */
 body {
   font-family: "Courier New", Courier, monospace;
@@ -193,23 +241,6 @@ a:hover {
 }
 
 
-/*commonplace parataxis */
-/* two independent columns*/
-#left {
-  float: left;
-  width: 60%;
-  height: 100%;
-  /* overflow: scroll; */
-}
-#right {
-  float: left;
-  width: 30%;
-  height: 100%;
-  margin-right: 10%;
-  /* overflow: scroll; */
-}
-
-
 
 
 
@@ -285,6 +316,10 @@ a:hover {
   
 }
 
-
-
-
+/*OTHEr things*/
+.column3 {
+  -ms-flex: 50%; 
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 1px;
+}
