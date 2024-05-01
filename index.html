@@ -71,6 +71,101 @@
   }
 }
 
+
+/*CARD DECK*/
+  /*styling for card set deck*/
+  img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* EACH SUBSEQUENT SLIDE DECK MUST BE DECLARED A NEW VARIABLE, AND SLIDE INDEX RENAMED AS WELL */
+.mySlides1 {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: arrow;
+}
+
+.slideshow-container1 {
+  max-width: 70%;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.1s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Fading animation */
+.fade {
+  animation-name: none;
+  /* animation-duration: 1.5s; */
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+/* EACH NEW SLIDE DECK ALSO NEEDS UNIQUE DOT */
+.dot1 {
+  cursor: pointer;
+  height: 7px;
+  width: 7px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 10%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot1:hover {
+  background-color: #717171;
+}
+
+
+
 </style>
 </head>
 
@@ -79,7 +174,8 @@
   <div>
     <div id="mySidenav" class="sidenav">
      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-     <a style=" font-size: 14px; color: #242424; font-family: Courier New, Courier, monospace; text-decoration:underline">thesis pages</a>
+     <!-- <a style=" font-size: 14px; color: #242424; font-family: Courier New, Courier, monospace; text-decoration:underline">"chapters"</a> -->
+     <a style="color:#e46c39; font-size:13px">>FRONT_MATTER</a>
      <a href="./disorientation.html">disorientation</a>
      <a href="./practice.html">practice</a>
      <a href="./interference.html">interference</a>
@@ -87,6 +183,11 @@
      <a href="./rendering.html">rendering</a>
      <a href="./superposition.html">superposition</a>
      <a href="./rhythmanalysis.html">rhythmanalysis</a>
+     <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     <!-- <a href="https://github.com/negative-spaces/negative-spaces.github.io" target="_blank" style="font-size:13px">PROJECT_REPOSITORY</a> -->
+     <a href="https://github.com/negative-spaces/negative-spaces.github.io/commits/main/" target="_blank" style="font-size:13px">COMMIT_HISTORY</a>
+ 
+     
    </div>
    <div id="main">
      <span style="font-size:16px;cursor:alias" onclick="openNav()">&#9776; Table of Contents>></span>
@@ -209,7 +310,6 @@ Month 2024
       <br>
       We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, 'disoriented discovery' (Kurgan 2013) begins with a choice to <i>not</i> reference Google Maps, to turn location off and allow position to remain indeterminate. Spatial awareness of my surroundings has evolved not by following Google Maps from A to B or memorizing its aerial contours, but rather through becoming lost and wandering around. Thus disoriented, I find areas of familiarity connected in surprising ways. I realize the city is not a site with fixed boundaries and determinate properties which preexist encounter and which I, as inhabitant-geographer-cartographer, may irresponsibly separate myself from in order to map from a distanced, exterior position. Rather, the city is performatively constituted as a physical-conceptual field whose emergent topology is iteratively drawn through everyday navigations and encounters. As such, the city of my inhabitation and I are entangled, figured and continuously reconfiguring in dynamic relation. My research-creation is driven by intellectual and spatial topoi which grasp and lure me forwards even before I comprehend where they lead. As such, my thesis is process rather than destination oriented. Its the story of my journey navigating the field of possibilities opened up when A and B are recognized to be but place holders like latitude and longitude. Take the lemniscate, or infinity symbol, as a figure for practice. The iteration of this form reveals beginning and end to be merely places of turning and return.
   <br><br>
-  mention    <a href="https://github.com/negative-spaces/negative-spaces.github.io">project_repository</a>
     </div>
 
   </div>
@@ -223,13 +323,117 @@ Month 2024
     </p>
   </div> -->
   
-
-
     <!-- ACKNOWLEDGEMENTS -->
     <div id="acknowledgements" class="tabcontent">
     <div class="index">
-      <br>
-      to be completed
+      Give conventional acknowledgements first…. 
+      <br>  <br>
+      Part of my acknowledgement practice was sending a hand written card to each teacher and mentor I've had in my academic or otherwise life. I sent my acknowledgements on cards I designed and printed myself using the Epson Workforce Pro 4740 I found on the curbside, paper and ink I bought with my Faculty of Arts Graduate Research Award and Larry Bell Grant, and sitations captured around the city. 
+      <br><br>
+
+      <!--card deck-->
+      <div>
+        <div class="slideshow-container1">
+          <div class="mySlides1 fade" style="display: none;">
+            <div class="numbertext">1 / 9</div>
+            <img src="./media/sites/creations/card1.jpg" style="width:100%">
+            <!--<div class="capt-text">Caption Text</div>-->
+          </div>
+          
+          <div class="mySlides1 fade">
+            <div class="numbertext">2 / 9</div>
+            <img src="./media/sites/creations/card2.jpg" style="width:100%">
+          </div>
+          
+          <div class="mySlides1 fade">
+            <div class="numbertext">3 / 9</div>
+            <img src="./media/sites/creations/card3.jpg" style="width:100%">
+          </div>
+      
+          <div class="mySlides1 fade">
+            <div class="numbertext">4 / 9</div>
+            <img src="./media/sites/creations/card4.jpg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">5 / 9</div>
+            <img src="./media/sites/creations/card5.jpg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">6 / 9</div>
+            <img src="./media/sites/creations/card6.jpg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">7 / 9</div>
+            <img src="./media/sites/creations/card7.jpg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">8 / 9</div>
+            <img src="./media/sites/creations/card8.jpg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">9 / 9</div>
+            <img src="./media/sites/creations/card9.jpg" style="width:100%">
+          </div>
+          
+          <!--remember to update function name here-->
+          <a class="prev" onclick="plusSlides1(-1)">❮</a>
+          <a class="next" onclick="plusSlides1(1)">❯</a>
+          
+          </div>
+          <br>
+          
+          <!--dots must be unique class well in css head style for each deck-->
+          <div style="text-align:center">
+            <span class="dot1" onclick="currentSlide(1)"></span> 
+            <span class="dot1" onclick="currentSlide(2)"></span> 
+            <span class="dot1" onclick="currentSlide(3)"></span> 
+            <span class="dot1" onclick="currentSlide(4)"></span> 
+            <span class="dot1" onclick="currentSlide(5)"></span> 
+            <span class="dot1" onclick="currentSlide(6)"></span> 
+            <span class="dot1" onclick="currentSlide(7)"></span> 
+            <span class="dot1" onclick="currentSlide(8)"></span> 
+            <span class="dot1" onclick="currentSlide(9)"></span> 
+          </div>
+          
+          <!--script for set 1-->
+          <!--function names and slidindex variables must be unique-->
+          <script>
+          let slideIndex1 = 1;
+          showSlides1(slideIndex1);
+          
+          function plusSlides1(n) {
+            showSlides1(slideIndex1 += n);
+          }
+          
+          function currentSlide(n) {
+            showSlides1(slideIndex1 = n);
+          }
+          
+        //  function for set 1
+          function showSlides1(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides1");
+            let dots = document.getElementsByClassName("dot1");
+            if (n > slides.length) {slideIndex1 = 1}    
+            if (n < 1) {slideIndex1 = slides.length}
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";  
+            }
+            for (i = 0; i < dots.length; i++) {
+              dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex1-1].style.display = "block";  
+            dots[slideIndex1-1].className += " active";
+          }
+          </script>
+      
+          </div>
+
     </div>
       </div>
 
