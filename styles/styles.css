@@ -242,8 +242,6 @@ a:hover {
 
 
 
-
-
 /* TEXT POP UP - adapted from W3schools tutorial */
 
 /*pop up container*/
@@ -289,6 +287,7 @@ a:hover {
   animation: fadeIn 1s;
 }
 
+/* for bibliography */
 .collapsible {
   background-color: #f3f0f531;
   color: black;
@@ -311,15 +310,49 @@ a:hover {
   display: none;
   overflow: scroll;
   background-color: #fcfafa;
-  margin-left:24%;
-  width:55%;
   
 }
 
-/*OTHEr things*/
+@media screen and (min-width: 701px) {
+  div.content {
+    margin-left:24%;
+    width:55%;
+  }
+}
+
+
+@media screen and (max-width: 700px) {
+  div.content {
+    margin-left:1%;
+    width:99%;
+  }
+}
+
+/* for images side by side */
 .column3 {
   -ms-flex: 50%; 
   flex: 50%;
   max-width: 50%;
   padding: 0 1px;
+}
+
+/* footer */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 99.5%;
+  /* background-color: #82ffd562; */
+  color: black;
+  text-align: right;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 10pt;
+  font-weight: 200;
+
+}
+
+@media screen and (max-width: 500px) {
+  div.footer{
+    visibility:hidden;
+  }
 }
