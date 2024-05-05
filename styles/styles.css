@@ -293,13 +293,14 @@ a:hover {
   color: black;
   cursor: pointer;
   padding: 18px;
-  margin-left:24%;
+  margin-left:25%;
   width:55%;
   border: none;
   text-align: auto;
   outline: none;
   font-size: 15px;
 }
+
 
 .active, .collapsible:hover {
   background-color: #f0eef1;
@@ -315,7 +316,7 @@ a:hover {
 
 @media screen and (min-width: 701px) {
   div.content {
-    margin-left:24%;
+    margin-left:25%;
     width:55%;
   }
 }
