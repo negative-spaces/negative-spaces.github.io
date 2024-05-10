@@ -22,12 +22,17 @@
             }
 
             div.column11{
-                -ms-flex: 15%; 
-                flex: 15%;
-                max-width: 15%;
-                padding: 0 10px;
+                -ms-flex: 24%; 
+                flex: 24%;
+                max-width: 24%;
+                padding: 10px 20px 5px;
                 }
 
+                /* new */
+                 .hidebtn {
+                    position: bottom;
+                    font-size: 20px;
+                    }
 
             div.content {
                 padding: 0 4px;
@@ -65,7 +70,7 @@
         flex: 100%;
         max-width: 55%; 
         padding: 0 0px;
-        margin-left: 11%; /*THIS IS WHERE THE MAIN TEXT COLUMN MARGIN COMES FROM*/
+        margin-left: 11%; /*THIS IS WHERE THE MAIN TEXT COLUMN MARGIN COMES FROM. I guess I could use widths of side columns instead, though then middle will resize  and change margin if they are collapsed*/
   }
 }
 
@@ -391,8 +396,14 @@
 
  <!--take note make note-->
  <div class="column11">
-    <div class="sticky">
+  
 
+    <div class="sticky" >
+      <button onclick="myAsides()">Show/Hide Asides</button>
+
+      <div id="asides">
+
+        <!--script to copy paste selected text-->
         <script language=javascript>
 
             function getSelText()
@@ -417,15 +428,34 @@
             
             </script>
 
-        
-        
+
 <input type="button"  value="Take Note; Make Note" onmousedown="getSelText()"> 
 <form name="testform" action="testing.html">
-    <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." rows="6" cols="38"></textarea>
+    <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." style="width:100%; height: 200px"></textarea>
     </form>
 
+      </div>
+
+
+   
+
+
+
  
- </div>
+</div>
+
+
+<script>
+function myAsides() {
+  var x = document.getElementById("asides");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
 </div>
 
 </div>
