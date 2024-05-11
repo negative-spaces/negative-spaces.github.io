@@ -399,8 +399,8 @@
   
 
     <div class="sticky" >
-      <button onclick="myAsides()">Show/Hide Asides</button>
-
+      <button onclick="myAsides()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; margin-left:45%; border-color:#e2dfdf">Show/Hide Asides</button>
+    
       <div id="asides">
 
         <!--script to copy paste selected text-->
@@ -428,18 +428,43 @@
             
             </script>
 
-
-<input type="button"  value="Take Note; Make Note" onmousedown="getSelText()"> 
-<form name="testform" action="testing.html">
-    <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." style="width:100%; height: 200px"></textarea>
+<br>
+<!-- <input type="button"    value="Take Note; Make Note" onmousedown="getSelText()">  -->
+<button  onmousedown="getSelText()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt;"> Take Note; Make Note</button>
+<form name="testform">
+    <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." style="width:100%; max-width:100%; height: 200px"></textarea>
     </form>
 
+  <!--code for downloading asides to local computer-->
+    <!--source: https://www.geeksforgeeks.org/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript/-->
+<input type="button" id="btn"  style="border:none; font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt; margin-left:73%" value="download" />
+
+    <script>
+        function download(file, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href',
+                'data:text/plain;charset=utf-8, '
+                + encodeURIComponent(text));
+            element.setAttribute('download', file);
+            document.body.appendChild(element);
+            element.click();
+
+            document.body.removeChild(element);
+        }
+
+        // Start file download.
+
+        document.getElementById("btn")
+            .addEventListener("click", function () {
+                var text = 
+                        document.getElementById("selectedtext").value;
+                var filename = "asides.txt";
+
+                download(filename, text);
+            }, false);
+    </script>
+
       </div>
-
-
-   
-
-
 
  
 </div>
