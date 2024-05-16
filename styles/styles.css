@@ -145,6 +145,16 @@ div.column10 {
 }
 
 
+/*main column takes full page width for NARROW display*/
+@media screen and (max-width: 700px) {
+  div.column11 {
+    -ms-flex: 100%; 
+        flex: 100%;
+        max-width: 100%;
+        padding: 0 2px;
+  }
+}
+
 div.sticky {
   position: -webkit-sticky;
   position: sticky;
@@ -306,8 +316,8 @@ a:hover {
   color: black;
   cursor: pointer;
   padding: 18px;
-  width:55%;
-  margin-left:25%;
+  width:100%;
+  /* margin-left:25%; */
   border: none;
   text-align: auto;
   outline: none;
@@ -323,26 +333,26 @@ a:hover {
 .content {
   padding: 0 4px;
   display: none;
-  
   overflow: scroll;
   background-color: #fcfafa;
   
 }
 
-@media screen and (min-width: 701px) {
+
+/* @media screen and (min-width: 701px) {
   div.content {
     margin-left:25%;
     width:55%;
   }
-}
+} */
 
 
-@media screen and (max-width: 700px) {
+/* @media screen and (max-width: 700px) {
   div.content {
     margin-left:1%;
     width:99%;
   }
-}
+} */
 
 /* for images side by side */
 .column3 {
