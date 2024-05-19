@@ -171,13 +171,13 @@ body {
 }
 
 .sidenav {
-  height: 700px;
+  height: 540px;
   width: 0;
   font-family: "Courier New", Courier, monospace;
   position: fixed;
   background-color: #f0f0f0;
   overflow-x: hidden;
-  transition: 0.5s;
+  transition: 0.3s;
   padding-top: 80px;
 }
 
@@ -217,6 +217,47 @@ body {
     font-size: 10px;
   }
 }
+
+/* bottom side nav */
+.sidenav2 {
+  height: 370px;
+  width: 0;
+  font-family: "Courier New", Courier, monospace;
+  position: bottom;
+  background-color: #f0f0f0;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top:20px;
+}
+
+.sidenav2 a {
+  padding: 8px 40px 3px 6px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #242424;
+  display: block;
+  font-family: "Courier New", Courier, monospace;
+  transition: 0.3s;
+}
+
+.sidenav2 a:hover {
+  color: #eb4d09;
+}
+
+.sidenav2 .closebtn {
+  position: sticky;
+  top: 0;
+  right: 20px;
+  font-size: 30px;
+
+}
+
+#main2 {
+  transition: 0.3s;
+  padding: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
 
 /* MENUS AND BUTTONS */
 /* Directory Items */
@@ -367,7 +408,7 @@ a:hover {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 99.5%;
+  /* width: 99.5%; */
   /* background-color: #82ffd562; */
   color: black;
   text-align: right;
