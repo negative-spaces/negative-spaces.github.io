@@ -30,6 +30,13 @@ p {
   text-justify: inter-word; 
 }
 
+code {
+  background: #d9f2fb7d;
+  padding: .1rem .2rem;
+  border-radius: .2rem;
+  font-size: 10pt
+}
+
 /*text styling for NARROW phone screen*/
 @media screen and (max-width: 500px) {
   p {
