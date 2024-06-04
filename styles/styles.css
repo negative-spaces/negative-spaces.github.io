@@ -178,22 +178,20 @@ body {
 }
 
 .sidenav {
-  height: 500px;
+  height: 400pt;
   width: 0;
   font-family: "Courier New", Courier, monospace;
   position: fixed;
   background-color: #f0f0f0;
   overflow-x: scroll;
   transition: 0.5s;
-  padding-top:0px;
- 
 }
 
 /* important not to use padding for margins and spacing bc it will make links  clickable only over part of the words */
 .sidenav a {
   line-height:1.8;
-  margin-right: 50px;
-  font-size: 14px;
+  margin-right: 40px;
+  font-size: 14.5px;
   color: #242424;
   display: block;
   text-align:right;
