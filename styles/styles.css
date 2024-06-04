@@ -178,25 +178,26 @@ body {
 }
 
 .sidenav {
-  height: 380px;
+  height: 500px;
   width: 0;
   font-family: "Courier New", Courier, monospace;
-  text-align: right;
   position: fixed;
   background-color: #f0f0f0;
-  overflow-x: hidden;
+  overflow-x: scroll;
   transition: 0.5s;
+  padding-top:0px;
+ 
 }
 
+/* important not to use padding for margins and spacing bc it will make links  clickable only over part of the words */
 .sidenav a {
-  line-height: 1.2;
-  padding-top: 10px;
- padding-right: 8px;
-  text-decoration: none;
-  font-size: 14.5px;
+  line-height:1.8;
+  margin-right: 50px;
+  font-size: 14px;
   color: #242424;
-  display:block;
-
+  display: block;
+  text-align:right;
+  font-family: "Courier New", Courier, monospace;
   transition: 0.3s;
 }
 
@@ -211,8 +212,7 @@ body {
 
 #main {
   transition: 0.3s;
-
-  font-family: "Courier New", Courier, monospace;
+ height:fit-content;
 }
 
 @media screen and (max-height: 450px) {
@@ -274,20 +274,18 @@ body {
 
 /* links and hover */
 a:link {
-  align-items: center;
+
   color: slategray;
   text-decoration: none;
 }
 a:link,
 a:visited,
 a:active {
-  align-items: center;
+
   color: rgb(109, 110, 110);
   text-decoration: none;
 }
 a:hover {
-  align-items: center;
-
   color: rgb(230, 65, 0);
   text-decoration: none;
 }
