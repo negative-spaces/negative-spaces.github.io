@@ -5,9 +5,9 @@
     <title>practice</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/styles.css">
-    <style>
 
-      * {
+    <style>
+        * {
         box-sizing: border-box;
       }
       
@@ -15,53 +15,75 @@
       display: flex;
     }
 
-    .column-left {
-        flex: 40%;
-        padding: 5px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: 13pt;
-        font-weight: lighter;
-        line-height: 1.2;
-        text-align: justify;
-        letter-spacing: .16mm;
-        text-justify: inter-word; 
-        /* margin-left: 3%; */
-        /* border: 1px solid #f5f5f5; */
+    .row2 {
+      display: flex;
     }
 
-      .column-right {
-        flex: 40%;
-        padding: 5px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: 13pt;
-        font-weight: lighter;
-        line-height: 1.9;
-        text-align: justify;
-        letter-spacing: .16mm;
-        text-justify: inter-word; 
-        /* margin-left: 3%;
-        margin-right: 3%; */
+   div.practice-main{
+    -ms-flex: 75%; 
+    flex: 75%;
+    max-width: 75%;
+    padding: 2px 2px;
     }
 
-  
+    div.practice-asides{
+    -ms-flex: 25%; 
+    flex: 25%;
+    max-width: 25%;
+    padding: 2px 2px;
+    }
 
-/*text styling for wide  screen*/
-@media screen and (min-width: 701px) {
+    /*hide asides on narrow display */
+    @media screen and (max-width: 800px) {
+    div.practice-asides {
+   visibility:hidden;
+   -ms-flex: 0%; 
+    flex: 0%;
+    max-width: 0%;
+  }
+}
+
+    /*main column takes full page on narrow display*/
+    @media screen and (max-width: 800px) {
+    div.practice-main {
+        -ms-flex: 100%; 
+        flex: 100%;
+        max-width: 100%;
+        padding: 1px 2px;
+  }
+}
+
+div.practice-text{
+    margin:auto;
+    -ms-flex: 70%; 
+    flex: 70%;
+    max-width: 70%;
+    padding: 2px 2px;
+    }
+
+     /*text takes up full width on narrow screen */
+    @media screen and (max-width: 800px) {
+         div.practice-text {
+            -ms-flex: 100%; 
+            flex: 100%;
+            max-width: 100%;
+         }
+    }
+
+    /*text styling for wide  screen*/
+@media screen and (min-width: 601px) {
   p {
-    max-width: 52%;
     font-size: 12.3pt;
   font-weight: lighter;
   line-height: 2.2;
   text-align: justify;
   letter-spacing: .16mm;
   text-justify: inter-word; 
-  margin-left:24%;
-
   }
 }
 
 /*text styling for NARROW phone screen*/
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   p {
     font-size: 11pt;
     font-weight: 300;
@@ -69,101 +91,102 @@
      text-align: left;
   }
 }
-/*for two images side by side */
- .image-row {
-  display: flex;
-  max-height: 300px;
-}
-.image-column {
-  flex: 50%;
-  padding: 5px;
-}
-
-      </style>
 
 
-      <!-- <style>
+div.commonplace{
+    -ms-flex: 100%; 
+    flex: 100%;
+    max-width: 100%;
+    padding: 2px 2px;
+    }
 
-.upper, .lower {
-  position: absolute;
-  left: 0;
-  right: 0;
-}
 
-.upper {
-  top: 0;
-  height: 90%;
-  background-color: pink;  
-  overflow:scroll;
-}
+div.comm-left{
+    /* margin:auto; */
+    -ms-flex: 50%; 
+    flex: 50%;
+    max-width: 50%;
+    padding: 4px 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    font-weight: lighter;
+    line-height: 1.2;
+    text-align: justify;
+    letter-spacing: .16mm;
+    text-justify: inter-word; 
+    /* border: 1px solid #f5f5f5; */
+    }
 
-.lower {
-  bottom: 0;
-  height: 10%;
-  background-color: blue;    
-}
-      </style>
- -->
 
+    div.comm-right{
+    /* margin:auto; */
+    -ms-flex: 50%; 
+    flex: 50%;
+    max-width: 50%;
+    padding: 4px 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    font-weight: lighter;
+    line-height: 1.2;
+    text-align: justify;
+    letter-spacing: .16mm;
+    text-justify: inter-word; 
+    }
+
+
+    </style>
 </head>
-
 <body>
 
 
-  <a name="top" id="top"></a>
+    <!--Navigate Elsewhere-->
+    <div>
+    <div id="mySidenav" class="sidenav">
+     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+     <a href="./disorientation.html">disorientation</a>
+     <a href="./practice.html" style="color:#e46c39">> practice</a>
+     <a href="./interference.html">interference</a>
+     <a href="./tactics.html">tactics</a>
+     <a href="./rendering.html">rendering</a>
+     <a href="./superposition.html">superposition</a>
+     <a href="./rhythmanalysis.html">rhythmanalysis</a>
+     <br>
+     <a href="./index.html" style="font-size:13px">FRONT_MATTER</a>
+     <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/practice.html" style="font-size:13px" target="_blank">CODE_SIDE</a>
+   </div>
+   <div id="main">
+     <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+   </div>
+   <script>
+   function openNav() {
+     document.getElementById("mySidenav").style.width = "250px";
+     document.getElementById("main").style.marginLeft = "250px";
+   }
+   function closeNav() {
+     document.getElementById("mySidenav").style.width = "0";
+     document.getElementById("main").style.marginLeft= "0";
+   }
 
-       <!--Navigate Elsewhere-->
-       <div>
-       <div id="mySidenav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a href="./disorientation.html">disorientation</a>
-        <a href="./practice.html" style="color:#e46c39">> practice</a>
-        <a href="./interference.html">interference</a>
-        <a href="./tactics.html">tactics</a>
-        <a href="./rendering.html">rendering</a>
-        <a href="./superposition.html">superposition</a>
-        <a href="./rhythmanalysis.html">rhythmanalysis</a>
-        <br>
-        <a href="./index.html" style="font-size:13px">FRONT_MATTER</a>
-        <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/practice.html" style="font-size:13px" target="_blank">CODE_SIDE</a>
-      </div>
-      <div id="main">
-        <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
-      </div>
-      <script>
-      function openNav() {
-        document.getElementById("mySidenav").style.width = "250px";
-        document.getElementById("main").style.marginLeft = "250px";
-      }
-      function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-        document.getElementById("main").style.marginLeft= "0";
-      }
+   window.onscroll = function closeNav() {
+     document.getElementById("mySidenav").style.width = "0";
+     document.getElementById("main").style.marginLeft= "0";
+   }
+   </script>
+   </div>
 
-      window.onscroll = function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-        document.getElementById("main").style.marginLeft= "0";
-      }
-      </script>
-      </div>
+  <!--banner image-->
+<img src="./media/process/poesis_edited.png" style="width:90%">
 
+<!--page contents-->
+<div class="row1">
 
-      <!--banner image-->
-      <img src="./media/process/poesis_edited.png" style="width:90%">
+    <div class="practice-main">
 
-
-      <!--roberts sitation - rhizomatic assemblage -->
- <div  style="height:230px; width:44%; overflow:scroll; margin:auto">
-  <img src="./media/commonplace/Roberts2018_58.jpg" style="width:100%;">
-  <span style="font-size:small">Roberts, Les. <i>Spatial Anthropology: Excursions in Liminal Space. </i>Rowman and Littlefield, 2018.
-  </span>
-  </div>
-
-
-          <!--intro-->
-          <div >
-            <p>
-              What could it mean to think with place? To feel the city? How might the tactics of practical knowledge be employed to interfere with epistemological hegemonies from within? My master’s research is an exploration and response to these questions through deep mapping. The concept of 'deep maps' and 'deep mapping' was first conceived by Pearson and Shanks (2001, 162) through a multimedia performed lecture. For Pearson and Shanks (2001), <br><br>
+        <!--introduction to (deep mapping) practice-->
+        <div class="practice-text">
+      
+            <p><span style="font-weight:701">PRACTICE</span><br>
+              What could it mean to think with place? To feel the city? How might the tactics of practical knowledge be employed to interfere with epistemological hegemonies from within? I explore and respond to these questions through deep mapping. The concept of 'deep maps' and 'deep mapping' was first conceived by Pearson and Shanks in 1994 through a multimedia performed lecture (2001, 162). For Pearson and Shanks (2001), 
               <span class="quote">
                 the deep map attempts to record and represent the grain and patina of place through juxtapositions and interpenetrations of the historical and the contemporary, the political and the poetic, the factual and the fictional, the discursive and the sensual; the conflation of oral testimony, anthology, memoir, biography, natural history and everything you might ever want to say about a place. (65) 
               </span>
@@ -174,387 +197,297 @@
                 everything you might want to say may be voluminous, polyvocal or open-ended. Unlike the surface dimensions that delineate and give shape to the locational properties of place, verticality and depth denote a comparative absence of limitations. The deeper you go, the more layers you accrue. The problem becomes how to hold it all together: how to ‘frame’ it as a map. (49)
               </span>
               <br>
-              I am not concerned with making a map or anything representative of my spatial practice. However, I have paid considerable attention to the boundary making practice involved in framing an object of knowledge, especially one which renders the effects of practice. My interest is not in deep maps as objects of knowledge but rather in deep mapping as a research practice. Deep mapping resists preemptive definition for it is <i>through</i> practice that it becomes articulated as an apparatus of investigation. This page is therefore an invitation to think through practice in order to arrive at a situated theory of practice. In what follows, I trace my theorization of deep mapping by entering into dialogue with the physical and conceptual fields of my encounter. This dialogue takes the form of a digital commonplace: embedded on the left are passages from the conceptual field; on the right, interpretations of deep mapping generated through navigating Vancouver. Similar to how Clifford McLucas wrote ten things about deep maps (2000), I share ten things about deep mapping I have come to know through the course of practice. 
+              My interest is not in deep maps as objects of knowledge but rather in deep mapping as a research practice. Deep mapping resists preemptive definition for it is <i>through practicing</i> deep mapping that deep mapping becomes articulated as an apparatus of investigation. This page is therefore an invitation to <i>think through practice</i> in order to arrive at a situated theory of deep mapping. Whereas my discussion of <a href="./disorientation.html" target="_blank">disorientation</a> disoriented the conventions of introductions by navigating through vignettes of moments, my discussion of practice assumes the dialogic form of deep mapping. What follows is a digital commonplace: embedded on the left are multi-media passages from the physical-conceptual fields of my encounter; on the right, interpretations of deep mapping generated through navigations within and as part of them. Similar to how Clifford McLucas wrote ten things about deep maps (2000), I share ten things about deep mapping I have come to recognize through the course of practice.
         </p>
+      
         </div>
-        
 
+        <br><br><br><br><br>
 
-  <!-- COMMONPLACE -->
-  <div>
-    <!--title-->
-    <div class="row1">
-      <div class="column-left">
-        <b>THINKING THROUGH PRACTICE</b><br>
-      </div>
-      <div class="column-right">
-      <b>WITH THE FIELD OF ENCOUNTER</b><br>
-      </div>
-    </div>
-    <br><br>
-    <br><br>
-     <!-- ongoing and open-ended dialogue with the world -->
-    <div class="row1">
-      <div class="column-left">
-        <img src="./media/commonplace/Loveless2019_95.jpg" style="width:100%">
-        <br>
-        also include Barad, place dialogue, everyday commutes
+        <!--digital commonplace-->
+        <div class="commonplace">
+            
+        <!-- ongoing and open-ended dialogue with the world -->
+        <div class="row2">
+            <div class="comm-left">
 
-      </div>
-      <div class="column-right">
-        <span  style="background-color: #ffea8262">Deep mapping is an ongoing and open-ended dialogue with the world</span>
-        <br><br>
-        <br><br><br><br>
-        <br><br><br><br>
-      </div>
-    </div>
-    
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is an ongoing and open-ended dialogue with the world</span>
+
+            </div>
+        </div>
+
     <!-- situated, embodied inhabitation -->
-    <div class="row1">
-      <div class="column-left">
-      <br><br>
-        <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
-          <img src="./media/commonplace/Haraway1988_588.jpg" style="width:100%">
-          <img src="./media/commonplace/Haraway1988_595.jpg" style="width:100%"><br>
-          Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” <i>Feminist Studies</i> 14, no. 3 (1988): 575–99. https://doi.org/10.2307/3178066.
-          </div>
-      </div>
-      <div class="column-right">
-        <span  style="background-color: #e3f9f789">>Deep mapping is situated, embodied inhabitation</span>
-        <br><br><br><br>
-        <br><br><br><br>
-        <br><br><br><br>
-        <br><br><br><br>
-      </div>
-    </div>
+        <div class="row2">
+            <div class="comm-left">
 
 
-    <!-- practical knowledge gleaned through everyday spatial navigations -->
-    <div class="row11">
-      <div class="column-left">
-        
+            </div>
 
-      </div>
-      <div class="column-right">
-        <span  style="background-color: #ffea8262">Deep mapping is practical knowledge gleaned through everyday spatial navigations
-        </span>
-        <br><br><br><br>
-        <br><br><br><br>
-        <br><br><br><br>
-      </div>
-    </div>
-  
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is situated, embodied inhabitation</span>
+
+            </div>
+        </div>
 
      <!-- attunement to affect -->
-     <div class="row1">
-      <div class="column-left">
-        <br><br> 
-        <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
-          <img src="./media/commonplace/Stewart2010_446.jpg" style="width:100%">
-          <img src="./media/commonplace/Stewart2010_452.jpg" style="width:100%"><br>
-          Stewart, Kathleen. “Atmospheric Attunements.” <i>Environment and Planning D: Society and Space</i> 29, no. 3 (June 1, 2011): 445–53. https://doi.org/10.1068/d9109.</div>
-          
-          <br><br>
-          <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;"><img src="./media/commonplace/Banazek2020_19.jpg" style="width:100%"></div>
-      </div>
+        <div class="row2">
+            <div class="comm-left">
 
-      <div class="column-right">
-        <span  style="background-color: #ffea8262">Deep mapping is attunement to 'affective atmospheres' (Stewart 2011)
-        </span>
-        <br><br><br><br>
-        <br><br><br><br>
-        <br><br><br><br>
-        <br><br><br><br> 
-        <br><br><br><br>
-        <br><br><br><br>
-      </div>
-    </div>
+            </div>
 
-
-    <!-- a rhythmanalysis that precedes and exceeds measure -->
-    <div class="row1">
-    <div class="column-left">
-      <div style="width:fit-content; height:400px;  overflow:scroll; text-align:left;">
-        <img src="./media/process/napkin-note1.jpg" style="width: 100%">
-        </img>
-        <img src="./media/process/napkin-note2.jpg" style="width: 100%">
-        </img>
-        First Saturday artist open studios with allen
-    </div>
-    <br>
-    <img src="./media/field/live-without-dead-time_20230902.jpg" style="width: 100%">
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is attunement to 'affective atmospheres' (Stewart 2011)
+                </span>
+            </div>
         </div>
-        <div class="column-right">
-          <span  style="background-color: #ffea8262">> Deep mapping is a rhythmanalysis that precedes and exceeds measure</span>
-          <br><br><br><br>
 
-          <br><br><br><br>
-          <br><br><br><br>
+
+        <!-- practical knowledge-->
+        <div class="row2">
+            <div class="comm-left">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping cultivates practical knowledge
+                </span>
+            </div>
         </div>
-      </div>
-     
-      <br><br>   <br><br>
 
-      <!-- iterative   -->
-       <div class="row1">
-        <div class="column-left">
-          
-          <img src="./media/process/process-performance.jpg" style="width:100%">
+    <!-- a rhythmanalysis that  exceeds measure -->
+        <div class="row2">
+            <div class="comm-left">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is a rhythmanalysis that precedes and exceeds measure</span>
+
+            </div>
         </div>
-        <div class="column-right">
-          <span  style="background-color: #ffea8262">>Deep mapping is iterative</span>  
-          <br><br><br><br>
-          <br><br><br><br>
-          <br><br><br><br>
-          <br><br><br><br>
-          <br><br><br><br>
-          <br><br><br><br>
+
+       <!--iterative -->
+        <div class="row2">
+            <div class="comm-left">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is iterative</span>  
+            </div>
         </div>
-      </div>
+
+        <!--sitational -->
+        <div class="row2">
+            <div class="comm-left">
+            
+                <img src="./media/process/spatial-sitation.jpg" style="width:70%;">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is sitational</span>
+
+            </div>
+        </div>
 
 
-      <!--sitational -->
-      <div class="row1">
-  <div class="column-left">
-    <div style="width:100%; ">
-    <img src="./media/process/spatial-sitation.jpg" style="width:70%;">
-    <br><br>
-    <div style="width:fit-content; height:410px;  overflow:scroll;" >
-    <img src="./media/field/post-it-navigation.jpg" style="width:70%;">
-    <br>
-    <img src="./media/field/biking-lefebvre.jpg" style="width:70%;">
-    <br>
-    <img src="./media/field/bike-tomatoes.jpg" style="width:70%;">
-    <br>
-    
+        <!--  immersive-->
+        <div class="row2">
+            <div class="comm-left">
+                <img src="./media/commonplace/Roberts2018_51.jpg" style="width:100%;">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is immersive</span>
+
+            </div>
+        </div>
+
+        <!--non exhaustive-->
+        <div class="row2">
+            <div class="comm-left">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #ffea8262">Deep mapping is non-exhaustive</span>
+            </div>
+        </div>
+
+
+    <!--theorization-->
+        <div class="row2">
+            <div class="comm-left">
+
+            </div>
+
+            <div class="comm-right">
+                <span  style="background-color: #82ffd562">Deep mapping is interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public.</span>
+
+            </div>
+        </div>
+
+
 
     </div>
-    <br><br><br>
-  </div>
-  </div>
 
-  <div class="column-right">
-    <span  style="background-color: #ffea8262">> Deep mapping is sitational</span>
-    <br><br><br><br>
-    <br><br><br><br>
-    <br><br><br><br>
-  </div>
+
+    <br><br><br><br><br>
+
+        <!--outro text-->
+        <div class="practice-text">
+            
+            <!--turning and return: the lemniscate as a figure of practice-->
+            <div>
+                <p>My theory of deep mapping is constituted through my practice of deep mapping.
+                </p>
+               
+                <p>
+                  That sentence took nine months of writing and re-writing. Indeed, I wrote that sentence while my theorization was still taking shape. What I'd finally found were words to describe the relationship between my theory and practice of deep mapping. 
+                </p>
+              
+                <p>
+                  To further describe the "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) which form my research (and whose form my research takes), I introduce the lemniscate: ∞ The lemniscate is a form I grew up drawing and walking as part of Waldorf pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) – a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my proprioceptive sense. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is <i>process</i> oriented: "It is the <i>act</i> of drawing that educates, not the result" (Gebert 1987, 8, emphasis in original). The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught. My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12). I also like thinking of the lemniscate as a figure for practicing deep mapping because it reminds me of limits, infinities, and vanishing points where parallel lines intersect. Practice is a commitment to transformation through iteration. The iteration of a form reveals beginning and end to be but places of turning and return.
+              </p>
+            </div>
+            
+            <br><br><br><br><br><br>
+            <!--bibliography-->
+                <div>
+                    <a name="commonplace-bibliography" id="commonplace-bibliography"></a> 
+                <button type="button" class="collapsible" style="font-family: Inconsolata;
+                font-size: 13pt;font-weight:700;">BIBLIOGRAPHY</button>
+                <div class="content">
+                    <div class="row">
+                        <span style="font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+                        font-size: 12pt;
+                        font-weight: lighter;
+                        line-height: 1.8;
+                        text-align: justify;
+                        letter-spacing: 0.16mm;
+                        text-justify: inter-word; padding:10px;">
+                        references
+                        <br><br><br>
+                    </span>
+                    </div>
+                    </div>
+                    <script>
+                    var coll = document.getElementsByClassName("collapsible");
+                    var i;
+                    
+                    for (i = 0; i < coll.length; i++) {
+                        coll[i].addEventListener("click", function() {
+                        this.classList.toggle("active");
+                        var content = this.nextElementSibling;
+                        if (content.style.display === "block") {
+                            content.style.display = "none";
+                        } else {
+                            content.style.display = "block";
+                        }
+                        });
+                    }
+                    </script>
+                    </div>
+                    <br><br><br><br><br><br>
+        </div>
+
+
     </div>
 
+    <div class="practice-asides">
 
-<!--  immersive-->
-<div class="row1">
-  <div class="column-left">
-    <div style="width:fit-content; height:250px;  overflow:scroll; text-align:left;">
-    <img src="./media/commonplace/Roberts2018_51.jpg" style="width:100%;">
-    </div>
-  </div>
-  <div class="column-right">
-    <span  style="background-color: #ffea8262">>Deep mapping is immersive</span>
-
-    <br><br><br><br>
-    <br><br><br><br>
-    <br><br><br><br>
-    </div>
-</div>
-
-<!-- non-exhaustive -->
-<div class="row">
-  <div class="column-left">
-    
-
-  </div>
-  <div class="column-right">
-    <span  style="background-color: #ffea8262">> Deep mapping is non-exhaustive</span>
-    <br><br><br><br>
-    <br><br><br><br>
-    <br><br><br><br>
-  </div>
-</div>
-
-
-<!-- THEORIZATION-->
-<div class="row1">
-  <div class="column-left">
-    
-
-  </div>
-  <div class="column-right">
-    <span  style="background-color: #82ffd562">> Deep mapping is interference with hegemonic forms of representing place, producing geographic knowledge, and rendering spatial research public.</span>
-  </div>
-</div>
-</div>
-
-
-
-
-<!--practice -->
-<div style="width:70%;">
-  <div style="margin-left:-20%; margin-right:-25%">
-<p>My theory of deep mapping is constituted through my practice of deep mapping.
-  </p>
- 
-  <p>
-    That sentence took nine months of writing and re-writing. Indeed, I wrote that sentence while my theorization was still taking shape. What I'd finally found were words to describe the relationship between my theory and practice of deep mapping.
-  </p>
-
-  <p>
-   To further describe the "iterative loops between action, experience, and knowledge" (Tuin and Verhoeff 2022, 138) which form my research (and whose form my research takes), I introduce the lemniscate: ∞ The lemniscate is a form I grew up drawing and walking as part of Waldorf School pedagogy. Beginning in first grade 1, along with 20 classmates, learned form drawing and Eurythmy. Eurythmy is "visible speech, visible music" / "music translated into movement" (Steiner 1923) – a spatial practice accompanied by piano whose every class began by walking a lemniscate for nearly ten minutes. Facing forward we flowed as one body in continuous motion. Although eurythmy was, without exception, our least favorite block, I have no doubt practicing it twice a week for eight years significantly developed my proprioceptive sense. Also beginning in grade one was the practice of form drawing. Sitting in silence for an hour or more we would draw a form like the lemniscate over and over, the crayon in constant contact with the page. Form drawing is <i>process</i> oriented: "It is the <i>act</i> of drawing that educates, not the result" (Gebert 1987, 8, emphasis in original). The embodied iteration of patterns was a fundamental mechanism by which representational subjects like writing and arithmetic were later taught. My critiques of Waldorf pedagogy notwithstanding, I attribute my acute spatial awareness and orientation towards sensorium to my experience of "multisensory learning, where ears and eyes and voice, hands and feet, mind and memory, all work together to reinforce each other" (Gebert 1987, 12). I also like thinking of the lemniscate as a figure for practicing deep mapping because it reminds me of limits, infinities, and vanishing points where parallel lines intersect. Practice is a commitment to transformation through iteration. The iteration of a form reveals beginning and end to be but places of turning and return.
-</p>
-</div>
-</div>
-
-
-
-
-        <!-- <div class="vignette">
-          <div id="scroll-box1" style="height:450px; width:650px">
-          <img src="./media/commonplace/Loveless2019_70-71.jpg" style="width:100%">
-          
-          </div>
-          <br>Loveless, Natalie. How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press, 2019.<br><br>
-          {originally screenshotted pdf of scanned book page, then exported as jpeg.  resolution was too low so then I googled <a href="https://www.sejda.com/crop-pdf">online pdf cropper,</a> cropped the high res original scan, downloaded from web and exported to jpeg}
-
-        </div> -->
+        <div class="sticky">
+            <button onclick="myAsides()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; margin-left:49%; border-color:#e2dfdf">Show/Hide Asides</button>
+         
+            <div id="asides"> 
         
-        <!-- <audio controls style="margin-left:23%;">
-          <source src="./media/audio/place.mp3" type="audio/mpeg" >
-        </audio> -->
-        <br><br><br><br>
+        
+           
+              <script language=javascript>
+        
+                  function getSelText()
+                  {
+                  var txt = '';
+                  if (window.getSelection)
+                      {
+                          txt = "'"+ window.getSelection() +"'" ;
+                      }
+                  else if (document.getSelection)
+                  {
+                  txt =  "'"+ document.getSelection() +"'" ;
+                      }
+                  else if (document.selection)
+                  {
+                  txt = "'"+document.selection.createRange().text +"'" ;
+                  }
+                  else return;
+                  document.testform.selectedtext.value = document.testform.selectedtext.value + '\n\n' + txt;
+                  }
+              
+                  
+                  </script>
+        
+            <br>
+            
+            <button  onmousedown="getSelText()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt;"> Take Note; Make Note</button>
+            <form name="testform">
+              <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." style="width:100%; max-width:100%; height: 200px"></textarea>
+          </form>
+        
+        
+          <script>
+            function myAsides() {
+            var x = document.getElementById("asides");
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+            }
+            </script>
+        
+        
+        
+        <input type="button" id="btn"  style="border:none; font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt; margin-left:75%" value="download" />
+        
+        
+          <script>
+              function download(file, text) {
+                  var element = document.createElement('a');
+                  element.setAttribute('href',
+                      'data:text/plain;charset=utf-8, '
+                      + encodeURIComponent(text));
+                  element.setAttribute('download', file);
+                  document.body.appendChild(element);
+                  element.click();
+                  document.body.removeChild(element);
+              }
+        
+             
+              // Start file download.
+        
+              document.getElementById("btn")
+                  .addEventListener("click", function () {
+                      var text = 
+                      'Notes and quotes from negative-spaces/practice.html, a page of Lily Demet\'\s MA Thesis' + document.getElementById("selectedtext").value ;
+                      var filename = "asides.txt";
+        
+                      download(filename, text);
+                  }, false);
+          </script>
+        
+            </div>
 
-        <!--bibliography-->
-      <div>
-        <a name="commonplace-bibliography" id="commonplace-bibliography"></a> 
-    <button type="button" class="collapsible" style="font-family: Inconsolata;
-    font-size: 13pt;font-weight:700;">BIBLIOGRAPHY</button>
-    <div class="content">
-        <div class="row">
-            <span style="font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
-            font-size: 12pt;
-            font-weight: lighter;
-            line-height: 1.8;
-            text-align: justify;
-            letter-spacing: 0.16mm;
-            text-justify: inter-word; padding:10px;">
-              references
-              <br><br><br>
-        </span>
-          </div>
         </div>
-        <script>
-          var coll = document.getElementsByClassName("collapsible");
-          var i;
-          
-          for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-              this.classList.toggle("active");
-              var content = this.nextElementSibling;
-              if (content.style.display === "block") {
-                content.style.display = "none";
-              } else {
-                content.style.display = "block";
-              }
-            });
-          }
-          </script>
-     </div>
-        <br>
-        <a href="#top">&#9650 return to top</a><br>
-    <br><br>
-
-
-
- <!--asides-->
-
-  <div class="sticky">
-    <button onclick="myAsides()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; margin-left:49%; border-color:#e2dfdf">Show/Hide Asides</button>
- 
-    <div id="asides"> 
-
-
-   
-      <script language=javascript>
-
-          function getSelText()
-          {
-          var txt = '';
-          if (window.getSelection)
-              {
-                  txt = "'"+ window.getSelection() +"'" ;
-              }
-          else if (document.getSelection)
-          {
-          txt =  "'"+ document.getSelection() +"'" ;
-              }
-          else if (document.selection)
-          {
-          txt = "'"+document.selection.createRange().text +"'" ;
-          }
-          else return;
-          document.testform.selectedtext.value = document.testform.selectedtext.value + '\n\n' + txt;
-          }
-      
-          
-          </script>
-
-    <br>
-    
-    <button  onmousedown="getSelText()" style="font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt;"> Take Note; Make Note</button>
-    <form name="testform">
-      <textarea id="selectedtext" placeholder="Highlight a selection of text to the left and click the above button to save it here. Type notes to yourself here as you go. Resize this window as needed." style="width:100%; max-width:100%; height: 200px"></textarea>
-  </form>
-
-
-  <script>
-    function myAsides() {
-    var x = document.getElementById("asides");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-    }
-    </script>
-
-
-
-<input type="button" id="btn"  style="border:none; font-family: 'Courier New', Courier, monospace; font-size:11pt; letter-spacing:-0.6pt; margin-left:75%" value="download" />
-
-
-  <script>
-      function download(file, text) {
-          var element = document.createElement('a');
-          element.setAttribute('href',
-              'data:text/plain;charset=utf-8, '
-              + encodeURIComponent(text));
-          element.setAttribute('download', file);
-          document.body.appendChild(element);
-          element.click();
-          document.body.removeChild(element);
-      }
-
-     
-      // Start file download.
-
-      document.getElementById("btn")
-          .addEventListener("click", function () {
-              var text = 
-              'Notes and quotes from negative-spaces/practice.html, a page of Lily Demet\'\s MA Thesis' + document.getElementById("selectedtext").value ;
-              var filename = "asides.txt";
-
-              download(filename, text);
-          }, false);
-  </script>
 
     </div>
 
-
-   
-
-
 </div>
-
-
 
 
 
@@ -602,5 +535,3 @@
 </div>
 
 </body>
-
-</html>
