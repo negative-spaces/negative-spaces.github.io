@@ -76,8 +76,6 @@ font-weight: lighter;
 }
 
 
-
-
 /* for 15 min city image set */
         .image-row {
   display: flex;
@@ -88,16 +86,15 @@ font-weight: lighter;
 }
 
 
-
 div.column12 {
-  -ms-flex: 55%; 
-  flex: 55%;
-  max-width: 55%;
+  -ms-flex: 50%; 
+  flex: 50%;
+  max-width: 50%;
   padding: 0 2px;
   }
 
   /*main column takes full page width for NARROW display*/
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   div.column12 {
     -ms-flex: 100%; 
         flex: 100%;
@@ -108,17 +105,15 @@ div.column12 {
 
 /*text blocks paragraph margins on computer WIDE screen*/
 /*changed max-width to adjust page margins; using page margin properties in div column object broke sticky contents side nav*/
-@media screen and (min-width: 701px) {
+@media screen and (min-width: 801px) {
   div.column12 {
     -ms-flex: 100%; 
         flex: 100%;
-        max-width: 70%;
+        max-width: 65%;
         padding: 0 0px;
   }
 }
-
-
-        </style>
+  </style>
 </head>
 
 <body>
@@ -153,25 +148,28 @@ div.column12 {
       </script>
       </div>
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 What this page is about...
-</div>
+</div> -->
+
   <br><br><br>
 <!--menu-->
 <div class="tab">
-  <button class="tablinks" onclick="openRhythm(event, 'balcony-imaginaries')">Balcony Imaginaries</button>
-  <button class="tablinks" onclick="openRhythm(event, 'bridge')">Bridge</button>
-  <button class="tablinks" onclick="openRhythm(event, 'new-animal')">New Animal</button>
-  <button class="tablinks" onclick="openRhythm(event, 'signs-of-protest')">signs of protest</button>
-  <button class="tablinks" onclick="openRhythm(event, 'crows')">crows</button>
-  <!-- <button class="tablinks" onclick="openRhythm(event, 'inhabitation')">inhabitation</button> -->
-  <button class="tablinks" onclick="openRhythm(event, 'pollinator-park')">5th & Fir</button>
-  <button class="tablinks" onclick="openRhythm(event, 'intersections')">Intersections</button>
-  <button class="tablinks" onclick="openRhythm(event, 'find-the-drift')">Find The Drift</button>
   <button class="tablinks" onclick="openRhythm(event, 'plaza')">the plaza</button>
   <button class="tablinks" onclick="openRhythm(event, 'abstract-to-concrete')">abstract to concrete</button>
+  <button class="tablinks" onclick="openRhythm(event, 'balcony-imaginaries')">Balcony Imaginaries</button>
+  <button class="tablinks" onclick="openRhythm(event, 'bridge')">granville bridge</button>
+  <button class="tablinks" onclick="openRhythm(event, 'new-animal')">New Animal</button>
+  <button class="tablinks" onclick="openRhythm(event, 'signs-of-protest')">signs of protest</button>
+  <!-- <button class="tablinks" onclick="openRhythm(event, 'crows')">crows</button> -->
+  <!-- <button class="tablinks" onclick="openRhythm(event, 'inhabitation')">inhabitation</button> -->
+  <!-- <button class="tablinks" onclick="openRhythm(event, 'pollinator-park')">5th & Fir</button> -->
+  <!-- <button class="tablinks" onclick="openRhythm(event, 'intersections')">Intersections</button> -->
+  <button class="tablinks" onclick="openRhythm(event, 'find-the-drift')">Find The Drift</button>
   <button class="tablinks" onclick="openRhythm(event, 'no-repeat')">no repeat</button>
-</div>
+
+<button class="tablinks" onclick="openRhythm(event, 'no-gods-no-masters')">no gods no masters</button>
+
 
 <br><br>
 <br><br>
@@ -353,6 +351,7 @@ What this page is about...
     Deep mapping (including practicing rhythmanalysis and reading Karen Barad through my praxis) has honed my ability to recognize patterns of similarity and difference, or marks of interference. Lately I’ve been lured by the drift of sticker-signs and graffiti-tags around the city. Among other variously elusive signs, I've been tracing these `15 minute City <b>Ready</b>` stickers that I began noticing in March around the Vancouver greenway, a stretch of old railroad converted into a designated bike path. Over the course of the spring more stickers appeared, pasted over DO NOT ENTER EXCEPT BICYCLES signs and those yellow/black striped hazard markers. At the same time as the stickers began proliferating east, west, and even across the bridge into downtown, they also began being scratched off. Reapplication, however, was swift. Then I sighted something different: at first one then two sites, scrawled in blue sharpie over `15 minute City <b>Ready</b>` was the declaration RESIST.
   </p>
   <br>
+  </div>
   <!--15 minute city ready images at greenway-->
   <div>
     <div class="image-row">
@@ -377,9 +376,9 @@ What this page is about...
       </div>
       [photo evidence captured between march and august 2023 on cellphone by Q, ordered chronologically]
       </div>
-      <br>
+
       
-      <br>
+      <div class="column12" style="margin:auto">
       <br><br>
       <p>
       But resist what? The `15 minute City <b>Ready</b>` stickers are actually in protest of the ‘15 minute city’––the decal’s chain-link background representing enforced limited mobility. The location and surface of the stickers placement is therefore significant to making matter the intended message. The signification of protest comes to matter through the stickers’ material-semiotic interference with (infrastructural) boundary demarcations. City signs become palimpsests––sites of super/im/position signaling contested urbanisms. 
@@ -390,22 +389,23 @@ What this page is about...
         <br><br>
         These questions are the beginning of something. Although they require iterative re-writing I include them here to mark the opening of an ongoing inquiry. A related set of questions that was inspired by my navigations and encounters with `15 minute City <b>Ready</b>` emerged while thinking through <a href="./diffractive-mapping">diffractive mapping spatial analysis</a>. How are empirics made legible as data by the apparatuses that produce them? How are technoscientific and affective orientations to ‘what counts as data’ co-constitutive of an empirical account of the city? 
       </p>
+    </div>
       <br><br>
-      <img src="./media/sites/bikeway/tyranny-is-incremental.jpg"  style="width:30%; margin-left:30%">
+      <img src="./media/sites/bikeway/tyranny-is-incremental.jpg"  style="width:40%; margin-left:20%">
       <br><br>
       <img src="./media/sites/bikeway/cars-suck.jpg" style="width:60%;  margin-left:20%">
       <br><br>
       <img src="./media/sites/bikeway/local-traffic-only.jpg" style="width:60%;  margin-left:20%">
       <br><br>
 
-      </div>
+    
     </div>
 
 <!--crows-->
 <div id="crows" class="tabcontent">
 
   <img src="./media/field/crows.jpg"  style="width:80%">  
-  <p>just before sundown every evening thousands of crows fly back across vancouver to the neighboring city of burnaby where they roost around an office park, macdonalds, costco, and train tracks. they started doing this in the 70s.</p>
+  <p>just before sundown every evening thousands of crows fly back across vancouver to the neighboring city of burnaby where they roost around Still Creek, an office park, macdonalds, costco, and train tracks. they started doing this in the 70s.</p>
 </div>
 
 
@@ -775,6 +775,46 @@ What this page is about...
 <br><br>
  </div>
 
+
+  <!--no gods, no masters-->
+  <div id="no-gods-no-masters" class="tabcontent">
+    <div class="column12" style="margin:auto">
+     In February 2024, I first began noticing anti-capitalist slogans printed in alternating upper/lower case <span style="font-family:'Courier New', Courier, monospace;"> courier typeface</span> on what seemed to be paper sticker labels. Small, less than the length of my index finger, they were inconspicuous rallies. Most often adhered to green metal lampposts or the poles for crosswalk buttons. 
+     <br><br>
+      <img src="./media/drift/no-gods-no-masters_20240207.jpg" style="width:100%">
+      February 7th, 2024 —  I had my first encounter during a walk around False Creek. On the pedestrian overhang above the Fish Market I noticed the little sticker between the metal railings: NO GODS NO MASTERS.
+
+      <br><br><br>
+      <img src="./media/drift/no-gods-no-masters_20240317.jpg" style="width:70%">
+      March 17th, 2024 — The following month I had my second encounter. On another walk, just beyond where I'd spotted the first sticker on a lamppost near the Museum of Vancouver: NO GODS NO MASTERS. 
+
+      <br><br><br>
+      <img src="./media/drift/workers-unite_20240611.jpg" style="width:100%">
+      June 11th, 2024 — on a lammpost on my block: workers of the world/ UNITE! 
+
+     
+      <!-- <br><br><br>
+      <img src="./media/drift" style="width:100%">
+      Another free palestine near home - walk to grocery - near an economy sitation -->
+
+      <br><br><br>
+      <img src="./media/drift/free-Palestine_20240611.jpg" style="width:100%">
+      June 11th, 2024 — on a lamppost at the major intersection of  7th and Cambie: free Palestine
+
+      <br><br><br>
+      <img src="./media/drift/workers-unite_20240613.jpg" style="width:100%">
+      June 13th, 2024 — on a lamppost also near home: WORKERS OF THE WORLD! UNITE!
+
+      <br><br><br>
+      <br><br>
+      <img src="./media/drift/Screenshot_20240612_191500_Android_System.jpg" style="width:80%"><br><br>
+      When I tried sending a photo of the 'free Palestine' sticker from my Android phone, I got a warning: May contain sensitive information. I have never gotten this warning before, and it did not appear when I selected various other images to share, only the one containing the printed words 'free Palestine'. 
+
+  </div>
+  <br><br>
+   </div>
+
+
    <!--practice disoriented discovery -->
       <!-- <div class="vignette" style="width:50%; margin:auto;">
         Destination-oriented navigation must not needs be direct(ed) movement from one location to another. 
@@ -808,42 +848,7 @@ What this page is about...
     <br>
     </div> -->
 
-        <!--relationship anarchy notes-->
-        <!-- <div>
-          <p>In output oriented research, an aim signals a clear destination. However, aims can be refigured as lures. Embracing serendipity, my relationship to Vancouver and to my research-creation thesis has been guided from the start by The short instructional manifesto for relationship anarchy (Nordgren 2006).
-          </p>
-            <br><br>
-        <div class="vignette" style="width:50%; margin:auto">
-          <div id="scroll-box1" style="height:400px;  margin:auto;">
-            <img src="./media/process/relationship-anarchy.jpg" style="width:100%;">
-          </div>
-      <br>
-      Quotes I wrote down from <a href="https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy#toc1" target="_blank">Andie Nordgren's <i>The short instructional manifesto for relationship anarchy </i></a> in my fieldnotes book, January 2022. 
-      <br>
-        </div>
-
-        <p>
-          Two tenets that especially pertain are “Build for the lovely unexpected” and “Design your own commitments.” After I decided on my thesis topic in May of 2022, I organized all the relevant literature I had in-hand around my kitchen table along with every major concept, idea, person, or scrap of information I could think of scrawled on yellow sticky notes. Returning to the site of my initial enthusiastic chaos, my Values and Aims stand out.
-        <br><br>
-      </p>
-        <div class="row2" style="margin-left: 23%; margin-right:23%;"> 
-            <div class="column3">
-              <img src="./media/process/postit-thesismay2022.jpg" style="width:100%">
-            </div>
-              <div class="column3">
-                  <img src="./media/process/postit-values.jpg" style="width:100%">
-              </div>
-              <div class="column3">
-                  <img src="./media/process/postit-aims.jpg" style="width:100%">
-              </div>
-          </div>
-
-<p>
-  A year and a half later, I assemble this page with a clearer idea of what my project is about. My best ideas, however, remain written on sticky notes. 
-  <br><br>
-</div> -->
-
-
+       
 
 
 
