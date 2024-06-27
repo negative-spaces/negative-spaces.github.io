@@ -17,6 +17,7 @@
 }
 
 
+
 /* paragraph text */
 p {
   flex: 55%;
@@ -31,7 +32,7 @@ p {
 }
 
 code {
-  background: #d9f2fb7d;
+  background: #d9f2fb54;
   padding: .1rem .2rem;
   border-radius: .2rem;
   font-size: 10pt
