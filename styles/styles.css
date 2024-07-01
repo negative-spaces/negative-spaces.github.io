@@ -95,8 +95,8 @@ code {
 div.column9 {
   -ms-flex: 20%; 
   flex: 20%;
-  max-width: 20%;
-  padding: 0 1px;
+  max-width: 22%;
+  padding: 0 0px;
   }
 
 div.column10 {
@@ -124,8 +124,8 @@ div.column10 {
 @media screen and (max-width: 700px) {
   div.column9 {
    visibility:hidden;
-   -ms-flex: 15%; 
-        flex: 15%;
+   -ms-flex: 20%; 
+        flex: 20%;
         max-width: 0%;
         padding: 0 0px;
   }
