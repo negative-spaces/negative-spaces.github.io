@@ -14,12 +14,12 @@
         display: flex;
         -ms-flex-wrap: wrap; 
         flex-wrap: wrap;
-        padding: 0 3px;
+        padding: 0 0px;
       }
       .column2 {
-        -ms-flex: 30%; /* IE10 */
-        flex: 30%;
-        max-width: 30%;
+        -ms-flex: 33%; /* IE10 */
+        flex: 33%;
+        max-width: 33%;
         padding: 0 4px;
       }
       .column2 img {
@@ -44,7 +44,7 @@
 
   .tab {
   overflow: hidden;
-  margin-left:5%;
+
  /* border: 1px solid #ccc;*/
    /* background-color: #f7f5fc;*/
 }
@@ -72,7 +72,7 @@ font-weight: lighter;
 
 .tabcontent {
   display: none;
-  padding: 6px 12px;
+  padding: 3px 3px;
 }
 
 
@@ -153,8 +153,9 @@ What this page is about...
 </div> -->
 
   <br><br><br>
+
 <!--menu-->
-<div class="tab">
+<div class="tab" style="text-align:center;">
   <button class="tablinks" onclick="openRhythm(event, 'plaza')">the plaza</button>
   <button class="tablinks" onclick="openRhythm(event, 'abstract-to-concrete')">abstract to concrete</button>
   <button class="tablinks" onclick="openRhythm(event, 'balcony-imaginaries')">Balcony Imaginaries</button>
@@ -164,27 +165,31 @@ What this page is about...
   <!-- <button class="tablinks" onclick="openRhythm(event, 'crows')">crows</button> -->
   <!-- <button class="tablinks" onclick="openRhythm(event, 'inhabitation')">inhabitation</button> -->
   <!-- <button class="tablinks" onclick="openRhythm(event, 'pollinator-park')">5th & Fir</button> -->
-  <!-- <button class="tablinks" onclick="openRhythm(event, 'intersections')">Intersections</button> -->
+
   <button class="tablinks" onclick="openRhythm(event, 'find-the-drift')">Find The Drift</button>
   <button class="tablinks" onclick="openRhythm(event, 'no-repeat')">no repeat</button>
 
 <button class="tablinks" onclick="openRhythm(event, 'no-gods-no-masters')">no gods no masters</button>
-
+<button class="tablinks" onclick="openRhythm(event, 'tracing-as-placing')">tracing as placing</button>
+</div>
 
 <br><br>
 <br><br>
+
 <!--Bridge-->
 <div id="bridge" class="tabcontent">
    
-        <p>
+     <div class="column12" style="margin:auto">
+      <p>
         <b>GRANVILLE BRIDGE</b><br>
         Pressing my chest against the Granville Bridge I feel at once its trembling vibration and my own heart’s rapid beating. I embody a sonic superposition: vibrational waves overlap; interfere; combine. The rhythm of their resulting wave marks a pattern of interference, also called a diffraction pattern. Through visceral encounter, I become entangled with the infrastructure which, heretofore, I had approached only as an instrument from whose abstracting vantage I could conduct rhythmanalysis of the field below. 
         <br><br><br>
       </p>
+      </div>
       <!--grandville bridge-->
-      <a href="#bridge-bottom">begin-from-bottom</a>
+      <a href="#bridge-bottom">&#9660 begin-from-bottom</a><br>
      to enlarge individual image for viewing, right click and "open image in new tab"
-      <div class="row2" style="margin-left:5%;"> 
+      <div class="row2"> 
         <div class="column2">
           <img src="./media/sites/bridge/free-palestine.jpg" style="width:100%">
           <img src="./media/sites/bridge/20220809_115601.jpg" style="width:100%">
@@ -238,11 +243,14 @@ What this page is about...
 
 <!--Balcony Imaginaries-->
 <div id="balcony-imaginaries" class="tabcontent">
-  <p>
-    about as seen from the window/balcony - rhythmanalysis and balcony imaginaries
-  </p>
+ 
+  <div class="column12" style="margin:auto">
 
-  <a href="#balcony-bottom">begin-from-bottom</a>
+    <img src="./media/commonplace/Lefebvre1996_37.png" style="width:60%; ">
+
+  </div>
+<br>
+  <a href="#balcony-bottom">jump to the bottom</a>
   <a id="balcony-top"></a>
   <div class="row2" style="margin-left:5%;"> 
     <div class="column2">
@@ -334,11 +342,12 @@ What this page is about...
 
 <!--new animal in town-->
 <div id="new-animal" class="tabcontent">
-  <div class="column10">
+  <div class="column12" style="margin:auto;">
+    <p>
+      <span style="font-weight:400; font-size:13px">THERE'S A NEW ANIMAL IN TOWN</span> In January 2023 I first became aware of the Amazon Van’s backup sound. It’s unlike any vehicle beepI’ve ever heard. Short and aggressive, it's like the grunt of a rooting pig. It’s so distinctive that no matter how far away the van and faint the sound, my ears will sense it and immediately associate sound to source. I involuntarily think of Amazon like 6 times a day now.
+    </p>
         <img src="./media/field/az-truck.jpg"  style="width:100%"><br>
-        <p>
-        <span style="font-weight:400; font-size:13px">THERE'S A NEW ANIMAL IN TOWN</span> In January 2023 I first became aware of the Amazon Van’s backup sound. It’s unlike any vehicle beepI’ve ever heard. Short and aggressive, it's like the grunt of a rooting pig. It’s so distinctive that no matter how far away the van and faint the sound, my ears will sense it and immediately associate sound to source. I involuntarily think of Amazon like 6 times a day now.
-      </p>
+       
     </div>
 </div>
 
@@ -412,69 +421,6 @@ What this page is about...
 <!--inhabitation-->
 <div id="inhabitation" class="tabcontent">
 
-    <!--first view-->
-    <div>
-<img src="./media/field/first-view.jpg" style="width:50%; margin-left:25%"></img>
-<div id="scroll-box">
-  <div class="p1">My first view of Vancouver. The morning after I arrived, August 7th, I walked from 30th
-      all the way down to the shore. I knew nothing of this place before coming here. I'd googled pictures of the
-      city once back when I was deciding which offer to
-      accept. Each
-      path led, in my mind, to a divergent trajectory. Who was I going to become? The pandemic began during the
-      spring of my sophomore year of undergrad. Within 2 weeks my life radically altered and I decided to graduate
-      the next year and go somewhere new. I spent a year isolated in rural Maine. It was there that I began
-      walking in the woods, practicing something I called <a
-          href="https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236">isolation
-          psychogeography</a>. Under the mentorship of my Intro to GIS teacher, the best teacher I've ever known,
-      I explored critical and creative cartographies for my honors thesis. My undergraduate studies were in
-      physical geography and geographic information science. I chose geography because, as seems to be common
-      among geography undergrads in the states, I had an exceptional AP Human Geography teacher in UBC was the
-      only MA program I applied to and though my final decision was on impulse, I think I felt the lure of
-      openness to define my own project according to a mix of interests. And mentorship by someone who's skills
-      and knowledge spanned a breadth of fields. Looking back on my research statement submitted this time two
-      years ago (January 2021), my general aim remains the same:
-      <br><br>
-      <span class="quote" style="margin-left: 15%; margin-right:8%">
-          I am a renaissance student whose skills in the arts and sciences unite in Geographic Information
-          Science. My research interests lie in GeoVisualization, Critical Cartography, and the Geohumanities. I
-          value both qualitative and quantitative methodologies, and am especially drawn to the ways both
-          practices supplement each other. The research streams Digital Geographies, Geospatial Analysis, GIS and
-          Knowledge, Ideas, Practices are both of interest to me for I seek the technical skills to map
-          transdisciplinary patterns, not just conceptualize them. While my undergraduate background is in the
-          physical sciences, I am fundamentally a creative whose passion lies with critical examinations of
-          people, their interaction with each other, and response to the natural and built environment.</span>
-      <br>
-      i've inhabited this place for a year and a half now. i drove to vancouver from the other side of the
-      continent via somewhere in the middle of the united states. for the first time in my life i left a familiar
-      place without a plan. i had no map save a Rand McNally Atlas of U.S. Road Atlas which i am embarrassed to
-      say i forsook in favor of googles maps. even then, however, my journey unfolded in ways i never could have
-      imagined and so slowly, i became comfortable with being uncomfortable. with not knowing what lies ahead. so
-      much can happen between departure and destination. yet when the goal of a journey is the destination alone,
-      getting lost is experienced as an inconvenience. therefore, maps are used to plot a path from A to B,
-      departure to destination. with digital maps such as google maps, GPS will geolocate you in cartesian space
-      so long as you remain in range of satellite reception. follow the directions spoken in synthesized sentences
-      and you won't ever have to feel disoriented. you can't get lost. [recalculating...] you can't get lost
-      <br>
-      <span style="margin-left: 5%;">unless you exit the navigation,</span>
-      <br>
-      <br>
-      <span style="margin-left: 10%;">discard the map,</span>
-      <br>
-      <br>
-      <span style="margin-left: 20%;">and reorient your attention to the space between departure and
-          destination.</span>
-      <br>
-      <br>
-      my journey to vancouver, into graduate school, and through this project until now has been a process of
-      disoriented discovery. everything between departure and destination shapes where you end up. because deep
-      mapping is process oriented research, so much of what went into articulating the negative spaces assembled
-      above risks being relegated itself to negative space.to intentionally disorient oneself, to get lost as
-      method, to slow down, to be guided by serendipity, to follow non-linear trajectories, to start something and
-      start over. and over. and over and then claim that all this not only informs that which has coalesced as
-      creative output but actually constitutes the research product is my commitment.
-  </div>
-</div>
-    </div>
 
 
     <br><br><br>
@@ -516,56 +462,11 @@ What this page is about...
     <br><br><br>
     <br><br><br>
 
-    <!--abstract to concrete-->
-    <div class="vignette" style="width:54%; margin:auto">
-    <img src="./media/field/chalk.jpeg" style="width:40%; margin-left:30%">
-    <p>
-        Early April 2022, my friend and I are walking along a familiar street and see, resting amongst the
-        regular fairy pebbles and kitsch that decorate the bases of so many chestnut trees in this neighborhood, a
-        box of chalk. It’s an open-ended invitation to which we respond by pausing to draw colorful forms on the
-        sidewalk. “Very affirming” comments a passerby as they smile and skirt around us. In this moment, we have
-        transformed an  otherwise pedestrian space into a place of interest, using what mediums surround us to
-        engage with the city and its passersby.
-        <br><br>
-        days later we walked the same sidewalk and saw the weathered impression dissolving back to
-        abstraction. i wonder how many soles picked up pieces of chalk and how far our art walked with them.<br>
-      </p>
-    <img src="./media/field/chalk2.jpeg" style="width:37%; margin-left:30%">
-
-    </div>
-
 
     <br><br><br>
     <br><br><br>
 
-    <!--transportation map-->
-    <div>
-      <img src="./media/process/transit-map.png " id="field-image"></img>
-      <div id="scroll-box">
-          <div id="scroll-text">
-              Two months after I arrived in vancouver I began classes and TAing the undergraduate cartography course.
-              My role as TA involved facilitating 3 lab sessions a week during which I'd introduce the assignment,
-              demonstrate the use of Adobe Illustrator and ArcGIS, and troubleshoot questions. I also marked all 60
-              students' weekly lab submissions, the majority of which were maps. The first lab assignment was to make
-              a map of downtown Vancouver by tracing a screenshot from google maps. The rubric required land and water
-              be differentiated by contour and color, a few 'well known' streets, and 5 points of interest which were
-              given. The resulting map no practical use beyond an image. A tourist could not use it for navigation
-              without referring to google maps. Which made me wonder whether these maps of the city reflected
-              students' lived experience? And if not, what did they render? Or, rather, render invisible?
-  
-              I, like many colleagues and undergraduate students, had just moved here. Overwhelm dealing with
-              household drama and academic demoralization it took me 6 months before I ventured downtown. I marked 60
-              maps of a place I'd never been. They were arrangements of points, lines, and polygons for which I had no
-              contextual mental map. By my third term TAing the class I'd walked nearly every street downtown. Before
-              the first lab I invited students to spend 5 minutes sketching their mental map of vancouver. Nearly all
-              were attempts at reproducing a memorized aerial contour. Areas of inhabitation or commute were more
-              articulated/detailed. I think this is important somehow - the practice of connecting (with) your mental
-              map before abstracting a place you know from on-the-ground navigation. It helps reveal what flat maps
-              relegate to negative space. The required points of attraction I still haven't been to - and probably
-              never will. They aren't what interest me.
-          </div>
-      </div>
-    </div>
+
     <br><br><br>
     <br><br><br>
     <!--spin chair-->
@@ -658,44 +559,7 @@ What this page is about...
 </div>
 
 
-<!--intersections-->
-<div id="intersections" class="tabcontent">
-  haha art and science thing<br>
-  yukon
-  <br>
-  broadway city hall detour maps<br>
-  before presentation at aag <br>
-  intersections of planes, of epistemiologies, of life things, of the two motions of a leminscate intersecting in the middle<br>
-  <div id="scroll-box" style="height:420px">
-    <img src="./media/process/napkin-note1.jpg" style="width: 100%">
-    </img>
-    <img src="./media/process/napkin-note2.jpg" style="width: 100%">
-    </img>
-    <div id="scroll-text">
-        Notes on rhythm and intersecting planes which came to me while sitting listening to live jazz in an open
-        studio one saturday with my friend.
-        <!--
-        <span style="float: left; margin-left:10%">
-            On rhythms - understanding<br>
-            I played classical and folk repertoire seriously for 11 years. By serious, I mean I kept a consistent
-            practice. A practice is a commitment to practicing.
-            Internalization of rhythm necessary even before music is made/played/actualized. Orchestras breathe together.
-        </span> 
-        -->
-    </div>
 
-
-    
-</div>
-<br><br>
-<iframe width="400" height="400"  src="https://www.youtube.com/embed/1Du5D1sfWP8?autoplay=1&mute=1">
-</iframe>
-  <div id="scroll-text">
-    Thinking about rhythmanalysis before I'd even heard of the book. 
-  </div>
-  <iframe width="420" height="415" id="field-image" src="https://www.youtube.com/embed/TUpuXq1uMj4?autoplay=1&mute=1">
-  </iframe>
-</div>
 
 <!--find the drift-->
 <div id="find-the-drift" class="tabcontent">
@@ -854,15 +718,64 @@ What this page is about...
    </div>
 
 
+   <!--new animal in town-->
+<div id="tracing-as-placing" class="tabcontent">
+  <div class="column10" style="margin:auto;">
+    <p>
+      <span style="font-weight:400; font-size:13">TRACING AS PLACING</span>
+      <br>
+      Reading Barad (2007) and de Certeau (1984) through one another, I believe place and space to be phenomenal expressions of the world differentially articulated through trace and practice. In <i>The Practice of Everyday Life</i> (1984), Michel de Certeau relationally articulates space and place with the following: "<i>space is a practiced place</i>" (117, emphasis in original). He writes,
+       </p>
+    
+       <!--site 5: de certeau space and place sitation -->
+       <div  style="width:80%; margin-left:10%">
+        <img src="./media/commonplace/deCerteau1984_117.jpg" style="width: 100%">
+        <br>
+        <span style="font-size:13px;">from de Certeau, Michel. 1984. <i>The Practice of Everyday Life.</i> Translated by Steven Rendall. Berkeley: University of California Press.</span>
+        <br>
+      </div>
+    
+      <p>
+        Google’s map of Vancouver abides by the law of the "proper". It produces the city as a place wherein each element has a distinct location. Position is made determinate by a spatial configuration which "excludes the possibility of two things being in the same location (<i>place</i>)" (de Certeau 1984, 117, emphasis in original). Such a static, Cartesian coordination allows for navigation to be routed (by Google) from one element to another. The navigational possibilities, however, remain determined (and constrained) by the law whose logic governs this map: follow streets, not alleys; walk on sidewalks; don’t jay-walk; turn right here, not at the next block. Disorientation is a destination not found by Google Maps, which asks in response, "Should this place be on Google Maps?"  ("Google Maps" n.d.). 
+      </p>
+    
+      <!--site 6: google maps sitation-->
+      <div  style="width:67%; margin-left:15%">
+        <img src="./media/field/disorientation.png" style="width: 100%">
+        <br>
+        <span style="font-size:13px;"> Screenshot of Google Maps search for 'disorientation'.  Google maps responds: Google Maps cant find <i>disorientation</i>. Click <a href="https://www.google.com/maps/search/disorientation/@49.2564613,-123.1824201,12z?entry=ttu" target="_blank"><b>here</b></a> for same search. 
+      </div>
+    
+      <!-- <div  style="height:200px; width:700px; overflow:scroll; margin:auto">
+        <img src="./media/commonplace/Lefebvre1996_108-9.jpg" style="width: 110%">
+        </img>
+        <img src="./media/commonplace/Lefebvre1996_110.jpg" style="width: 100%">
+        </img><br>
+        Lefebvre, Henri. “Right to the City.” In <i>Writings on Cities,</i> translated by Eleonore Kofman and Elizabeth Lebas. Cambridge, Mass: Blackwell, 1996.
+        </div>  -->
+    
+    
+      <p>
+        Yet de Certeau contends it is pedestrian movements that spatialize the city, writing, "space is composed of intersections of mobile elements…space occurs as the effect produced by the operations that orient it, situate it, temporalize it…" (1984, 117). While urban geographers and planners may theorize and design the city, urban space is produced through everyday navigations and encounters. If the apprehension of place renders position determinate, the motion that spatializes renders position indeterminate: "to walk is to lack a place" (de Certeau 1984, 103). Google Maps imposes the law of the "proper" upon navigation by substituting "a mark <i>in place of</i> acts, a relic in place of performances: it is only their remainder, the sign of their erasure" (de Certeau 1984, 35, emphasis in original). The relationship between place and space seems entangled with that between trace and practice. In <code><a href="./practice.html">negative-spaces/practice.html</a></code>, I introduced the iterative spatial practices of eurythmy and form drawing I grew up practicing as part of Waldorf education. Each week, beginning in first grade, we would sit for an hour in silence drawing a single form over and over, our crayon in constant contact with the page. Writes form drawing teacher Rosemary Gerbert, "a form drawing is a present record of a past movement, the remaining trace of a finished gesture" (1987, 9). Tracing is a practice of (spatial) citation. Tracing is still practice. It is the trace which, once framed as the output, marks the effects of an interference practice and in so doing, renders the practice by which it was constituted unintelligible. Places, like objects of knowledge, are not preexisting entities but "boundary projects" (Haraway 1988, 595) drawn into being by boundary making practices such as tracing. If space, time, and matter are phenomena (Barad 2007), places are as well. Position may take on determinate values whose measurements refer to situated locations rendered intelligible within and as part of a place phenomenon. The source of the map produced through the cartography assignment I TAed was not Google Maps' aerial view of the city but rather the practices of tracing and exclusion which constituted downtown as an object of observation. Objectivity requires reference be made not (only) of Google Maps but the place phenomenon within which downtown Vancouver emerged as an object of knowledge. 
+      </p>
+    
+      <p>
+        We live in a moment where locative technology is ubiquitous. Becoming lost no longer requires going out of one's way. Instead, "disoriented discovery" (Kurgan 2013) begins with a choice to not reference Google Maps, to turn location off and allow position to remain indeterminate. I am particularly interested in how pedestrian tracings of Google Maps — a locative technology which renders the city down from above as a place — inform everyday navigations and thus the production of urban space. My future research will conduct further investigation into how Google Maps defines intra-actions between humans and urban infrastructure, becoming part of dialogue with the urban surround it both enables and constrains.
+      </p>
+      
+
+       
+    </div>
+</div>
    <!--practice disoriented discovery -->
       <!-- <div class="vignette" style="width:50%; margin:auto;">
         Destination-oriented navigation must not needs be direct(ed) movement from one location to another. 
         <br><br>
         Choose a destination you can navigate to without the use of Google Maps. Begin from a familiar location. Try navigating there by taking a detour or making up an alternative route. How far out of your way can you go? Practice the exercise again but beginning from an unfamiliar location. What changes? 
         <br><br><br>
-      Choose a destination you have been to before but which you must pass through an unfamiliar to reach. Perhaps you’ve navigated there in the past, but used Google Maps to guide your use of public transport. Or it was late and dark and you couldn’t quite make out the landmarks blurred by the rain. Beginning from a familiar location––your home for example––navigate towards your destination without the use of Google Maps. Reflect on what senses/memories/stimuli you used to guide you. Did you encounter anything surprising or before unknown in the process? 
+      Choose a destination you have been to before but which you must pass through an unfamiliar to reach. Perhaps you’ve navigated there in the past, but used Google Maps to guide your use of public transport. Or it was late and dark and you couldn’t quite make out the landmarks blurred by the rain. Beginning from a familiar location—your home for example—navigate towards your destination without the use of Google Maps. Reflect on what senses/memories/stimuli you used to guide you. Did you encounter anything surprising or before unknown in the process? 
       <br><br>
-      Or go on a drift alone or with a friend - turning towards unfamiliarity as far as you can go. Get on a bus and get off on impulse.
+      Or go on a drift alone or with a friend — turning towards unfamiliarity as far as you can go. Get on a bus and get off on impulse.
       <br><br>
     </div> -->
 
