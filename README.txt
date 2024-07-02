@@ -1,0 +1,3 @@
+ If you are reading this, it means you have successfully unzipped the compressed file 
+ ubc_2024_november_crandalloral_lilydemet_negative-spaces.zip and are now in the folder negative-spaces. To enter engage my thesis website, double click the file index.html to open it in a web browser. If this does not work, right-click (control-click) index.html, and then select your preferred web browser with which to open it. 
+ 
