@@ -16,7 +16,11 @@
   letter-spacing: 0.08mm;
 }
 
-
+/* line break around block quotes that are mid paragraph */
+.brmedium {
+  display:flex;
+  margin-bottom: .8em;
+}
 
 /* paragraph text */
 p {
