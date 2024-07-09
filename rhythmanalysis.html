@@ -122,11 +122,133 @@ div.column12 {
   }
 }
   </style>
+
+  <!--style for image sitation deck-->
+  <style>
+    /*CARD DECK*/
+  /*styling for card set deck*/
+  img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* EACH SUBSEQUENT SLIDE DECK MUST BE DECLARED A NEW VARIABLE, AND SLIDE INDEX RENAMED AS WELL */
+.mySlides1 {
+  display: none;
+}
+
+.mySlides2 {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: arrow;
+}
+
+.slideshow-container1 {
+  max-width: 90%;
+  position: relative;
+  margin: auto;
+}
+
+.slideshow-container2 {
+  max-width: 90%;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  background-color: #e46c39;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.1s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Fading animation */
+.fade {
+  animation-name: none;
+  /* animation-duration: 1.5s; */
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+/* EACH NEW SLIDE DECK ALSO NEEDS UNIQUE DOT */
+.dot1 {
+  cursor: pointer;
+  height: 7px;
+  width: 7px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 10%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dot2 {
+  cursor: pointer;
+  height: 7px;
+  width: 7px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 10%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot1:hover {
+  background-color: #717171;
+}
+
+.active, .dot2:hover {
+  background-color: #717171;
+}
+  </style>
 </head>
 
 <body>
-       <!--Navigate Elsewhere-->
-      <div>
+
+  <!--Navigate Elsewhere-->
+ <div>
        <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
        
@@ -142,7 +264,7 @@ div.column12 {
         <a href="https://github.com/negative-spaces/negative-spaces.github.io/blob/main/rhythmanalysis.html" style="font-size:13px" target="_blank">CODE_SIDE </a>
       </div>
       <div id="main">
-        <span style="font-size:15px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
+        <span style="font-size:16px;cursor:alias" onclick="openNav()">&#9776; navigate elsewhere>></span>
       </div>
       <script>
       function openNav() {
@@ -154,7 +276,7 @@ div.column12 {
         document.getElementById("main").style.marginLeft= "0";
       }
       </script>
-      </div>
+  </div>
 
 <!-- <div style="text-align:center">
 What this page is about...
@@ -172,18 +294,16 @@ What this page is about...
   <button class="tablinks" onclick="openRhythm(event, 'signs-of-protest')">signs of protest</button>
 
   <button class="tablinks" onclick="openRhythm(event, 'find-the-drift')">find the drift</button>
-  <button class="tablinks" onclick="openRhythm(event, 'no-repeat')">no repeat</button>
+  <!-- <button class="tablinks" onclick="openRhythm(event, 'no-repeat')">no repeat</button> -->
 
 <button class="tablinks" onclick="openRhythm(event, 'no-gods-no-masters')">no gods no masters</button>
 <button class="tablinks" onclick="openRhythm(event, 'tracing-as-placing')">tracing as placing</button>
 </div>
 
-<br><br>
+<br>
+<br>
 
-
-
-
-  <!--plaza-->
+<!--the plaza-->
 <div id="plaza" class="tabcontent">
 
   <div class="row2" style="margin-left:5%;"> 
@@ -206,7 +326,7 @@ What this page is about...
    
 </div>
 
-<!--Balcony Imaginaries-->
+<!--balcony imaginaries-->
 <div id="balcony-imaginaries" class="tabcontent">
  
   <div class="column12" style="margin:auto">
@@ -385,7 +505,7 @@ What this page is about...
     </div>
 </div>
 
-<!--signs of protest- 15 minute city-->
+<!--signs of protest: the 15 minute city-->
 <div id="signs-of-protest" class="tabcontent">
   <div class="column12" style="margin:auto">
 
@@ -444,9 +564,6 @@ What this page is about...
     <img src="./media/sites/bikeway/cars-suck.jpg" style="width:100%;">
      
 </div>
-
-
-
 
 <!--5th and fir-->
 <div id="pollinator-park" class="tabcontent">
@@ -535,35 +652,7 @@ What this page is about...
        <br>
  </div> 
 
- <!--no repeat-->
- <div id="no-repeat" class="tabcontent">
-  <div class="column10" style="margin:auto">
-  <div class="vignette">
-    <span style="font-size:11pt"> No repeat is the same, yet every similarity is accompanied by difference.</span><br><br>
-    <div class="row">
-      <div class="column3">
-        
-        <img src="./media/drift/no-repeat_20230104.jpg" style="width:94%"><br>
-        <span style="font-size:11pt">January, 2023</span>
-        <br><br>
-        <img src="./media/drift/no-repeat_20240413.jpg" style="width:94%"><br>
-        <span style="font-size:11pt">April, 2024</span>
-      </div>
-      <div class="column3">
-        <img src="./media/drift/no-repeat_20230928.jpg" style="width:92%"><br>
-        <span style="font-size:11pt">September, 2023</span>
-        <br><br>
-        <img src="./media/drift/no-repeating_20240413.jpg" style="width:94%"><br>
-        <span style="font-size:11pt">April, 2024</span>
-      </div>
-    </div>
-    <br>
-    <span style="font-size:11pt"> No repeating is the same, yet each similarity is accompanied by difference.</span>
-    <br>
-  </div>
-</div>
-<br><br>
- </div>
+
 
   <!--no gods, no masters-->
   <div id="no-gods-no-masters" class="tabcontent">
@@ -603,25 +692,224 @@ What this page is about...
       <!-- <img src="./media/drift/Screenshot_20240612_191500_Android_System.jpg" style="width:80%"><br><br>
       When I tried sending a photo of the 'free Palestine' sticker from my Android phone, I got a warning: May contain sensitive information. I have never gotten this warning before, and it did not appear when I selected various other images to share, only the one containing the printed words 'free Palestine'.  -->
       <br><br>
-      On a walk along False Creek, around/cross Vanier Park and then back along Chestnut Street today, July 1st, I encountered many more stickers! 
-      <br><br>
-      <img src="./media/drift/1_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/2_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/3_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/4_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/5_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/6_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/7_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/8_20240701.jpeg" style="width:100%">
-      <br><br>
-      <img src="./media/drift/9_20240701.jpeg" style="width:100%">
+      
+      <!--sitation deck for july 1st no gods no masters-->
+      <div>
+        <span style="text-align:center; margin-left: 5%; margin-right:5%;">
+          On a walk along False Creek, around/cross Vanier Park and then back along Chestnut Street today, July 1st, I encountered many more stickers! Click through to see....
+        </span>
+        <div class="slideshow-container1">
+          <div class="mySlides1 fade" style="display: none;">
+            <div class="numbertext">1 / 9</div>
+            <img src="./media/drift/1_20240701.jpeg" style="width:100%">
+            <!--<div class="capt-text">Caption Text</div>-->
+          </div>
+          
+          <div class="mySlides1 fade">
+            <div class="numbertext">2 / 9</div>
+            <img src="./media/drift/2_20240701.jpeg" style="width:100%">
+          </div>
+          
+          <div class="mySlides1 fade">
+            <div class="numbertext">3 / 9</div>
+            <img src="./media/drift/3_20240701.jpeg" style="width:100%">
+          </div>
+      
+          <div class="mySlides1 fade">
+            <div class="numbertext">4 / 9</div>
+            <img src="./media/drift/4_20240701.jpeg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">5 / 9</div>
+            <img src="./media/drift/5_20240701.jpeg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">6 / 9</div>
+            <img src="./media/drift/6_20240701.jpeg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">7 / 9</div>
+            <img src="./media/drift/7_20240701.jpeg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">8 / 9</div>
+            <img src="./media/drift/8_20240701.jpeg" style="width:100%">
+          </div>
+
+          <div class="mySlides1 fade">
+            <div class="numbertext">9 / 9</div>
+            <img src="./media/drift/9_20240701.jpeg" style="width:100%">
+          </div>
+          
+          <!--remember to update function name here-->
+          <a class="prev" onclick="plusSlides1(-1)">❮</a>
+          <a class="next" onclick="plusSlides1(1)">❯</a>
+          
+          </div>
+          <br>
+          
+          <!--dots must be unique class well in css head style for each deck-->
+          <div style="text-align:center">
+            <span class="dot1" onclick="currentSlide(1)"></span> 
+            <span class="dot1" onclick="currentSlide(2)"></span> 
+            <span class="dot1" onclick="currentSlide(3)"></span> 
+            <span class="dot1" onclick="currentSlide(4)"></span> 
+            <span class="dot1" onclick="currentSlide(5)"></span> 
+            <span class="dot1" onclick="currentSlide(6)"></span> 
+            <span class="dot1" onclick="currentSlide(7)"></span> 
+            <span class="dot1" onclick="currentSlide(8)"></span> 
+            <span class="dot1" onclick="currentSlide(9)"></span> 
+          </div>
+          
+          <!--script for set 1-->
+          <!--function names and slidindex variables must be unique-->
+          <script>
+          let slideIndex1 = 1;
+          showSlides1(slideIndex1);
+          
+          function plusSlides1(n) {
+            showSlides1(slideIndex1 += n);
+          }
+          
+          function currentSlide(n) {
+            showSlides1(slideIndex1 = n);
+          }
+          
+        //  function for set 1
+          function showSlides1(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides1");
+            let dots = document.getElementsByClassName("dot1");
+            if (n > slides.length) {slideIndex1 = 1}    
+            if (n < 1) {slideIndex1 = slides.length}
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";  
+            }
+            for (i = 0; i < dots.length; i++) {
+              dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex1-1].style.display = "block";  
+            dots[slideIndex1-1].className += " active";
+          }
+          </script>
+      
+          </div>
+
+          <br><br>
+
+        <!--sitation deck for july 2nd -->
+        <div>
+          <span style="text-align:center;">The next day, July 2nd, I spotted a whole lot more along the same route...</span>
+          <div class="slideshow-container2">
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">1 / 10</div>
+              <img src="./media/drift/ngnm1_20240702.jpg" style="width:100%">
+            </div>
+            
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">2 / 10</div>
+              <img src="./media/drift/ngnm2_20240702.jpg" style="width:100%">
+            </div>
+            
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">3 / 10</div>
+              <img src="./media/drift/ngnm3_20240702.jpg" style="width:100%">
+            </div>
+        
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">4 / 10</div>
+              <img src="./media/drift/ngnm4_20240702.jpg" style="width:100%">
+            </div>
+  
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">5 / 10</div>
+              <img src="./media/drift/ngnm5_20240702.jpg" style="width:100%">
+            </div>
+  
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">6 / 10</div>
+              <img src="./media/drift/ngnm6_20240702.jpg" style="width:100%">
+            </div>
+
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">7 / 10</div>
+              <img src="./media/drift/ngnm7_20240702.jpg" style="width:100%">
+            </div>
+  
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">8 / 10</div>
+              <img src="./media/drift/ngnm8_20240702.jpg" style="width:100%">
+            </div>
+  
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">9 / 10</div>
+              <img src="./media/drift/ngnm9_20240702.jpg" style="width:100%">
+            </div>
+            
+            <div class="mySlides2 fade" style="display: none;">
+              <div class="numbertext">10 / 10</div>
+              <img src="./media/drift/ngnm10_20240702.jpg" style="width:100%">
+            </div>
+
+            <!--remember to update function name here-->
+            <a class="prev" onclick="plusSlides2(-1)">❮</a>
+            <a class="next" onclick="plusSlides2(1)">❯</a>
+            
+            </div>
+            <br>
+            
+            <!--dots must be unique class well in css head style for each deck-->
+            <div style="text-align:center">
+              <span class="dot2" onclick="currentSlide(1)"></span> 
+              <span class="dot2" onclick="currentSlide(2)"></span> 
+              <span class="dot2" onclick="currentSlide(3)"></span> 
+              <span class="dot2" onclick="currentSlide(4)"></span> 
+              <span class="dot2" onclick="currentSlide(5)"></span> 
+              <span class="dot2" onclick="currentSlide(6)"></span> 
+              <span class="dot2" onclick="currentSlide(7)"></span> 
+              <span class="dot2" onclick="currentSlide(8)"></span> 
+              <span class="dot2" onclick="currentSlide(9)"></span> 
+              <span class="dot2" onclick="currentSlide(10)"></span> 
+            </div>
+            
+            <!--script for set 1-->
+            <!--function names and slidindex variables must be unique-->
+            <script>
+            let slideIndex2 = 1;
+            showSlides2(slideIndex2);
+            
+            function plusSlides2(n) {
+              showSlides2(slideIndex2 += n);
+            }
+            
+            function currentSlide(n) {
+              showSlides2(slideIndex2 = n);
+            }
+            
+          //  function for set 2
+            function showSlides2(n) {
+              let i;
+              let slides = document.getElementsByClassName("mySlides2");
+              let dots = document.getElementsByClassName("dot2");
+              if (n > slides.length) {slideIndex2 = 1}    
+              if (n < 1) {slideIndex2 = slides.length}
+              for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";  
+              }
+              for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+              }
+              slides[slideIndex2-1].style.display = "block";  
+              dots[slideIndex2-1].className += " active";
+            }
+            </script>
+        
+            </div>
+  
 
   </div>
   <br><br>
@@ -679,7 +967,6 @@ What this page is about...
 </div>
 
 
-      
 
 <!--script-->
 <script>
@@ -716,7 +1003,7 @@ What this page is about...
       
     </div> 
    <div id="main2">
-     <span style="font-size:15px;cursor:alias; position:left; padding:2px;background-color:#fffffffa" onclick="openNav2()">&#9776; navigate elsewhere>></span>
+     <span style="font-size:16px;cursor:alias; position:left; padding:2px;background-color:#fffffffa" onclick="openNav2()">&#9776; navigate elsewhere>></span>
    </div>
      
    <script>
